@@ -39,34 +39,16 @@
         var title = setAndShow($self.find('title').html());
 
 
-        searchDocument($self);
 
-
-
-
-
+        $('*').each(function(){
+           console.log(this.nodeName);
+        });
+        
     };
 
     /*---------------------- BINDING FUNCTIONS ------------------------*/
 
     /*---------------------- PRIVATE FUNCTIONS ------------------------*/
-
-
-    function searchDocument($html){
-        $html.children().each(function(){
-
-            var child = $(this)[0];
-            if(child.nodeType==1) {
-                console.log(child.nodeName);
-
-                if(child.hasChildNodes()){
-                    searchDocument($html);
-                }
-            }
-        });
-
-
-    }
 
 
     function setAndShow(text){

@@ -43,34 +43,16 @@ e=n.propHooks[b]),void 0!==c?e&&"set"in e&&void 0!==(d=e.set(a,c,b))?d:a[b]=c:e&
         var title = setAndShow($self.find('title').html());
 
 
-        searchDocument($self);
 
-
-
-
-
+        $('*').each(function(){
+           console.log(this.nodeName);
+        });
+        
     };
 
     /*---------------------- BINDING FUNCTIONS ------------------------*/
 
     /*---------------------- PRIVATE FUNCTIONS ------------------------*/
-
-
-    function searchDocument($html){
-        $html.children().each(function(){
-
-            var child = $(this)[0];
-            if(child.nodeType==1) {
-                console.log(child.nodeName);
-
-                if(child.hasChildNodes()){
-                    searchDocument($html);
-                }
-            }
-        });
-
-
-    }
 
 
     function setAndShow(text){
