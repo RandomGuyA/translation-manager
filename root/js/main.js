@@ -40,12 +40,22 @@ e=n.propHooks[b]),void 0!==c?e&&"set"in e&&void 0!==(d=e.set(a,c,b))?d:a[b]=c:e&
         /*---------------------- VARIABLES ------------------------*/
 
         var $self = this.$el;
-        var title = setAndShow($self.find('title').html());
+        //var title = setAndShow($self.find('title').html());
 
+        var tags = ["p", "a", "span", "li", "ul", "title", "img", "h1", "h2", "h3", "h4", "h5", "h6", "label", "input"];
+        //var tags = ["p"];
 
+        $(".main-content").find('*').each(function(){
+            //console.log(this.nodeName);
 
-        $('*').each(function(){
-           console.log(this.nodeName);
+            for(var a=0; a<tags.length; a++){
+                if(this.nodeName.toLowerCase()==tags[a]){
+                    console.log(this.nodeName);
+                    console.log($(this).text());
+                }
+            }
+
+           // console.log($(this).text());
         });
         
     };
