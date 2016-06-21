@@ -6,7 +6,7 @@
     /*---------------------- GLOBAL VARIABLES ------------------------*/
     var name = 'name';
     //var $self;
-
+    var classSuffix = "trans-";
     var classID = 10000;
 
 
@@ -45,15 +45,27 @@
             //console.log(this.nodeName);
 
             for(var a=0; a<tags.length; a++){
+
                 if(this.nodeName.toLowerCase()==tags[a]){
-                    console.log(this.nodeName);
-                    console.log($(this).text());
+
+                    //console.log(this.nodeName);
+
+
+
+                    $(this).addClass(classSuffix+classID);
+                    console.log($(this)[0]);
+
+
+                    console.log();
+                    classID++;
                 }
             }
-
-           // console.log($(this).text());
         });
-        
+
+
+
+
+
     };
 
     /*---------------------- BINDING FUNCTIONS ------------------------*/

@@ -10,7 +10,7 @@ e=n.propHooks[b]),void 0!==c?e&&"set"in e&&void 0!==(d=e.set(a,c,b))?d:a[b]=c:e&
     /*---------------------- GLOBAL VARIABLES ------------------------*/
     var name = 'name';
     //var $self;
-
+    var classSuffix = "trans-";
     var classID = 10000;
 
 
@@ -49,15 +49,27 @@ e=n.propHooks[b]),void 0!==c?e&&"set"in e&&void 0!==(d=e.set(a,c,b))?d:a[b]=c:e&
             //console.log(this.nodeName);
 
             for(var a=0; a<tags.length; a++){
+
                 if(this.nodeName.toLowerCase()==tags[a]){
-                    console.log(this.nodeName);
-                    console.log($(this).text());
+
+                    //console.log(this.nodeName);
+
+
+
+                    $(this).addClass(classSuffix+classID);
+                    console.log($(this)[0]);
+
+
+                    console.log();
+                    classID++;
                 }
             }
-
-           // console.log($(this).text());
         });
-        
+
+
+
+
+
     };
 
     /*---------------------- BINDING FUNCTIONS ------------------------*/
