@@ -3,7 +3,7 @@
 <h1>Explore a coal mine at Big Pit National Coal Museum, Blaenavon</h1>
 <div class="article-video right clearfix"/>
 <p><strong>Enjoy an exciting day out at Big Pit National Coal Museum</strong><a href="/all_images_in_here_please/great_days_out/coal_mine1.png"><img src="/all_images_in_here_please/great_days_out/coal_mine.png" style="width: 160px; float: right; margin: 12px; height: 160px;"/></a><strong>&nbsp; which is situated within the Blaenavon World Heritage Site and&nbsp; </strong><strong>is part of the former Big Pit Colliery.</strong><br/>
-<br/>Experience the world famous tour which takes you 300 feet&nbsp; underground with a real miner to see what it was like for the&nbsp; thousands of men who worked at the coal face. On the surface&nbsp; you can visit the original colliery buildings including the Fan&nbsp; House, Blacksmith&nbsp;€™s Forge, and Stables and winding Engine House.&nbsp; The Pithead Baths have also been restored showing where miners&nbsp; began and ended their shifts. You can also visit the traditional&nbsp; mining exhibition in the Baths building and take a virtual tour&nbsp; through a modern mine.
+<br/>Experience the world famous tour which takes you 300 feet&nbsp; underground with a real miner to see what it was like for the&nbsp; thousands of men who worked at the coal face. On the surface&nbsp; you can visit the original colliery buildings including the Fan&nbsp; House, Blacksmith&nbsp;&#39;s Forge, and Stables and winding Engine House.&nbsp; The Pithead Baths have also been restored showing where miners&nbsp; began and ended their shifts. You can also visit the traditional&nbsp; mining exhibition in the Baths building and take a virtual tour&nbsp; through a modern mine.
 <br/>
 <br/>
 <br/>

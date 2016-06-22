@@ -84,7 +84,7 @@
 <img src="/all_images_in_here_please/outdoor_activity_images/mountain_biking/green2_icon.png" style="width: 30px; height: 30px; float: right;"/>Usk Reservoir</h3>
 <h4>Distance: 8.9km, 5.5 miles</h4>
 <div>
-<p>This route consists of a circuit of the Usk Reservoir through the forest. You&nbsp;€™ll mostly be riding on hard packed forest roads with a lengthy section on tarmac. The start includes a couple of downhills leading you to the water&nbsp;€™s edge, and after the dam there is a road climb to get the legs really working and the heart pumping.</p>
+<p>This route consists of a circuit of the Usk Reservoir through the forest. You&nbsp;&#39;ll mostly be riding on hard packed forest roads with a lengthy section on tarmac. The start includes a couple of downhills leading you to the water&nbsp;&#39;s edge, and after the dam there is a road climb to get the legs really working and the heart pumping.</p>
 <h6>OS ref SN923 288</h6>
 <h6>Explorer OL12 &amp; Explorer OL13</h6>
 <br/>
@@ -117,7 +117,7 @@
 <img src="/all_downloads/mtb_routes/talgarthred2.jpg" style="width: 284px; margin-top: 15px; margin-bottom: 15px; height: 200px;"/><img src="/all_downloads/mtb_routes/talgarthblack.jpg" style="width: 280px; margin: 15px 5px; height: 200px;"/><br/>
 <img src="/all_images_in_here_please/outdoor_activity_images/mountain_biking/red4_icon.png" style="width: 30px; height: 30px; float: right;"/>Llangorse and Bwlch</h3>
 <h4>Distance: 38.6km, 24 miles</h4>
-<p>The first half of this route is almost entirely off-road. Once you have climbed to the base of Mynydd Troed you follow a bridleway (much used by horses, so it gets quite churned up in wet weather) through bracken. From Cwm Siencyn, it&nbsp;€™s up onto the top of Cefn Moel and down, down, down to the village of Bwlch.</p>
+<p>The first half of this route is almost entirely off-road. Once you have climbed to the base of Mynydd Troed you follow a bridleway (much used by horses, so it gets quite churned up in wet weather) through bracken. From Cwm Siencyn, it&nbsp;&#39;s up onto the top of Cefn Moel and down, down, down to the village of Bwlch.</p>
 <p>From Bwlch you go up to the knife edged ridge of Allt yr Esgair with its impressively sited Iron Age hill fort. Take a while to gaze at the views and imagine how life was for those Iron Age folk. Descend, now, on a narrow path to Pennorth and make your way back to Talgarth following bridleways and lanes around Llangorse Lake and surrounding area.</p>
 <h6>OS ref GR154 338</h6>
 <div>
@@ -148,7 +148,7 @@
 <h1>Talybont-on-Usk</h1>
 <p>
 <img src="/website/var/tmp/thumb_1443__auto_4f37c6859bd0bff15e24d5636ff1e4c5.jpeg" style="width: 200px; margin-left: 15px; margin-right: 15px; height: 127px; float: right;"/>The region around Talybont-on-Usk appeals to cyclists of all abilities as both the Taff Trail and the Monmouthshire and Brecon Canal towpath pass through it.</p>
-<p>With three routes from novice level to a challenging 34km figure of eight loop, there&nbsp;€™s riding to suit all from this charming village.</p>
+<p>With three routes from novice level to a challenging 34km figure of eight loop, there&nbsp;&#39;s riding to suit all from this charming village.</p>
 <p>A trio of pubs and the Talybont Stores CafÃ&copy; offer refreshments. There's also a range of accommodation in and around the village.</p>
 <div>
 <p>Pleas use the car park at Henderson Hall, Penpentre, if you intend to leave your car all day. There is an honesty box for your contribution.</p>

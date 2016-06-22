@@ -7,18 +7,18 @@
 <span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Spend the day combining town and country</span></span></span><br/>
 <span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">pleasures on a</span></span></span><span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">vi</span></span></span><span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">sit to beautiful Abergavenny, the gateway to the Brecon Beacons National Park.</span></span></span><br/>&nbsp; </div>
 <div>
-<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">With an impressive 19th Century Market Hall and some excellent shops in town, the morning will fly by quite happily. The main market day is Tuesday &nbsp;€“ but there are alternative markets many days of the week &nbsp;€“ check with the Visitor Information Centre (01873 853254)</span></span></span></div>
+<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">With an impressive 19th Century Market Hall and some excellent shops in town, the morning will fly by quite happily. The main market day is Tuesday &nbsp;&#45; but there are alternative markets many days of the week &nbsp;&#45; check with the Visitor Information Centre (01873 853254)</span></span></span></div>
 <div>&nbsp; </div>
 <div>
-<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">For those who like to take some culture with their lunch, a visit to the recently restored 12th Century Tithe Barn and Food Hall &nbsp; and adjacent St Mary&nbsp;€™s Church might hit the spot. The Food Hall prides itself on its tasty, locally sourced, contemporary Welsh cuisine and you could follow coffee with a wander around the free exhibition which houses a tapestry that was hand stitched by Abergavenny residents to commemorate the millenium in 2000..</span></span></span></div>
+<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">For those who like to take some culture with their lunch, a visit to the recently restored 12th Century Tithe Barn and Food Hall &nbsp; and adjacent St Mary&nbsp;&#39;s Church might hit the spot. The Food Hall prides itself on its tasty, locally sourced, contemporary Welsh cuisine and you could follow coffee with a wander around the free exhibition which houses a tapestry that was hand stitched by Abergavenny residents to commemorate the millenium in 2000..</span></span></span></div>
 <div>&nbsp; </div>
 <div>
-<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">After lunch, a gentle riverside walk in Castle Meadows is always an enjoyable way to spend the afternoon. The river Usk has been designated a SSSI and teams with wildlife. If you are lucky you may even see one of the resid</span></span></span><span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">ent kingfishers, but providing the weather is on your side, fantastic views of the Sugarloaf and Blorenge mountains&nbsp;€™ are guaranteed.</span></span></span></div>
+<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">After lunch, a gentle riverside walk in Castle Meadows is always an enjoyable way to spend the afternoon. The river Usk has been designated a SSSI and teams with wildlife. If you are lucky you may even see one of the resid</span></span></span><span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">ent kingfishers, but providing the weather is on your side, fantastic views of the Sugarloaf and Blorenge mountains&nbsp;&#39; are guaranteed.</span></span></span></div>
 <div>&nbsp; </div>
 <div>
-<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Next take a tour around St Mary&nbsp;€™s Church and see the unique &nbsp;€˜Jesse figure&nbsp;€™ carved from a single piece of oak in the 15th Century, it&nbsp;€™s the only one in the U.K and probably the world.</span></span></span></div>
+<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Next take a tour around St Mary&nbsp;&#39;s Church and see the unique &nbsp;€˜Jesse figure&nbsp;&#39; carved from a single piece of oak in the 15th Century, it&nbsp;&#39;s the only one in the U.K and probably the world.</span></span></span></div>
 <div>
-<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">St Mary&nbsp;€™s also has the second largest single collection of medieval monuments in a parish church in the U.K, extending from 13th Century to about 1510 in wood alabaster and freestone.</span></span></span><br/>
+<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">St Mary&nbsp;&#39;s also has the second largest single collection of medieval monuments in a parish church in the U.K, extending from 13th Century to about 1510 in wood alabaster and freestone.</span></span></span><br/>
 <br/>
 <h3 style="color: rgb(105, 105, 105); font-family: 'Lucida Grande','Lucida sans',Verdana,Helvetica,Arial,sans-serif; margin: 0px; font-size: 18px; border-bottom-style: none; padding: 5px; background-color: rgb(87, 134, 67);">
 <span style="color: rgb(255, 255, 255);">Sample Itinerary</span></h3>
@@ -43,7 +43,7 @@
 <div>
 <h4 style="margin-left: 40px;">&nbsp; </h4></div>
 <div>
-<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">The Tithe Barn, Food Hall and St Mary&nbsp;€™s Church are found by the exit at the top of the car par</span></span></span><span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">k</span></span></span></div>
+<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">The Tithe Barn, Food Hall and St Mary&nbsp;&#39;s Church are found by the exit at the top of the car par</span></span></span><span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">k</span></span></span></div>
 <div>&nbsp; </div>
 <h4>
 <span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Castle Meadows&nbsp; </span></span></span></h4>
@@ -65,7 +65,7 @@
 <div>&nbsp; </div>
 <div>&nbsp; </div>
 <div>
-<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">St Mary&nbsp;€™s Church is open</span></span></span><br/>
+<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">St Mary&nbsp;&#39;s Church is open</span></span></span><br/>
 <span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">11.00 to 15.00 Monday to Saturday</span></span></span></div>
 <div>
 <span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">and 14.00 to 16.00 on a Sunday.</span></span></span></div>
@@ -78,7 +78,7 @@
 <h4>
 <span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Public Transport</span></span></span></h4>
 <div>
-<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">By Train the nearest station is Abergavenny &nbsp;€“ the Visitor Information centre is just less than 1km walk.</span></span></span></div>
+<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">By Train the nearest station is Abergavenny &nbsp;&#45; the Visitor Information centre is just less than 1km walk.</span></span></span></div>
 <div>&nbsp; </div>
 <div>
 <span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">By bus: Stagecoach (www.stagecoachbus.com). Beacons bus service on Sundays and bank</span></span></span>

@@ -2,14 +2,14 @@
 <!--SearchStart//-->
 <h1>30. Riverside Walk and the Warren, Hay-on-Wye</h1>
 <div class="article-video right clearfix"/>
-<p><span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">The riverside walk or Bailey Walk follows the old railway line alongside the wooded banks of the River Wye and leads to an area of grassland known locally as the &nbsp;€˜Warren&nbsp;€™.
+<p><span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">The riverside walk or Bailey Walk follows the old railway line alongside the wooded banks of the River Wye and leads to an area of grassland known locally as the &nbsp;€˜Warren&nbsp;&#39;.
 <br/>
 <br/>
 <span style="color:#006400;">Further Information</span><br/>
 <br/>This is a level walk, with up to four different start points. The surface of the old railway line route itself is mainly compacted earth and stone dust. There are two wide kissing gates along the route and a third gate at Gypsy Castle Lane car park which can also be fully-opened using a RADAR key to allow a mobility scooter through (please re-lock the gate after you've passed through it). When you reach the open ground of The Warren, the route down to the river the surface changes to compacted earth and grass. This area is grazed by sheep and has a large number of molehills.
 <br/>
 <br/>
-<span style="color:#006400;">How to get there:</span>This route has several start points in Hay-on-Wye: a footpath next to St Mary&nbsp;€™s Church; next to the Wye river bridge down a short, but steep incline; via Wye Ford Lane across a rough and stony car park; Gyspy Castle Lane, down the stony and potholed track.
+<span style="color:#006400;">How to get there:</span>This route has several start points in Hay-on-Wye: a footpath next to St Mary&nbsp;&#39;s Church; next to the Wye river bridge down a short, but steep incline; via Wye Ford Lane across a rough and stony car park; Gyspy Castle Lane, down the stony and potholed track.
 <br/>
 <br/>
 <span style="color:#006400;">Nearest town/Village:</span>Hay-on-Wye.

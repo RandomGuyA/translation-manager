@@ -4,7 +4,7 @@
 <div class="article-video right clearfix"/>
 <p/><p>
 <span style="font-size:18px;">Goytre Wharf is a 200-year-old industrial heritage site on the Monmouthshire and Brecon Canal near Abergavenny. There's a busy Canal and River Trust visitor centre and canalboat marina here.</span></p>
-<p>The centre has plenty to offer including exhibitions and events, canal trips and children&nbsp;€™s activities. The area around the centre has canalside and woodland walks, lots of wildlife to see and audio boxes giving information on the lime kilns.</p>
+<p>The centre has plenty to offer including exhibitions and events, canal trips and children&nbsp;&#39;s activities. The area around the centre has canalside and woodland walks, lots of wildlife to see and audio boxes giving information on the lime kilns.</p>
 <p>Electric boats, canoes and narrowboats are available to hire.</p>
 <h2>Visiting Goytre Wharf</h2>
 <h3>How to get there</h3>

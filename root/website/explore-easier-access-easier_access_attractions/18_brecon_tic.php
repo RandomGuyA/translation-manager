@@ -12,7 +12,7 @@
 <span style="color:#008000;"><strong>Nearest town or village:</strong></span>&nbsp; Brecon.</p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">&nbsp; </p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
-<span style="color:#008000;"><strong>OS Grid Reference:&nbsp; </strong></span>Explorer Map OL 12 or Landranger Map 160&nbsp; &nbsp;€“&nbsp; 
+<span style="color:#008000;"><strong>OS Grid Reference:&nbsp; </strong></span>Explorer Map OL 12 or Landranger Map 160&nbsp; &nbsp;&#45;&nbsp; 
 <span style="color:#008000;"><strong>SO 046 287</strong>.</span></p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">&nbsp; </p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">

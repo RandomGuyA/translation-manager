@@ -22,7 +22,7 @@
 <h3>OS grid reference</h3>
 <p>Explorer Map OL13 or Landranger Map 16 - SO288278</p>
 <h3>Opening times</h3>
-<p>Daily 10am&nbsp;€“4pm</p>
+<p>Daily 10am&nbsp;&#45;4pm</p>
 <h3>Contact</h3>
 <p>Cadw, tel 01443 336000,
 <a href="http://www.cadw.wales.gov.uk/daysout/llanthonypriory" target="_blank">www.cadw.wales.gov.uk</a></p>

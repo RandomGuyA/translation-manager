@@ -46,42 +46,42 @@
 <div>
 <span style="font-size: 12px;">The astronomical societ</span><span style="font-size: 12px;">ies in Mid and South Wales, in&nbsp; and around our Dark Sky Reserve, run events all year round. They are also a great source of advice on stargazing and equipment.</span></div>
 <h3>
-<br/>Heads of the Valleys Astronomical Society</h3>Meetings: Third Friday of the month, 7&nbsp;€“9pm
+<br/>Heads of the Valleys Astronomical Society</h3>Meetings: Third Friday of the month, 7&nbsp;&#45;9pm
 <br/>Venue: Learning Action Centre, James Street, Ebbw Vale NP23 6JG
 <br/>Contact: Mike Thomas 01495 301065,
 <a href="mailto:contact_us@hovastronomy.org.uk">contact_us@hovastronomy.org.uk</a><br/>Website:
 <a href="http://www.hovastronomy.org.uk" target="_blank">www.hovastronomy.org.uk</a><br/>Events: Regular observing sessions at the Blorenge, Blaenavon
 <br/>
 <br/>
-<h3>Abergavenny Astronomy Society</h3>Meetings: Middle and last Monday of the month, 7.20&nbsp;€“9pm
-<br/>Venue: The King&nbsp;€™s Head Public House, Abergavenny&nbsp; NP7 5EU
+<h3>Abergavenny Astronomy Society</h3>Meetings: Middle and last Monday of the month, 7.20&nbsp;&#45;9pm
+<br/>Venue: The King&nbsp;&#39;s Head Public House, Abergavenny&nbsp; NP7 5EU
 <br/>Contact: Nick Busby,
 <a href="mailto:observing@abergavennyas.org.uk">observing@abergavennyas.org.uk</a><br/>Website:
 <a href="http://www.abergavennyas.org.uk" target="_blank">www.abergavennyas.org.uk</a><br/>Events: &nbsp; Regular observing sessions at the Blorenge, Blaenavon
 <br/>
 <br/>
-<h3>Usk Astronomical Society</h3>Meetings: Every Thursday during school term, 7&nbsp;€“9pm
+<h3>Usk Astronomical Society</h3>Meetings: Every Thursday during school term, 7&nbsp;&#45;9pm
 <br/>Venue: Usk Community Education Centre, Maryport Street, Usk&nbsp; NP15 1AE
 <br/>Contact: Dave Thomas,
 <a href="mailto:info@uskastronomicalsociety.org.uk">info@uskastronomicalsociety.org.uk</a><br/>Website:
 <a href="http://www.uskastronomicalsociety.org.uk" target="_blank">www.uskastronomicalsociety.org.uk</a><br/>Events: &nbsp; Regular observing sessions at Usk Observatory
 <br/>
 <br/>
-<h3>Cardiff Astronomical Society</h3>Meetings: First and third Thursday, 7&nbsp;€“9pm
+<h3>Cardiff Astronomical Society</h3>Meetings: First and third Thursday, 7&nbsp;&#45;9pm
 <br/>Venue: Department of Physics and Astronomy, Cardiff University, The Parade, Cardiff&nbsp; CF24 3AA
 <br/>Contact: Robert Jones&nbsp; 
 <a href="mailto:Secretary@cardiff-astronomical-society.co.uk">Secretary@cardiff-astronomical-society.co.uk</a><br/>Website:
 <a href="http://www.cardiff-astronomical-society.co.uk" target="_blank">www.cardiff-astronomical-society.co.uk</a><br/>Events: Regular observing sessions at Duffryn Gardens and the National Park Visitor Centre
 <br/>
 <br/>
-<h3>Swansea Astronomical Society</h3>Meetings: Second and fourth Thursday, 7&nbsp;€“9pm
+<h3>Swansea Astronomical Society</h3>Meetings: Second and fourth Thursday, 7&nbsp;&#45;9pm
 <br/>Venue: Lecture Room 2, Fulton House, University of Wales, Swansea&nbsp; SA2 8PP
 <br/>Contact: Dr Steve Wainwright,
 <a href="mailto:contact@swanastro.org.uk">contact@swanastro.org.uk</a><br/>Website:
 <a href="/all_images_in_here_please/outdoor_activity_images/dark_skies/stargazing-in-brit_1645847c.jpg">www.swanastro.org.uk</a><br/>Events: Regular observing sessions at Fairwood Observatory and the National Park Visitor Centre
 <br/>
 <br/>
-<h3>Spaceguard Centre &amp; Observatory</h3>Open for visitors 1 May &nbsp;€“ 30 September, daily, 10am&nbsp;€“4pm
+<h3>Spaceguard Centre &amp; Observatory</h3>Open for visitors 1 May &nbsp;&#45; 30 September, daily, 10am&nbsp;&#45;4pm
 <br/>Venue: The Spaceguard Centre, Llanshay Lane, Knighton, Powys LD7 1LW
 <br/>Contact: Jay Tate,
 <a href="mailto:mail@spaceguarduk.com">mail@spaceguarduk.com</a><br/>Website:

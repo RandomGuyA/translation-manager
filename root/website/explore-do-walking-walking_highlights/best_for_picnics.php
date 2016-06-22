@@ -8,7 +8,7 @@
 <div>
 <strong><span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Pontneddfechan</span></strong></div>
 <div>
-<span style="font-family: 'trebuchet ms', helvetica, sans-serif;">You&nbsp;€™re spoiled for choice when it comes to inviting riverside picnic spots on a&nbsp; 
+<span style="font-family: 'trebuchet ms', helvetica, sans-serif;">You&nbsp;&#39;re spoiled for choice when it comes to inviting riverside picnic spots on a&nbsp; 
 <a href="/explore/things_to_do/walking/where_to_walk/short_walks/sgwd_gladus_waterfalls">Waterfall Country walk to SgÅµd Gwladus</a>.</span></div>
 <div>&nbsp; </div>
 <div>
@@ -27,12 +27,12 @@
 <strong><span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Monmouthshire and Brecon Canal</span></strong></div>
 <div>
 <span style="font-family: 'trebuchet ms', helvetica, sans-serif;">A short distance into the&nbsp; 
-<a href="/explore/things_to_do/walking/where_to_walk/bus_walks/brecon_to_pencelli">Brecon to Pencelli</a>&nbsp; canal walk you&nbsp;€™ll find the perfect picnic spot, complete with ornate woodcarvings that depict the canal&nbsp;€™s industrial heritage.</span></div>
+<a href="/explore/things_to_do/walking/where_to_walk/bus_walks/brecon_to_pencelli">Brecon to Pencelli</a>&nbsp; canal walk you&nbsp;&#39;ll find the perfect picnic spot, complete with ornate woodcarvings that depict the canal&nbsp;&#39;s industrial heritage.</span></div>
 <div>&nbsp; </div>
 <div>
 <strong><span style="font-family: 'trebuchet ms', helvetica, sans-serif;">National Park Visitor Centre</span></strong></div>
 <div>
-<span style="font-family: 'trebuchet ms', helvetica, sans-serif;">With spectacular views, naturally beautiful grounds and children&nbsp;€™s trails for little ones to explore, the Visitor Centre is the perfect place for a picnic. Get your fill before walking on&nbsp; 
+<span style="font-family: 'trebuchet ms', helvetica, sans-serif;">With spectacular views, naturally beautiful grounds and children&nbsp;&#39;s trails for little ones to explore, the Visitor Centre is the perfect place for a picnic. Get your fill before walking on&nbsp; 
 <a href="/explore/things_to_do/walking/where_to_walk/short_walks/mynydd_illtud_from_the_visitor_centre">Mynydd Illtud</a>.</span></div>
 
 <!--SearchEnd//-->

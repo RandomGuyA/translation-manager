@@ -12,7 +12,7 @@
 <p>
 <span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="font-size:14px;">Formed by the gradual effects of ice and water, the landscape of the Brecon Beacons National Park is a geological story spanning millions of years.</span></span></p>
 <p>
-<span style="font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px;">Follow one of our Geotrails for a ground level look at this rocky heritage&nbsp; </span>&nbsp;€“
+<span style="font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px;">Follow one of our Geotrails for a ground level look at this rocky heritage&nbsp; </span>&nbsp;&#45;
 <span style="font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px;">&nbsp; f</span><span style="font-size: 14px; font-family: 'trebuchet ms', helvetica, sans-serif;">rom the flat-topped summit of Pen y Fan, to the craggy cliffs of Craig Cerrig-Gleisiad and the&nbsp; </span><span style="font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px;">steep gorges of the&nbsp; </span><span style="font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px;">Black Mountain.</span></p>
 <p/><p>&nbsp; </p>
 <iframe height="505" src="http://www.beacons-npa.gov.uk/static/maps/destination/geotrails.html" width="755" allowfullscreen="allowfullscreen"/>

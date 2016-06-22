@@ -8,7 +8,7 @@
 <div>
 <strong><span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Monmouthshire and Brecon Canal</span></strong></div>
 <div>
-<span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Originally designed for the transport of barges laden with coal and limestone, the 32-mile (51km) &nbsp;€˜Mon and Brec&nbsp;€™ is now devoted purely to pleasure. Sample one of the National Park&nbsp;€™s key pieces of industrial heritage on the&nbsp; 
+<span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Originally designed for the transport of barges laden with coal and limestone, the 32-mile (51km) &nbsp;€˜Mon and Brec&nbsp;&#39; is now devoted purely to pleasure. Sample one of the National Park&nbsp;&#39;s key pieces of industrial heritage on the&nbsp; 
 <a href="/explore/things_to_do/walking/where_to_walk/short_walks/talybont_valley">Talybont Valley</a>&nbsp; and&nbsp; 
 <a href="/explore/things_to_do/walking/where_to_walk/bus_walks/brecon_to_pencelli">Brecon to Pencelli</a>&nbsp; walks.</span></div>
 <div>&nbsp; </div>
@@ -21,20 +21,20 @@
 <div>
 <strong><span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Abergavenny Castle</span></strong></div>
 <div>
-<span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Founded in the 11th century, this ruined castle is now home to Abergavenny Museum. Packed with artefacts from the market town&nbsp;€™s long and varied history, it&nbsp;€™s a fascinating stop off on the&nbsp; 
+<span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Founded in the 11th century, this ruined castle is now home to Abergavenny Museum. Packed with artefacts from the market town&nbsp;&#39;s long and varied history, it&nbsp;&#39;s a fascinating stop off on the&nbsp; 
 <a href="/explore/things_to_do/walking/where_to_walk/bus_walks/abergavenny_riverside">Abergavenny Riversid</a><u>e&nbsp; </u>walk.</span></div>
 <div>&nbsp; </div>
 <div>
 <strong><span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Llanilltud</span></strong></div>
 <div>
 <span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Found on the walk to&nbsp; 
-<a href="/explore/things_to_do/walking/where_to_walk/longer_walks/cefn_llechid">Cefn Llechid</a>, the ancient enclosure of Llanilltud has ancient roots. It was a settlement during the Iron Age and later the site of St Illtud&nbsp;€™s Church. The church is gone now, but weathered gravestones still stand in the former churchyard.</span></div>
+<a href="/explore/things_to_do/walking/where_to_walk/longer_walks/cefn_llechid">Cefn Llechid</a>, the ancient enclosure of Llanilltud has ancient roots. It was a settlement during the Iron Age and later the site of St Illtud&nbsp;&#39;s Church. The church is gone now, but weathered gravestones still stand in the former churchyard.</span></div>
 <div>&nbsp; </div>
 <div>
 <strong><span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Bronze Age burial sites&nbsp; </span></strong></div>
 <div>
 <span style="font-family: 'trebuchet ms', helvetica, sans-serif;">The mighty 886m summit of Pen y Fan has exerted a magnetic pull for millennia. Ascend the peak on the&nbsp; 
-<a href="/explore/things_to_do/walking/where_to_walk/longer_walks/penyfan_cribyn_cwmgwdi">walk from Cwm Gwdi</a>&nbsp; and you&nbsp;€™ll find the remains of a burial cairn left by our Bronze Age ancestors. There&nbsp;€™s a similar cairn on top of nearby Cribyn too.</span></div>
+<a href="/explore/things_to_do/walking/where_to_walk/longer_walks/penyfan_cribyn_cwmgwdi">walk from Cwm Gwdi</a>&nbsp; and you&nbsp;&#39;ll find the remains of a burial cairn left by our Bronze Age ancestors. There&nbsp;&#39;s a similar cairn on top of nearby Cribyn too.</span></div>
 <div>&nbsp; </div>
 <div>
 <strong><span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Castell Dinas</span></strong></div>

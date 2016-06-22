@@ -14,7 +14,7 @@
 <h3>Nearest town or village</h3>
 <p>Ystradowen, Cwm Twrch, Cwmllynfell</p>
 <h3>OS grid reference</h3>
-<p>Explorer Map OL12 or Landranger Map 160 &nbsp;€“ SN756126</p>
+<p>Explorer Map OL12 or Landranger Map 160 &nbsp;&#45; SN756126</p>
 <h3>Parking</h3>
 <p>At Brynhenllys Bridge, free</p>
 <h3>Toilets</h3>

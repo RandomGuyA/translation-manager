@@ -7,7 +7,7 @@
 <strong><span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="font-size:14px;"><span style="color:#008000;"><span id="parent-fieldname-description">Blaenavon Industrial Landscapes was inscribed on the UNESCO list of World Heritage sites in November 2000 based on the numerous monuments and buildings of significance in and around the town and on its industrial landscape.</span></span></span></span></strong><br/>
 <div id="parent-fieldname-text">
 <br/>
-<strong><span style="color:#008000;">Further Information</span></strong><br/>The 32.9 square kilometres of the Blaenavon Industrial Landscape is made up of the town of Blaenavon, places of interest such as Big Pit, the Ironworks and the Monmouthshire and Brecon Canal and spectacular surrounding landscape. More than 40% of the WHS falls within&nbsp; the National Park&nbsp;€™s boundary. There are some easier access places to visit in the area including Keeper&nbsp;€™s Pond and Garn Lake.
+<strong><span style="color:#008000;">Further Information</span></strong><br/>The 32.9 square kilometres of the Blaenavon Industrial Landscape is made up of the town of Blaenavon, places of interest such as Big Pit, the Ironworks and the Monmouthshire and Brecon Canal and spectacular surrounding landscape. More than 40% of the WHS falls within&nbsp; the National Park&nbsp;&#39;s boundary. There are some easier access places to visit in the area including Keeper&nbsp;&#39;s Pond and Garn Lake.
 <br/>
 <br/>
 <span style="color:#008000;"><strong>How to get there:&nbsp; </strong></span>Blaenavon is south east of Brynmawr and north of Pontypool.

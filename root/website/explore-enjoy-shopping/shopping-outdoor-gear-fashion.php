@@ -4,7 +4,7 @@
 <div class="article-video right clearfix"/>
 <p/><p>
 <span style="font-size:18px;">Many people think of Snowdonia and the Lake District for walking and climbing gear, but there's a great range on offer in the Brecon Beacons. And our boutiques turn heads.</span></p>
-<p>Ready to replace your waterproofs, base layers or walking boots? You may be very pleasantly surprised by the range and price of the kit available in Brecon, Hay-on-Wye, Crickhowell and Abergavenny and at the National Park Visitor Centre in Libanus. For basics, try the local farming cooperative stores &nbsp;€“ they stock wellies, rain macs and hats.</p>
+<p>Ready to replace your waterproofs, base layers or walking boots? You may be very pleasantly surprised by the range and price of the kit available in Brecon, Hay-on-Wye, Crickhowell and Abergavenny and at the National Park Visitor Centre in Libanus. For basics, try the local farming cooperative stores &nbsp;&#45; they stock wellies, rain macs and hats.</p>
 <p>All our towns have appealing fashion boutiques. Hay-on-Wye's arty, independent spirit makes it a particularly good place to shop for fashions that are the opposite of run-of-the-mill.</p>
 
 <!--SearchEnd//-->

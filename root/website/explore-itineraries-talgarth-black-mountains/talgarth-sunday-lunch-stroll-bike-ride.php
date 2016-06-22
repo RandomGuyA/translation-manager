@@ -8,7 +8,7 @@
 <br/>of Brycheiniog, has m
 <img alt="Talgarth Information Centre" src="/all_images_in_here_please/great_days_out/itineraries/talgarth_information_centre_and_walk_along_river.png" style="width: 200px; height: 400px; margin: 8px; float: right;"/>uch to see and offer. The Brecon</span></span><span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;">Beacons National Park produces a booklet with details of both a gentle one mile town walk and also some more challenging walks into the mountains around the town.
 <br/>When you have worked up an appetite you can then enjoy lunch at one of the town Centre&nbsp; pubs, cafes or tea garden.
-<br/>To round off a perfect sunday you can then either hop back in the car and drive or jump on your bike and cycle via a dedicated cycle path to the Old Railway Line Nursery at three Cocks which won the Best garden Centre Plant department in Wales in both 2009 and 2010. It has everything you would need to create and maintain the garden of your dreams as well as a great gift section. When you are all done &nbsp;€“ why not have afternoon tea and cake at their excellent cafe which uses local suppliers and has an emphasis on Welsh ingredients.</span></span></p>
+<br/>To round off a perfect sunday you can then either hop back in the car and drive or jump on your bike and cycle via a dedicated cycle path to the Old Railway Line Nursery at three Cocks which won the Best garden Centre Plant department in Wales in both 2009 and 2010. It has everything you would need to create and maintain the garden of your dreams as well as a great gift section. When you are all done &nbsp;&#45; why not have afternoon tea and cake at their excellent cafe which uses local suppliers and has an emphasis on Welsh ingredients.</span></span></p>
 <h3>
 <br/>
 <br/>
@@ -26,7 +26,7 @@
 <h3>
 <span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;">Where is it?</span></span></h3>
 <p>
-<span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;">The free main town car park is next to the roundabout on the A479 &nbsp;€“ the Talgarth relief road. The Talgarth Information and Resource Centre, the square, Talgarth, Powys ld3 0BW
+<span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;">The free main town car park is next to the roundabout on the A479 &nbsp;&#45; the Talgarth relief road. The Talgarth Information and Resource Centre, the square, Talgarth, Powys ld3 0BW
 <a href="http://www.talgarthcentre.org.uk">www.talgarthcentre.org.uk</a><br/>tel: 01874 712 226 is found by leaving the car-park in the direction of the Town Centre and is on the left hand side after crossing the river bridge.
 <br/>
 <strong>The Old Railway Line Nursery</strong>,
@@ -40,21 +40,21 @@
 <p>
 <span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;">Summer Monday to saturday -
 <br/>10.00am to 4.00pm. sunday
-<br/>10.00am &nbsp;€“ to 1.00pm
+<br/>10.00am &nbsp;&#45; to 1.00pm
 <br/>Winter Monday to saturday -
 <br/>10.30am to 3.30pm. sunday
-<br/>10.30am &nbsp;€“ to 1.00pm
+<br/>10.30am &nbsp;&#45; to 1.00pm
 <br/>the resource centre is on the ground floor.</span></span><br/>&nbsp; </p>
 <h4>The Old Railway Line Nursery</h4>
 <p>
 <span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;">Opening Hours
-<br/>Monday &nbsp;€“ 9.00am to 6.00pm
+<br/>Monday &nbsp;&#45; 9.00am to 6.00pm
 <br/>tuesday to saturday 8.30am to 6.00pm
 <br/>sunday 9.30am to 5.30pm</span></span><br/>
 <span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;">the Coffee shop and garden centre is easily accessed by those with a disability and wheelchairs are available for customers to use on request. there are also fully accessible toilets.</span></span></p>
 <h3>Public Transport</h3>
 <p>
-<span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><strong>By Train</strong>the nearest station is abergavenny &nbsp;€“ talgarth is 18 miles from abergavenny</span></span><br/>&nbsp; </p>
+<span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><strong>By Train</strong>the nearest station is abergavenny &nbsp;&#45; talgarth is 18 miles from abergavenny</span></span><br/>&nbsp; </p>
 <p>
 <span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><strong>By bus</strong>: talgarth is serviced by buses in all directions, from hereford, Builth Wells, abergavenny and Brecon. look at
 <a href="http://www.traveline-cymru.org.uk">www.traveline-cymru.org.uk</a>for the latest travel information and timetables. For the hereford to</span></span><br/>&nbsp; </p>

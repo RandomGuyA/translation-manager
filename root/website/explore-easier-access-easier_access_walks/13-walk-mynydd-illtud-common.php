@@ -15,7 +15,7 @@
 <span style="color:#008000;"><strong>Nearest town or village:</strong></span>Libanus, 9km south of Brecon.
 <br/>
 <br/>
-<span style="color:#008000;"><strong>OS Grid Reference:</strong></span>Explorer Map OL 12 or Landranger Map 160 &nbsp;€“ SN 977 262.
+<span style="color:#008000;"><strong>OS Grid Reference:</strong></span>Explorer Map OL 12 or Landranger Map 160 &nbsp;&#45; SN 977 262.
 <br/>
 <br/>
 <span style="color:#008000;"><strong>Distance:</strong></span>From a few metres to several kilometres.

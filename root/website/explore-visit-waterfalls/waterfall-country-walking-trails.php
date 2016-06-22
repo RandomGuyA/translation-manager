@@ -44,7 +44,7 @@
 <span style="color: rgb(169, 169, 169);">Grade</span>&nbsp; 
 <br/>Very moderate</h4>
 <h4>
-<span style="color: rgb(169, 169, 169);">Starting point&nbsp; </span><br/>Dinas Rock car park &nbsp;€“ turn right over the bridge and right again to reach a welcome panel for the trail</h4>
+<span style="color: rgb(169, 169, 169);">Starting point&nbsp; </span><br/>Dinas Rock car park &nbsp;&#45; turn right over the bridge and right again to reach a welcome panel for the trail</h4>
 <h4>
 <span style="color: rgb(169, 169, 169);">OS grid reference</span>&nbsp; 
 <br/>SN912079</h4>

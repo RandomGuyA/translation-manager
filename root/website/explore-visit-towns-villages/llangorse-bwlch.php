@@ -15,7 +15,7 @@
 <br/>
 <br/>Llangorse is easily accessible from the A40 as you head through the National Park from the village of Bwlch where you can pick up supplies from the local farm shop or well stocked village stores who have also recently opened a cafe.
 <br/>
-<br/>Bwlch is the home of the now well established Bwlch with Altitude Challenge which takes place every summer and is a 12 mile walk around the lake from Bwlch and Llangorse respectively, contestants enjoy this event seeking out clues and answers to a number of questions set as part of the challenge&nbsp;€™s photographic quiz.
+<br/>Bwlch is the home of the now well established Bwlch with Altitude Challenge which takes place every summer and is a 12 mile walk around the lake from Bwlch and Llangorse respectively, contestants enjoy this event seeking out clues and answers to a number of questions set as part of the challenge&nbsp;&#39;s photographic quiz.
 <br/>
 <br/>The communities of Llangorse and Bwlch have developed the new
 <a href="http://aroundllangorselake.co.uk/" target="_blank">Around Llangorse Lake&nbsp; website</a>to help visitors enjoy this lovely part of the National Park.

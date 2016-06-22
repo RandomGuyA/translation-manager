@@ -16,7 +16,7 @@
 <span style="color:#008000;"><strong>Nearest town/Village:</strong></span>&nbsp; Penderyn or Hirwaun.</p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">&nbsp; </p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
-<span style="color:#008000;"><strong>OS Grid Reference:&nbsp; </strong></span>Explorer Map OL 12 or Landranger Map 160&nbsp; &nbsp;€“
+<span style="color:#008000;"><strong>OS Grid Reference:&nbsp; </strong></span>Explorer Map OL 12 or Landranger Map 160&nbsp; &nbsp;&#45;
 <span style="color:#008000;"><strong>SN 951 085</strong></span>&nbsp; (Penderyn) or&nbsp; 
 <span style="color:#008000;"><strong>SN 959 061</strong></span>&nbsp; (Hirwaun).</p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">

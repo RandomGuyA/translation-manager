@@ -22,7 +22,7 @@
 <br/>Cross the footbridge and then turn left onto the road to the Youth Hostel. This is the only accommodation or place to eat within walking distance so you may need a taxi if it is full.
 <br/>
 <br/>
-<strong>According to the Mabinogion, a farmer married a beautiful woman with magical powers who he met sitting on rocks near Llyn y Fan Fach.&nbsp;  Their sons became the famous Physicians of Myddfai &nbsp;€“ the village nearby.&nbsp;  Some believe that this myth gave rise to another famous tale &nbsp;€“ the Arthurian legend of the Lady of the Lake and Excalibur.</strong><br/>
+<strong>According to the Mabinogion, a farmer married a beautiful woman with magical powers who he met sitting on rocks near Llyn y Fan Fach.&nbsp;  Their sons became the famous Physicians of Myddfai &nbsp;&#45; the village nearby.&nbsp;  Some believe that this myth gave rise to another famous tale &nbsp;&#45; the Arthurian legend of the Lady of the Lake and Excalibur.</strong><br/>
 <br/>In the event of poor weather (particularly strong winds), day 6 can be difficult and dangerous, so do consider this poor weather alternative.&nbsp; 
 <br/>
 <br/>

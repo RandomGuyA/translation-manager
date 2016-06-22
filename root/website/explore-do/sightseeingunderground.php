@@ -12,12 +12,12 @@
 <strong>There are beautiful natural playgrounds to be found in the Beacons, hidden from view...The caves and mines underneath the hills are waiting to be explored!</strong></div>
 <div>&nbsp; </div>
 <h4>Dan-yr-Ogof National Showcaves</h4>
-<div>If you&nbsp;€™re after an awe-inspiring introduction to being underground,
+<div>If you&nbsp;&#39;re after an awe-inspiring introduction to being underground,
 <a href="http://www.breconbeacons.org/businesses/2725">Dan-yr-Ogof, the National Showcaves Centre</a>for Wales is the best place to start, exploring rock formations and beautifully lit caverns.</div>
 <h4>
 <br/>Big Pit National Coal Museum</h4>
-<div>If you wish to delve into South Wales&nbsp;€™ rich industrial past, then
-<a href="http://www.breconbeacons.org/businesses/2672">Big Pit National Coal Museum</a>is just on the Park&nbsp;€™s doorstep, offering a journey into the mines underground, and don&nbsp;€™t forget to make time for King Coal: The Mining Experience and discover the story of how the Welsh mining industry evolved.
+<div>If you wish to delve into South Wales&nbsp;&#39; rich industrial past, then
+<a href="http://www.breconbeacons.org/businesses/2672">Big Pit National Coal Museum</a>is just on the Park&nbsp;&#39;s doorstep, offering a journey into the mines underground, and don&nbsp;&#39;t forget to make time for King Coal: The Mining Experience and discover the story of how the Welsh mining industry evolved.
 <br/>&nbsp; </div>
 <h4>Guided Trip Sightseeing Underground</h4>
 <div>This year, for the first time we are offering a unique opportunity to go Sightseeing Underground. &nbsp; Guided, half day trips are available to visit some of the incredible cave systems beneath our feet. &nbsp;  &nbsp; 

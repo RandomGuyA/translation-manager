@@ -9,7 +9,7 @@
 <br/>The road itself was used to transport limestone to the iron-makers in Brynmawr and Ebbw Vale, whilst other routes lead downhill to the Monmouthshire and Brecon Canal. The views on a good day extend across to the Black Mountains and into England. This route is reasonably well used by cyclists and local people, with the quarries regularly used by rock climbers.
 <br/>
 <br/>
-<span style="color:#006400;"><strong>Location:</strong></span>The &nbsp;€˜Hafod&nbsp;€™ road is situated above the Clydach Gorge and stretches for 3 miles from Brynmawr around to Llangattock hillside. This is a single track road which leads off Intermediate Road in Brynmawr close to the comprehensive school . There are plenty of passing places, but please note that there are steep slopes on one side of the road which is mainly unfenced.
+<span style="color:#006400;"><strong>Location:</strong></span>The &nbsp;€˜Hafod&nbsp;&#39; road is situated above the Clydach Gorge and stretches for 3 miles from Brynmawr around to Llangattock hillside. This is a single track road which leads off Intermediate Road in Brynmawr close to the comprehensive school . There are plenty of passing places, but please note that there are steep slopes on one side of the road which is mainly unfenced.
 <br/>
 <br/>
 <span style="color:#006400;"><strong>Parking:</strong></span>There is a car park and roadside parking in Brynmawr. There are a number of parking spots alongside the road and a stony car park near the main quarry.

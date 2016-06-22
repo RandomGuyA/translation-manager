@@ -24,7 +24,7 @@
 <img src="/website/var/tmp/thumb_5508__landing_page_highlights.jpeg" alt="" title="" height="90" width="190"/>
 <p>Water power, gunpowder and rock.
 
- The Brecon Beacons National Park isn&nbsp;€™t...</p></div>
+ The Brecon Beacons National Park isn&nbsp;&#39;t...</p></div>
 </li>
 <li>
 <a href="/explore/things_to_do/walking/where_to_walk/moderate_walks/crickhowell_to_table_mountain"/><h3><a href="/explore/things_to_do/walking/where_to_walk/moderate_walks/crickhowell_to_table_mountain">Crickhowell to Table Mountain</a></h3>
@@ -40,7 +40,7 @@
 <a href="/explore/things_to_do/walking/where_to_walk/moderate_walks/flying_high_from_talgarth"/><h3><a href="/explore/things_to_do/walking/where_to_walk/moderate_walks/flying_high_from_talgarth">Flying high from Talgarth</a></h3>
 <div class="section-box jagged">
 <img src="/website/var/tmp/thumb_5602__landing_page_highlights.jpeg" alt="" title="" height="90" width="190"/>
-<p>Gaze at gliders, climb to the country&nbsp;€™s highest castle.
+<p>Gaze at gliders, climb to the country&nbsp;&#39;s highest castle.
 
  
 

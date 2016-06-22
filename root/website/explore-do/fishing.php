@@ -8,7 +8,7 @@
 <div>
 <img alt="Anglers on the banks of the river Usk in teh Brecon Beacons National Park" src="/website/var/tmp/thumb_171__auto_cef28ccffd1823b5536ad2d5e608f8e8.jpeg" style="width: 650px; height: 412px; margin: 12px;"/></div>
 <p>Our Park offers excellent coarse fishing or game fishing in rivers, canals, lakes and reservoirs. We also have a great selection of country hotels that offer a special welcome to outdoor sportsmen.</p>
-<p>To fish with a rod and line in England, Wales or the Border Esk region of Scotland, you need a Rod Licence. Valid for one day, eight days or a full year (1 April &nbsp;€“ 31 March), these are available from the Post Office, in person at any branch, by phone (tel 0844 800 5386) or online (
+<p>To fish with a rod and line in England, Wales or the Border Esk region of Scotland, you need a Rod Licence. Valid for one day, eight days or a full year (1 April &nbsp;&#45; 31 March), these are available from the Post Office, in person at any branch, by phone (tel 0844 800 5386) or online (
 <a href="http://www.postoffice.co.uk" target="_blank">www.postoffice.co.uk</a>).</p>
 <h2>Where to fish in the Brecon Beacons National Park</h2>
 <h3>
@@ -59,7 +59,7 @@
 <h2>Be prepared, be responsible, stay safe</h2>
 <p>For important advice on good practice and safety including the Check, Clean, Drain, Dry routine, see our&nbsp; 
 <a href="http://www.breconbeacons.org/safety" target="_blank">Be prepared and stay safe</a>&nbsp; section.</p>
-<p>Salmon is prey to a particularly nasty parasite, Gyrodactylus salaris, which is only half a millimetre long but can devastate populations. Thankfully, they&nbsp;€™re not here yet. Please help keep them out of Wales. If you&nbsp;€™ve been boating or fishing in Europe, particularly Scandinavia, wash your equipment in salt water and dry it thoroughly.</p>
+<p>Salmon is prey to a particularly nasty parasite, Gyrodactylus salaris, which is only half a millimetre long but can devastate populations. Thankfully, they&nbsp;&#39;re not here yet. Please help keep them out of Wales. If you&nbsp;&#39;ve been boating or fishing in Europe, particularly Scandinavia, wash your equipment in salt water and dry it thoroughly.</p>
 <p>&nbsp; </p></div>
 <br/>
 

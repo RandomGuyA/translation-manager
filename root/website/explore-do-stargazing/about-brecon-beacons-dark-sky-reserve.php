@@ -12,16 +12,16 @@
 <a href="/all_pdfs_and_documents_in_here_please/bbnp_idsr_update_report_2014.pdf">update report here</a>.</p>
 <h2>Our Dark Sky Reserve</h2>
 <p>Residents living within the Brecon Beacons National Park are encouraged to get involved in the initiative and see how reducing their light pollution could save them money on their energy bills and enhance their own views of the night sky. Although large areas of the National Park remain free from light pollution, the gradual encorachment of street, house and security lights means that starlight, which may have travelled for hundreds or even millions of years to reach our eyes, is stolen from us at the last moment by this skyglow.</p>
-<p>You may not have given consideration to this before but there are many simple things that you can do in your own home to protect our dark nights &nbsp;€“ and probably reduce your energy bills too. For example, you could use low wattage bulbs, fit exterior lights with motion detectors, shield exterior lights or tilt them towards the ground and switch off lights when you don&nbsp;€™t need them.</p>
+<p>You may not have given consideration to this before but there are many simple things that you can do in your own home to protect our dark nights &nbsp;&#45; and probably reduce your energy bills too. For example, you could use low wattage bulbs, fit exterior lights with motion detectors, shield exterior lights or tilt them towards the ground and switch off lights when you don&nbsp;&#39;t need them.</p>
 <h2>Get acquainted with our dark skies</h2>
-<p>If you&nbsp;€™re intrigued, you can join a stargazing event. Some hotels and B&amp;Bs also have telescopes which guests can use. But you&nbsp;€™ll be amazed at what you can see, even without a telescope!</p>
-<p>Choose a clear night and find a spot that&nbsp;€™s free from night glow &nbsp;€“ it could simply be a garden.</p>
-<p>Take binoculars &nbsp;€“ they will help you get a better view of the stars.</p>
-<p>Looking north on a clear night between January and March, you should be able to see the Plough. It isn&nbsp;€™t a constellation, but part of a constellation called Ursa Major, Latin for Great Bear.</p>
-<p>Polaris, otherwise known as the North Star, can be found by following the line of the two &nbsp;€˜pointer&nbsp;€™ stars in the Plough. Polaris is positioned above the North Pole, and remains in the same place in the sky throughout the night, while the other stars rotate around it. It has been used for navigation for centuries.</p>
+<p>If you&nbsp;&#39;re intrigued, you can join a stargazing event. Some hotels and B&amp;Bs also have telescopes which guests can use. But you&nbsp;&#39;ll be amazed at what you can see, even without a telescope!</p>
+<p>Choose a clear night and find a spot that&nbsp;&#39;s free from night glow &nbsp;&#45; it could simply be a garden.</p>
+<p>Take binoculars &nbsp;&#45; they will help you get a better view of the stars.</p>
+<p>Looking north on a clear night between January and March, you should be able to see the Plough. It isn&nbsp;&#39;t a constellation, but part of a constellation called Ursa Major, Latin for Great Bear.</p>
+<p>Polaris, otherwise known as the North Star, can be found by following the line of the two &nbsp;€˜pointer&nbsp;&#39; stars in the Plough. Polaris is positioned above the North Pole, and remains in the same place in the sky throughout the night, while the other stars rotate around it. It has been used for navigation for centuries.</p>
 <p>Look out for the Perseid Meteor Shower, peaking in mid August.</p>
 <h2>Discover the secret world of nocturnal wildlife</h2>
-<p>It&nbsp;€™s not just the stars that come out at night, there are plenty of nocturnal animals too. If you pick the right spot you might be lucky enough to see some of our rarest creatures of the night including barn owls, lesser horseshoe bats and other bat species, foxes, badgers, dormice, hedgehogs, moths and insects. These creatures all rely on dark nights to hunt their prey.</p>
+<p>It&nbsp;&#39;s not just the stars that come out at night, there are plenty of nocturnal animals too. If you pick the right spot you might be lucky enough to see some of our rarest creatures of the night including barn owls, lesser horseshoe bats and other bat species, foxes, badgers, dormice, hedgehogs, moths and insects. These creatures all rely on dark nights to hunt their prey.</p>
 <p>New research has revealed that light pollution not only limits the visitbility of stars, but also disturbs the navigational patterns of nocturnal animals. This has contributed to the decline of many of our native nocturnal species.</p>
 <h2>Find out more</h2>
 <p>

@@ -21,7 +21,7 @@
 <span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Red Route - Level 4</span></h3>
 <div>
 <br/>
-<span style="color: rgb(105, 105, 105); font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px;">Distance:&nbsp; </span><span style="font-size:14px;"><span style="font-family: 'trebuchet ms', helvetica, sans-serif;"><span style="color:#696969;">30</span></span></span>&nbsp;€“
+<span style="color: rgb(105, 105, 105); font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px;">Distance:&nbsp; </span><span style="font-size:14px;"><span style="font-family: 'trebuchet ms', helvetica, sans-serif;"><span style="color:#696969;">30</span></span></span>&nbsp;&#45;
 <span style="font-size:14px;"><span style="font-family: 'trebuchet ms', helvetica, sans-serif;"><span style="color:#696969;">40km</span></span></span></div>
 <div>
 <span style="color:#696969;"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Steep terrain</span></span></span></div>
@@ -45,7 +45,7 @@
 <h3 style="color: rgb(255, 255, 255); font-family: 'Lucida Grande', 'Lucida sans', Verdana, Helvetica, Arial, sans-serif; margin: 0px; font-size: 18px; border-bottom-style: none; padding: 5px; background-color: rgb(0, 0, 204);">
 <span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Blue Route - Level 3</span></h3>
 <div>&nbsp; </div></div></div>
-<span style="color: rgb(105, 105, 105); font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px;">Distance:&nbsp; </span><span style="color:#696969;"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms', helvetica, sans-serif;">8</span></span></span>&nbsp;€“
+<span style="color: rgb(105, 105, 105); font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px;">Distance:&nbsp; </span><span style="color:#696969;"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms', helvetica, sans-serif;">8</span></span></span>&nbsp;&#45;
 <span style="color:#696969;"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms', helvetica, sans-serif;">25km</span></span></span><br/>
 <span style="font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px; color: rgb(105, 105, 105);">Moderately steep inclines requiring a reasonable amount of effort on the climbs</span><br/>
 <span style="color:#696969;"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Greater degree of technical expertise needed on the descents
@@ -57,7 +57,7 @@
 <h3 style="color: rgb(255, 255, 255); font-family: 'Lucida Grande', 'Lucida sans', Verdana, Helvetica, Arial, sans-serif; margin: 0px; font-size: 18px; border-bottom-style: none; padding: 5px; background-color: rgb(0, 102, 0);">
 <span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Green Route - Level 2</span></h3>
 <div>&nbsp; </div></div>
-<span style="color: rgb(105, 105, 105); font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px;">Distance:&nbsp; </span><span style="color:#696969;"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms', helvetica, sans-serif;">8</span></span></span>&nbsp;€“
+<span style="color: rgb(105, 105, 105); font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px;">Distance:&nbsp; </span><span style="color:#696969;"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms', helvetica, sans-serif;">8</span></span></span>&nbsp;&#45;
 <span style="color:#696969;"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms', helvetica, sans-serif;">20km</span></span></span><br/>
 <span style="font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px; color: rgb(105, 105, 105);">Moderate climbs</span><br/>
 <span style="color:#696969;"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Moderate descents

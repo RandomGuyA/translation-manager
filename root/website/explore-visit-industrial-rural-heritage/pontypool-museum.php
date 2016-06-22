@@ -12,9 +12,9 @@
 <h3>Nearest town or village</h3>
 <p>Pontypool</p>
 <h3>OS grid reference</h3>
-<p>Explorer Map OL13 or Landranger 161 &nbsp;€“ SO283011</p>
+<p>Explorer Map OL13 or Landranger 161 &nbsp;&#45; SO283011</p>
 <h3>Opening times</h3>
-<p>Tue&nbsp;€“Fri 10am&nbsp;€“5pm, Sat&nbsp;€“Sun &amp; Bank Holidays 2pm&nbsp;€“5pm. Other Mondays closed.</p>
+<p>Tue&nbsp;&#45;Fri 10am&nbsp;&#45;5pm, Sat&nbsp;&#45;Sun &amp; Bank Holidays 2pm&nbsp;&#45;5pm. Other Mondays closed.</p>
 <h3>Contact</h3>
 <p>Pontypool Museum, Park Buildings, Park Road, Pontypool NP4 6JH, tel 01495 752036,
 <a href="http://www.pontypoolmuseum.org.uk" target="_blank">www.pontypoolmuseum.org.uk</a></p>

@@ -3,10 +3,10 @@
 <h1>Dormice in the Brecon Beacons National Park</h1>
 <div class="article-video right clearfix"/>
 <p/><p>
-<span style="font-size:18px;">The dormouse is one of our smallest and most secretive mammals. You&nbsp;€™re very unlikely to see one unless you&nbsp;€™re specifically looking for them. However, a few small but important populations are known to exist within the Brecon Beacons National Park.</span></p>
+<span style="font-size:18px;">The dormouse is one of our smallest and most secretive mammals. You&nbsp;&#39;re very unlikely to see one unless you&nbsp;&#39;re specifically looking for them. However, a few small but important populations are known to exist within the Brecon Beacons National Park.</span></p>
 <p>
 <img src="/all_images_in_here_please/flora_and_fauna/dormouse.jpg" style="width: 300px; height: 301px; margin-left: 15px; margin-right: 15px; float: right;"/>Only 6-9cm long, the dormouse has deep yellow-orange fur and is our only small mammal to have a thick, bushy tail.&nbsp; </p>
-<p>Dormice can be found in deciduous woodland and overgrown hedgerows. They&nbsp;€™re only active at night. During the day, they sleep in nests, often in hollow tree branches, or deserted bird nests or nestboxes.</p>
+<p>Dormice can be found in deciduous woodland and overgrown hedgerows. They&nbsp;&#39;re only active at night. During the day, they sleep in nests, often in hollow tree branches, or deserted bird nests or nestboxes.</p>
 <p>They rarely comes to the ground and instead spend most of their time foraging in trees and hedgerows for flowers, pollen, fruits, insects and nuts. They require a diverse habitat to provide this range of food and favour coppiced woodlands with a dense canopy. They rely on a network of branches to make their way around, so any disturbance to trees and hedgerows may have an impact on their numbers.</p>
 <p>Dormice can raise one or occasionally two litters of around four young each year. The newborn dormice remain with their mother for six to eight weeks before becoming independent. Their breeding season and success depends very much on the weather.</p>
 <p>During the winter, dormice hibernate and are not normally active again until about April or May. They live up to five years in the wild, much longer than other comparable small mammals.</p>

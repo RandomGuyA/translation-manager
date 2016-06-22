@@ -10,7 +10,7 @@
 <li>
 <img src="/website/var/tmp/thumb_5604__landing_slider.jpeg" alt="" title="" height="160" width="340"/></li></ul></div>
 <p>
-<span style="font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px;">A walk in the Brecon Beacons National Park comes complete with perfect picnic spots, awe-inspiring views, fascinating historic sites and grand geological features. We've collected a few experiences you shouldn&nbsp;€™t miss on your own journey through the National Park. If this taster whets your appetite, click&nbsp; </span><a href="/visit" style="font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px;">here</a><span style="font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px;">&nbsp; for more things to see and do.</span></p>
+<span style="font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px;">A walk in the Brecon Beacons National Park comes complete with perfect picnic spots, awe-inspiring views, fascinating historic sites and grand geological features. We've collected a few experiences you shouldn&nbsp;&#39;t miss on your own journey through the National Park. If this taster whets your appetite, click&nbsp; </span><a href="/visit" style="font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px;">here</a><span style="font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px;">&nbsp; for more things to see and do.</span></p>
 <!--SearchEnd//-->
 <div class="hightlights">
 <h2 class="fancy-title">HIGHLIGHTS</h2>
@@ -34,7 +34,7 @@
 <div class="section-box jagged">
 <p>Pontneddfechan
 
- You&nbsp;€™re spoiled for choice when it comes to inviting r...</p></div>
+ You&nbsp;&#39;re spoiled for choice when it comes to inviting r...</p></div>
 </li>
 <li>
 <a href="/explore/things_to_do/walking/walking_highlights/best_for_viewpoints"/><h3><a href="/explore/things_to_do/walking/walking_highlights/best_for_viewpoints">Best for viewpoints</a></h3>
@@ -48,6 +48,6 @@
 <div class="section-box jagged">
 <p>Castle Meadows
 
- It&nbsp;€™s a birdwatching bonanza on this stretch of theAbe...</p></div>
+ It&nbsp;&#39;s a birdwatching bonanza on this stretch of theAbe...</p></div>
 </li></ul></div>
 <div class="hightlights"/></div></body></html>

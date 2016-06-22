@@ -6,14 +6,14 @@
 <span style="font-size:18px;">Our National Park has some of the most beautiful mountain scenery in the UK and walking and climbing are rewarding experiences. However, care is needed, whether you'll be sticking to the foothills or tackling the peaks, which are close to 900m high. Take note of the following points to make sure you enjoy your visit safely.</span></p>
 <h2>Plan your route</h2>
 <ul>
-<li>Choose a route that is suited to your ability&nbsp; &nbsp;€“ don&nbsp;€™t plan a challenging climb if you don&nbsp;€™t feel confident or fit enough to tackle it</li>
+<li>Choose a route that is suited to your ability&nbsp; &nbsp;&#45; don&nbsp;&#39;t plan a challenging climb if you don&nbsp;&#39;t feel confident or fit enough to tackle it</li>
 <li>Guide books can provide routes or help you design your own</li>
 <li>Use a good map such as Ordnance Survey (available from all National Park information centres), preferably 1:25,000 scale</li>
 <li>Make a route card that details each section of your route with grid references, distances etc</li></ul>
 <h2>Get the timing right</h2>
 <ul>
-<li>As a rough guide, allow for a speed of 4km/h (2.5mph), plus an additional half hour for every 300m climbed &nbsp;€“ but remember times will vary depending on the conditions and your particular walking speed</li>
-<li>Allow plenty of time to complete your route before nightfall and have a planned alternative &nbsp;€˜escape&nbsp;€™ route in case of emergency</li></ul>
+<li>As a rough guide, allow for a speed of 4km/h (2.5mph), plus an additional half hour for every 300m climbed &nbsp;&#45; but remember times will vary depending on the conditions and your particular walking speed</li>
+<li>Allow plenty of time to complete your route before nightfall and have a planned alternative &nbsp;€˜escape&nbsp;&#39; route in case of emergency</li></ul>
 <h2>Take the right equipment</h2>
 <ul>
 <li>Clothing: warm, windproof layers, good waterproofs, a warm hat and gloves in cold weather, a hat with brim in the sun</li>
@@ -23,11 +23,11 @@
 <li>Extras: pencil and paper, torch, coins for phone calls (mobile phone coverage can be patchy), survival bag, spare clothes</li></ul>
 <h2>Be weather-wise</h2>
 <ul>
-<li>Conditions can change rapidly and the general forecast is not always reliable, so plan for the worst &nbsp;€“&nbsp; there is a danger of exposure all year round</li>
-<li>It will get colder the higher you go&nbsp; &nbsp;€“&nbsp; on the hilltops, spring and autumn can feel like winter and even in summer, it can be chilly</li>
+<li>Conditions can change rapidly and the general forecast is not always reliable, so plan for the worst &nbsp;&#45;&nbsp; there is a danger of exposure all year round</li>
+<li>It will get colder the higher you go&nbsp; &nbsp;&#45;&nbsp; on the hilltops, spring and autumn can feel like winter and even in summer, it can be chilly</li>
 <li>Mist, wind or rain can disorientate you and make you lose your way</li>
 <li>Apply suncream even on overcast days to avoid the risk of burning</li>
-<li>In snow and ice you need special equipment and skills to go out on the mountains &nbsp;€“ do&nbsp; not attempt this without them</li></ul>Stay safe and have fun!
+<li>In snow and ice you need special equipment and skills to go out on the mountains &nbsp;&#45; do&nbsp; not attempt this without them</li></ul>Stay safe and have fun!
 
 <!--SearchEnd//-->
 <div class="hightlights"/></div></body></html>

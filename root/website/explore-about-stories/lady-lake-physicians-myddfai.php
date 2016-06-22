@@ -16,7 +16,7 @@
 <p>
 <img src="/all_images_in_here_please/historic_figures_of_wales/early-physician.jpg" style="width: 200px; height: 173px; margin-left: 15px; margin-right: 15px; float: right;"/>As the sons grew up, it became clear that they had inherited their mother's magical knowledge and powers. They could have used these to become great warriors, but chose instead to become the first in a long line of great healers.</p>
 <p>Using natural products gathered from the surrounding area, the Physicians of Myddfai created cures and remedies for headaches, sunburn, swellings, coughs and sneezes. Some of these ancient remedies are recorded in the Red Book of Hergest. The book itself currently belongs to Jesus College, Oxford, and is kept in the Bodleian Library.</p>
-<p>Some believe that the myth of Llyn-y-Fan Fach gave rise to another famous tale &nbsp;€“ the Arthurian legend of the Lady of the Lake and Excalibur.</p>
+<p>Some believe that the myth of Llyn-y-Fan Fach gave rise to another famous tale &nbsp;&#45; the Arthurian legend of the Lady of the Lake and Excalibur.</p>
 <p>&nbsp; </p></div>
 <br/>
 

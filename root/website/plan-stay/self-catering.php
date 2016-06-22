@@ -28,10 +28,10 @@
 <img src="/website/var/tmp/thumb_7097__landing_slider.jpeg" alt="" title="" height="160" width="340"/>
 <span>Cefncoedbach Cottages</span></li></ul></div>
 <p>
-<span style="font-size:18px;">Cosy cottages on sleepy lanes, quirky barn conversions, grand houses perched on hillsides with glorious views &nbsp;€“ we do this type of holiday well in this part of Wales.</span></p>
+<span style="font-size:18px;">Cosy cottages on sleepy lanes, quirky barn conversions, grand houses perched on hillsides with glorious views &nbsp;&#45; we do this type of holiday well in this part of Wales.</span></p>
 <div>
 <p>
-<span style="font-size:18px;">Book your own hideaway and you&nbsp;€™ll have far more room to stretch out than you would in a hotel or a B&amp;B. If you&nbsp;€™re visiting with friends and family, you could rent a couple of nearby properties for the perfect combination of privacy and companionship. You may have to commit to a week or more, starting on a set day of the week. However, many properties also offer shorter stays, particularly in low season.</span></p></div>
+<span style="font-size:18px;">Book your own hideaway and you&nbsp;&#39;ll have far more room to stretch out than you would in a hotel or a B&amp;B. If you&nbsp;&#39;re visiting with friends and family, you could rent a couple of nearby properties for the perfect combination of privacy and companionship. You may have to commit to a week or more, starting on a set day of the week. However, many properties also offer shorter stays, particularly in low season.</span></p></div>
 <p>&nbsp; </p>
 <!--SearchEnd//-->
 <div class="hightlights"/>

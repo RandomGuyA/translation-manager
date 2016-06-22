@@ -8,7 +8,7 @@
 <div>
 <strong><span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Castle Meadows&nbsp; </span></strong></div>
 <div>
-<span style="font-family: 'trebuchet ms', helvetica, sans-serif;">It&nbsp;€™s a birdwatching bonanza on this stretch of the&nbsp; 
+<span style="font-family: 'trebuchet ms', helvetica, sans-serif;">It&nbsp;&#39;s a birdwatching bonanza on this stretch of the&nbsp; 
 <a href="/explore/things_to_do/walking/where_to_walk/bus_walks/abergavenny_riverside">Abergavenny Riverside</a>&nbsp; walk. The banks of the river Usk are home to colonies of aerobatic sand martins, along with brightly coloured kingfishers and goosanders.&nbsp; </span></div>
 <div>&nbsp; </div>
 <div>
@@ -20,7 +20,7 @@
 <div>
 <strong><span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Craig Cerrig-Gleisiad</span></strong></div>
 <div>
-<span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Known for unusual alpine-arctic plants like purple saxifrage and serrated wintergreen &nbsp;€“ found here at their southernmost extreme in the UK &nbsp;€“ craggy Craig Cerrig-Gleisiad is a natural highlight of both the&nbsp; 
+<span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Known for unusual alpine-arctic plants like purple saxifrage and serrated wintergreen &nbsp;&#45; found here at their southernmost extreme in the UK &nbsp;&#45; craggy Craig Cerrig-Gleisiad is a natural highlight of both the&nbsp; 
 <a href="/explore/things_to_do/walking/where_to_walk/moderate_walks/glyntarell_geotrail">Glyn Tarrell Geotrail</a>&nbsp; and the&nbsp; 
 <a href="/explore/things_to_do/walking/where_to_walk/bus_walks/storey_arms_to_the_visitor_centre">Storey Arms to Visitor Centre</a>&nbsp; walks.</span></div>
 <div>&nbsp; </div>

@@ -17,7 +17,7 @@
 <br/>11.35 - 11.55 am Stop at Pontsticill Station for refreshments.
 <br/>11.55 am Train returns to Pant Station for lunch and departure or alternatively remain
 <br/>at Pontsticill for lunch and a walk. Return on later train.
-<br/>2.35 pm Train returns to Pant Station &nbsp;€“ visit the workshop.
+<br/>2.35 pm Train returns to Pant Station &nbsp;&#45; visit the workshop.
 <br/>3.30 pm Depart for home.</strong></p>
 <!--SearchEnd//-->
 <div class="hightlights"/></div></body></html>

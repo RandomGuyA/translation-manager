@@ -3,7 +3,7 @@
 <h1>Llandovery</h1>
 <div class="article-video right clearfix"/>
 <p/><p>Situated on the western border of the National Park, Llandovery was described by the early travel writer George Borrow as&nbsp; 
-<em>'the pleasantest little town in which I have halted&nbsp;€™</em>.
+<em>'the pleasantest little town in which I have halted&nbsp;&#39;</em>.
 <br/>
 <br/>The town is a great base for enjoying the western Brecon Beacons. The area is popular for many outdoor activities including walking in the Black Mountain, road cycling, mountain biking at Crychan Forest and Cwm Rhaeadr, and fishing on the River Towy and
 <a href="http://www.breconbeacons.org/4-walk-usk-reservoir">Usk Reservoir</a>.

@@ -10,9 +10,9 @@
 <h3>How to get there</h3>
 <p>The cathedral is just off the B4520, Priory Hill, 750m from Brecon town centre. By bus, take route 40B.</p>
 <h3>OS grid reference</h3>
-<p>Explorer Map OL12 or Landranger Map 160 &nbsp;€“ SO044290</p>
+<p>Explorer Map OL12 or Landranger Map 160 &nbsp;&#45; SO044290</p>
 <h3>Opening times</h3>
-<p>Daily, 8.30am&nbsp;€“6.30pm</p>
+<p>Daily, 8.30am&nbsp;&#45;6.30pm</p>
 <h3>Contact</h3>
 <p>Brecon Cathedral, The Cathedral Close, Brecon LD3 9DP, tel 01874 623857,
 <a href="http://www.breconcathedral.org.uk" target="_blank">www.breconcathedral.org.uk</a></p>

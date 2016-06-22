@@ -10,13 +10,13 @@
 <br/>The lime made on the Black Mountain was mostly used in agriculture. Throughout the 19
 <sup>th</sup>century, farmers would travel from far and wide by horse and cart to collect lime which they spread on their fields. Lime was used to reduce the acidity of poor soils, making them more fertile and productive. Increased productivity enabled the agricultural economy to develop and helped feed the new urban populations growing up in the industrial areas of South Wales.
 <br/>&nbsp; 
-<br/>The huge demand for agricultural lime led the building of new &nbsp;€˜turnpike&nbsp;€™ roads to cope with the traffic of lime carts. The network of roads leading to the Black Mountain are a result of the expansion of the industry during the 19
-<sup>th</sup>Century. Tolls charged for transporting lime on the new roads rose ever higher. Eventually in 1839, following years of poor harvests, and rising taxes, the additional cost of tolls for transporting lime to their farms, became one of the reasons for the outbreak of the famous &nbsp;€˜Rebecca Riots&nbsp;€™. The desperate rural population could take no more. Mobs disguised in women&nbsp;€™s clothing rose up to destroy the toll gates set up on the roads.
+<br/>The huge demand for agricultural lime led the building of new &nbsp;€˜turnpike&nbsp;&#39; roads to cope with the traffic of lime carts. The network of roads leading to the Black Mountain are a result of the expansion of the industry during the 19
+<sup>th</sup>Century. Tolls charged for transporting lime on the new roads rose ever higher. Eventually in 1839, following years of poor harvests, and rising taxes, the additional cost of tolls for transporting lime to their farms, became one of the reasons for the outbreak of the famous &nbsp;€˜Rebecca Riots&nbsp;&#39;. The desperate rural population could take no more. Mobs disguised in women&nbsp;&#39;s clothing rose up to destroy the toll gates set up on the roads.
 <br/>&nbsp; 
 <br/>Cheap imported grain and the development of chemical fertilisers led to a decline in the demand for lime. By the end of the 19
 <sup>th</sup>century the Black Mountain Quarries were mostly abandoned, but lime continued to be made whenever there was a demand. The quarries finally closed in 1958.
 <br/>&nbsp; 
 <br/>Lime was made by burning limestone with coal in the numerous kilns on the site. At around 1000
-<sup>0</sup>C the limestone changes into Calcium oxide or &nbsp;€˜quicklime&nbsp;€™. This useful substance is chemically unstable and when mixed with water undergoes a violent chemical reaction releasing a lot of heat, so the job of digging quicklime out of the kilns was hot, unpleasant and dangerous work!</p>
+<sup>0</sup>C the limestone changes into Calcium oxide or &nbsp;€˜quicklime&nbsp;&#39;. This useful substance is chemically unstable and when mixed with water undergoes a violent chemical reaction releasing a lot of heat, so the job of digging quicklime out of the kilns was hot, unpleasant and dangerous work!</p>
 <!--SearchEnd//-->
 <div class="hightlights"/></div></body></html>

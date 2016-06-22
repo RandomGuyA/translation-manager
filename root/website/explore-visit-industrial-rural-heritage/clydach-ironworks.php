@@ -14,7 +14,7 @@
 <h3>Nearest town or village</h3>
 <p>Gilwern, Brynmawr</p>
 <h3>OS grid reference</h3>
-<p>Ordnance Survey Explorer Map 13 or Landranger Map 161 &nbsp;€“ SO230133</p>
+<p>Ordnance Survey Explorer Map 13 or Landranger Map 161 &nbsp;&#45; SO230133</p>
 <h3>Parking</h3>
 <p>Small car park and layby</p>
 <h3>Toilets</h3>

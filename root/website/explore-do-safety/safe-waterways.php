@@ -3,11 +3,11 @@
 <h1>Stay safe when visiting lakes, waterways and waterfalls in the Brecon Beacons National Park</h1>
 <div class="article-video right clearfix"/>
 <p/><p>
-<span style="font-size:18px;">There are wonderful waterside places to explore in our National Park, but they can be dangerous as well as beautiful. Whatever activity you're planning, it's a good idea to check the latest conditions. A sparkling mountain stream that&nbsp;€™s normally a delight to paddle in can become a raging torrent after a night's rainfall.</span></p>
+<span style="font-size:18px;">There are wonderful waterside places to explore in our National Park, but they can be dangerous as well as beautiful. Whatever activity you're planning, it's a good idea to check the latest conditions. A sparkling mountain stream that&nbsp;&#39;s normally a delight to paddle in can become a raging torrent after a night's rainfall.</span></p>
 <h2>Take extra care after rain</h2>
 <h2>
 <img src="/all_images_in_here_please/outdoor_activity_images/splash/water_info-_reservoir.jpg" style="width: 300px; height: 400px; margin-left: 15px; margin-right: 15px; float: right;"/></h2>
-<p>Heavy downpours often wash the Park's characteristically reddish brown soil into the waterways. Unless you're an expert, keep well clear of water that is coloured brown or red &nbsp;€“ it's a sign of a waterway swollen by rain. The one exception to this is the Monmouthshire and Brecon Canal where narrowboats often stir up mud from the bottom, even on the sunniest of days!&nbsp; </p>
+<p>Heavy downpours often wash the Park's characteristically reddish brown soil into the waterways. Unless you're an expert, keep well clear of water that is coloured brown or red &nbsp;&#45; it's a sign of a waterway swollen by rain. The one exception to this is the Monmouthshire and Brecon Canal where narrowboats often stir up mud from the bottom, even on the sunniest of days!&nbsp; </p>
 <h2>Water height</h2>
 <p>Avoid wading across rivers - this can be extremely dangerous. Rivers are often fast flowing and much deeper than they look. The flow and depth of water can vary widely from day to day.</p>
 <p>If you're going canoeing or fishing on the River Wye or the River Usk, check the webcams on the Wye and Usk Foundation website (
@@ -20,17 +20,17 @@
 <h2>Ice</h2>
 <p>Frozen lakes and sculptural waterfalls may look beautiful, but when ice is spread thinly over a deep, cold lake or reservoir, it can be a deadly trap for the unwary. If water appears to be frozen, don't trust it to take your weight. There's only one sensible suggestion: keep off.</p>
 <h2>Wild swimming</h2>
-<p>There are no formal facilities within the National Park for outdoor swimming, but with a bit of imagination many rivers and lakes can be enjoyed. However, unless you're very experienced, this is best not attempted without a local guide. Even strong swimmers have been known to get into difficulties because of unfamiliar currents, underwater obstacles or the effects of very cold water &nbsp;€“ the water is always cold, even in hot weather. Don't jump or dive into unknown waters.&nbsp; </p>
+<p>There are no formal facilities within the National Park for outdoor swimming, but with a bit of imagination many rivers and lakes can be enjoyed. However, unless you're very experienced, this is best not attempted without a local guide. Even strong swimmers have been known to get into difficulties because of unfamiliar currents, underwater obstacles or the effects of very cold water &nbsp;&#45; the water is always cold, even in hot weather. Don't jump or dive into unknown waters.&nbsp; </p>
 <p>The River and Lake Swimming Association video below offers useful advice.
 <br/>
 <br/>
 <iframe frameborder="0" height="315" scrolling="no" src="http://www.youtube.com/embed/QBGp-q9oEoQ" width="560"/></p>
-<p>You should never swim in a canal or reservoir in the Brecon Beacons National Park &nbsp;€“ this is not permitted for personal safety and biosecurity reasons.</p>
+<p>You should never swim in a canal or reservoir in the Brecon Beacons National Park &nbsp;&#45; this is not permitted for personal safety and biosecurity reasons.</p>
 <h2>Waterfalls</h2>
 <p>Avoid wearing trainers, mules or sandals on our waterfall paths as these don't give enough grip on slippery rocks and uneven ground. Wear walking boots or trail shoes instead. Look out for steep drops and keep away from the edge of banks and ledges. There are sudden cliff edges around the waterfalls and river banks can be unstable.</p>
 <h2>General advice</h2>
 <p>Supervise children at all times. Even shallow water can be dangerous.</p>
-<p>Read any signs you see &nbsp;€“ they may be telling you about specific hazards.</p>
+<p>Read any signs you see &nbsp;&#45; they may be telling you about specific hazards.</p>
 <div>Follow the Waterways Code as recommended by the Canal and River Trust (
 <a href="http://www.waterscape.com" target="_blank">www.waterscape.com</a>).</div>
 <div>&nbsp; </div>

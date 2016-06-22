@@ -17,37 +17,37 @@
 <br/>
 <img src="/website/var/tmp/thumb_809__auto_95c22c1ba81a9d77065a83850fc6a148.jpeg" style="width: 200px; margin-left: 15px; margin-right: 15px; float: right; height: 300px;"/>Talgarth Country Market</h4>
 <h6>Talgarth Town Hall, The Square, Talgarth LD3 0BW, Wales</h6>
-<p>First Sunday of each month, 10am&nbsp;€“1pm</p>
+<p>First Sunday of each month, 10am&nbsp;&#45;1pm</p>
 <h4>Brecon Farmers' Market</h4>
 <h6>Brecon Market Hall, Market Street, Brecon LD3 9AH, Wales</h6>
-<p>Second Saturday of each month, 10am&nbsp;€“2pm</p>
+<p>Second Saturday of each month, 10am&nbsp;&#45;2pm</p>
 <h4>Abergavenny Farmers' Market</h4>
 <h6>Abergavenny Market Hall, Cross Street, Abergavenny NP7 5EU, Wales</h6>
-<p>Fourth Thursday of each month, 9.30am&nbsp;€“2.30pm</p>
+<p>Fourth Thursday of each month, 9.30am&nbsp;&#45;2.30pm</p>
 <h4>Llandovery Farmers' Market</h4>
 <h6>Llandovery Market Square, Llandovery SA20 0AW, Wales</h6>
-<p>Last Saturday of each month, 9am&nbsp;€“2pm</p>
+<p>Last Saturday of each month, 9am&nbsp;&#45;2pm</p>
 <h4>Llangynidr Farmers' Market</h4>
 <h6>Llangynidr Village Hall, Cwmcrawnon Road, Llangynidr, Crickhowell NP8 1LS, Wales</h6>
-<p>Last Sunday of each month, 10am&nbsp;€“1pm</p>
+<p>Last Sunday of each month, 10am&nbsp;&#45;1pm</p>
 <h3>Weekly markets</h3>
 <h4>
 <br/>
 <img src="/website/var/tmp/thumb_808__auto_95c22c1ba81a9d77065a83850fc6a148.jpeg" style="width: 200px; height: 300px; margin-left: 15px; margin-right: 15px; float: right;"/>Abergavenny Market</h4>
 <h5>Abergavenny Market Hall, Cross Street, Abergavenny NP7 5EU, Wales</h5>
-<p>Every Tuesday, Friday and Saturday, 6am&nbsp;€“5pm</p>
+<p>Every Tuesday, Friday and Saturday, 6am&nbsp;&#45;5pm</p>
 <h4>Hay-on-Wye Market</h4>
 <h5>Memorial Square and Butter Market, Hay-on-Wye HR3 5AE, Wales</h5>
-<p>Every Thursday, 8am&nbsp;€“1.30pm</p>
+<p>Every Thursday, 8am&nbsp;&#45;1.30pm</p>
 <h4>Brecon Country Market</h4>
 <h5>Brecon Market Hall, Market Street, Brecon LD3 9AH, Wales</h5>
-<p>Every Friday, 8am&nbsp;€“1.30pm</p>
+<p>Every Friday, 8am&nbsp;&#45;1.30pm</p>
 <h4>Llandeilo Country Market</h4>
 <h5>Civic Hall, Crescent Road, Llandeilo SA19 6HY, Wales</h5>
-<p>Every Friday, 8.30am&nbsp;€“12.30pm</p>
+<p>Every Friday, 8.30am&nbsp;&#45;12.30pm</p>
 <h4>Llandovery Country Market</h4>
 <h5>Castle Hotel, Kings Road, Llandovery SA20 0AP, Wales</h5>
-<p>Every Friday, 9.30am&nbsp;€“12noon</p>
+<p>Every Friday, 9.30am&nbsp;&#45;12noon</p>
 <p>&nbsp; </p>
 <p>&nbsp; </p>
 

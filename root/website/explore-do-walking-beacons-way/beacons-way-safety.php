@@ -8,7 +8,7 @@
 <li>Always let someone know where you are going, the route you are walking and the time that you intend to return</li>
 <li>Ensure that you are competent with a map and compass, as several of the days have challenging navigation in the event of poor visibility. Always carry a suitable map and compass, rather than relying solely on electronic maps and navigation aids</li>
 <li>The maps provided in this booklet are for guidance only, navigation should be undertaken using the appropriate 1:25,000 map</li>
-<li>Allow plenty of time to complete your route before nightfall and have a planned alternative &nbsp;€˜escape&nbsp;€™ route in case of emergency</li>
+<li>Allow plenty of time to complete your route before nightfall and have a planned alternative &nbsp;€˜escape&nbsp;&#39; route in case of emergency</li>
 <li>Some sections of the route require you to walk on roads and country lanes. Use pavements whenever possible. Where there is no pavement, keep in single file, face oncoming traffic, look and listen for vehicles, give way to vehicles in narrow roads and carry a torch at front and back at night</li></ul>&nbsp; 
 <br/>
 <strong>NOTE</strong>From time to time public rights of way are legally diverted and permitted paths may be changed or created. When this happens on the Beacons Way the new route will be signed and waymarked.
@@ -17,14 +17,14 @@
 <strong>WEATHER</strong>
 <ul>
 <li>Check a weather forecast before leaving and look for early indicators of changes to weather during the day</li>
-<li>Conditions can change rapidly and the general forecast is not always reliable, so plan for the worst &nbsp;€“ there is a danger of poor weather conditions all year round</li>
+<li>Conditions can change rapidly and the general forecast is not always reliable, so plan for the worst &nbsp;&#45; there is a danger of poor weather conditions all year round</li>
 <li>Apply sun-cream even on overcast days to avoid the risk of burning</li>
-<li>It will get colder the higher you go &nbsp;€“ on the hilltops, spring and autumn can feel like winter and, even in summer, it can be chilly</li>
+<li>It will get colder the higher you go &nbsp;&#45; on the hilltops, spring and autumn can feel like winter and, even in summer, it can be chilly</li>
 <li>Mist, wind or rain can disorientate you and cause you to lose your way</li>
 <li>If the weather is forecast to be poor (heavy rain, high winds, snow, lightning or any combination of these) we would strongly advise you to use the alternative poor weather variant routes in the west</li>
-<li>The poor weather variant route is designed to enable you to continue your walk whilst both experiencing superb landscapes and staying safe &nbsp;€“ if you are in any doubt of the weather or your ability to navigate safely in forecast conditions you should use it</li>
-<li>In snow and ice you need special equipment and skills to go out on the mountains &nbsp;€“ do not attempt this without them</li></ul>&nbsp; 
-<br/>If you need a taxi, make sure it is booked in advance. You can confirm your booking with them when you are an hour or two from the pick up point.&nbsp;  Remember that reception is normally better at the top of the hills.&nbsp;€™
+<li>The poor weather variant route is designed to enable you to continue your walk whilst both experiencing superb landscapes and staying safe &nbsp;&#45; if you are in any doubt of the weather or your ability to navigate safely in forecast conditions you should use it</li>
+<li>In snow and ice you need special equipment and skills to go out on the mountains &nbsp;&#45; do not attempt this without them</li></ul>&nbsp; 
+<br/>If you need a taxi, make sure it is booked in advance. You can confirm your booking with them when you are an hour or two from the pick up point.&nbsp;  Remember that reception is normally better at the top of the hills.&nbsp;&#39;
 <br/>&nbsp; 
 <br/>
 <strong>EQUIPMENT</strong>

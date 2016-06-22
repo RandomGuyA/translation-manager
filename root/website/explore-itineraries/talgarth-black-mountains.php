@@ -17,19 +17,19 @@
 <a href="/explore/101_great_days_out/around_talgarth_black_mountains/black_mountains_castell_dinas_gliding_club"/><h3><a href="/explore/101_great_days_out/around_talgarth_black_mountains/black_mountains_castell_dinas_gliding_club">Black Mountains: breathtaking views from Castell Dinas and the Gliding Club</a></h3>
 <div class="section-box jagged">
 <img src="/website/var/tmp/thumb_1356__auto_4b249ffbb4ec9b72627d3bfe7a513297.png" alt="" title="" height="90" width="190"/>
-<p>Head for the sky with this itinerary &nbsp;€“ and enjoy a walk to the highest Ca...</p></div>
+<p>Head for the sky with this itinerary &nbsp;&#45; and enjoy a walk to the highest Ca...</p></div>
 </li>
 <li>
 <a href="/explore/101_great_days_out/around_talgarth_black_mountains/black_mountains_rhos_fach_crickhowell_castle"/><h3><a href="/explore/101_great_days_out/around_talgarth_black_mountains/black_mountains_rhos_fach_crickhowell_castle">Black Mountains: Rhos Fach Common and Crickhowell Castle</a></h3>
 <div class="section-box jagged">
 <img src="/website/var/tmp/thumb_909__landing_page_highlights.jpeg" alt="" title="" height="90" width="190"/>
-<p>Drive up to Rhos Fach Common tucked under Y Das Mountain&nbsp;€“ where you can s...</p></div>
+<p>Drive up to Rhos Fach Common tucked under Y Das Mountain&nbsp;&#45; where you can s...</p></div>
 </li>
 <li>
 <a href="/explore/101_great_days_out/around_talgarth_black_mountains/talgarth_llangorse_lake_churches"/><h3><a href="/explore/101_great_days_out/around_talgarth_black_mountains/talgarth_llangorse_lake_churches">Relax at Llangorse Lake and the peaceful churches near Talgarth</a></h3>
 <div class="section-box jagged">
 <img src="/website/var/tmp/thumb_5123__landing_page_highlights.jpeg" alt="" title="" height="90" width="190"/>
-<p>Arrive at the car park on the North side of Llangors Lake &nbsp;€“ the largest n...</p></div>
+<p>Arrive at the car park on the North side of Llangors Lake &nbsp;&#45; the largest n...</p></div>
 </li>
 <li>
 <a href="/explore/101_great_days_out/around_talgarth_black_mountains/talgarth_pwll_y_wrach_mill_bronllys"/><h3><a href="/explore/101_great_days_out/around_talgarth_black_mountains/talgarth_pwll_y_wrach_mill_bronllys">Pwll-y-Wrach Nature Reserve, Talgarth Mill and Bronllys Castle</a></h3>

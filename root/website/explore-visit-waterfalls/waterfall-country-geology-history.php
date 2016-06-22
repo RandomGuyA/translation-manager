@@ -10,7 +10,7 @@
 <p>Each one of the growing international family of European and UNESCO Geoparks is an area with an important and often extraordinary geological heritage. Geoparks are not just about rocks, however, they are also about people. Fascinating human stories emerge from their unique landscapes. Geoparks celebrate local legends and culture, archaeology and our wider relationship with the land. They are also first class outdoor classrooms and places for scientific study.</p>
 <p>During successive ice ages in the last couple of million years the Vale of Neath has been gouged out by glacial ice so that its floor is hundreds of metres lower than it would have been prior to the ice ages. This has resulted in the various tributary rivers of the Neath (including the Mellte, Hepste and Nedd-Fechan) being rejuvenated - cutting down into their beds to form the deep gorges characteristic of Waterfall Country.</p>
 <p>Down-cutting has been most marked where the bedrock is mudstone whilst sandstone beds offer more resistance and are responsible for the falls and rapids. Where much older faults have brought the two rock types into conjunction, down-cutting by rivers in the mudstone has normally left a projecting lip of sandstone which in the most extreme cases is tens of metres high.</p>
-<p>With continued fracturing of the underlying exposed mudstones and their removal, the stresses on the protruding sandstone cap-rock above leads to its collapse. Severe weather conditions &nbsp;€“ high flow rates and severe frosts &nbsp;€“ accelerate the process.</p>
+<p>With continued fracturing of the underlying exposed mudstones and their removal, the stresses on the protruding sandstone cap-rock above leads to its collapse. Severe weather conditions &nbsp;&#45; high flow rates and severe frosts &nbsp;&#45; accelerate the process.</p>
 <p>The waterfalls migrate slowly upstream at a rate which can be determined by the distance between the current location of each individual fall and the fault which often lies some metres downstream of it. Sgwd-yr-Eira provides a good example of this process, one which continues to this day, as evidenced by the problems experienced with loose rock in 2008.</p>
 <h2>Quarries, mines and gunpowder: the history of Waterfall Country</h2>
 <p>
@@ -20,7 +20,7 @@
 <p>The southern fringe of the Park is geologically varied and a range of industrial mining and quarrying activities were developed here. These included silica mining, millstone quarrying and limestone burning in kilns built in areas of enclosed limestone to produce lime for local agricultural use.</p>
 <p>Corn mills and the
 <a href="http://www.breconbeacons.org/glyn-neath-gunpowder-works-pontneddfechan" target="_blank">Glyn-Neath Gunpowder Works</a>ran on river power. The Gunpowder Works is thought to have been unique in Wales. The site was chosen for its enclosed and isolated location.</p>
-<p>It&nbsp;€™s thought that many more former sites of industry still await discovery in the region. Some of these may be major sites, comparable in size to the large quarrying complex on Moel Penderyn, which includes quarries, inclines and tramways.</p>
+<p>It&nbsp;&#39;s thought that many more former sites of industry still await discovery in the region. Some of these may be major sites, comparable in size to the large quarrying complex on Moel Penderyn, which includes quarries, inclines and tramways.</p>
 
 <!--SearchEnd//-->
 <div class="hightlights"/></div></body></html>

@@ -2,35 +2,35 @@
 <!--SearchStart//-->
 <h1>Staying safe</h1>
 <div>
-<span style="font-family:trebuchet ms,helvetica,sans-serif;">We want you to have a safe and enjoyable time here in the Brecon Beacons National Park, whether you&nbsp;€™re walking alone, in a group or with a four-legged friend.&nbsp; </span></div>
+<span style="font-family:trebuchet ms,helvetica,sans-serif;">We want you to have a safe and enjoyable time here in the Brecon Beacons National Park, whether you&nbsp;&#39;re walking alone, in a group or with a four-legged friend.&nbsp; </span></div>
 <div>&nbsp; </div>
 <h4>
 <span style="color:#008000;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">Walking safely</span></span></h4>
 <div>&nbsp; </div>
 <div>
-<span style="font-family:trebuchet ms,helvetica,sans-serif;">It doesn&nbsp;€™t matter if you&nbsp;€™re embarking on a low-level stroll or a high-altitude hike. Follow the simple instructions below for a walk you&nbsp;€™ll remember for all the right reasons.</span></div>
+<span style="font-family:trebuchet ms,helvetica,sans-serif;">It doesn&nbsp;&#39;t matter if you&nbsp;&#39;re embarking on a low-level stroll or a high-altitude hike. Follow the simple instructions below for a walk you&nbsp;&#39;ll remember for all the right reasons.</span></div>
 <div>&nbsp; </div>
 <div>
 <span style="font-family:trebuchet ms,helvetica,sans-serif;"><strong>Plan ahead</strong></span></div>
 <div>
-<span style="font-family:trebuchet ms,helvetica,sans-serif;">Know where you are going to walk. Take a map and compass (as well as any leaflets/downloads), and know how to use them. Don&nbsp;€™t rely on technology alone the National Park area has some of the poorest mobile signal in Wales.</span></div>
+<span style="font-family:trebuchet ms,helvetica,sans-serif;">Know where you are going to walk. Take a map and compass (as well as any leaflets/downloads), and know how to use them. Don&nbsp;&#39;t rely on technology alone the National Park area has some of the poorest mobile signal in Wales.</span></div>
 <div>&nbsp; </div>
 <div>
 <span style="font-family:trebuchet ms,helvetica,sans-serif;"><strong>Take the right equipment</strong></span></div>
 <div>
-<span style="font-family:trebuchet ms,helvetica,sans-serif;">Make sure you&nbsp;€™re wearing suitable clothes and footwear for the type of walk you&nbsp;€™re tackling. Take some supplies of water and food with you.</span></div>
+<span style="font-family:trebuchet ms,helvetica,sans-serif;">Make sure you&nbsp;&#39;re wearing suitable clothes and footwear for the type of walk you&nbsp;&#39;re tackling. Take some supplies of water and food with you.</span></div>
 <div>
 <span style="font-family:trebuchet ms,helvetica,sans-serif;">Do take a mobile phone with you, but be aware that there are areas without any signal and if you need assistance you may have to change your location by going up a hill, over a hill or down a valley.</span></div>
 <div>&nbsp; </div>
 <div>
 <span style="font-family:trebuchet ms,helvetica,sans-serif;"><strong>Watch and plan for the weather&nbsp; </strong></span></div>
 <div>
-<span style="font-family:trebuchet ms,helvetica,sans-serif;">Consult the weather, mountain and severe weather forecasts before you go, but remember that conditions can change quickly. It&nbsp;€™s recommended always to have extra warm clothes, waterproofs and a hat with you.</span></div>
+<span style="font-family:trebuchet ms,helvetica,sans-serif;">Consult the weather, mountain and severe weather forecasts before you go, but remember that conditions can change quickly. It&nbsp;&#39;s recommended always to have extra warm clothes, waterproofs and a hat with you.</span></div>
 <div>&nbsp; </div>
 <div>
 <span style="font-family:trebuchet ms,helvetica,sans-serif;"><strong>Tell someone where you're going</strong></span></div>
 <div>
-<span style="font-family:trebuchet ms,helvetica,sans-serif;">Make sure that somebody knows your route and what time you expect to be back. Tell them when you get back safely, or if you are delayed or change your plans. Make sure they know what to do if you don&nbsp;€™t get back on time.</span></div>
+<span style="font-family:trebuchet ms,helvetica,sans-serif;">Make sure that somebody knows your route and what time you expect to be back. Tell them when you get back safely, or if you are delayed or change your plans. Make sure they know what to do if you don&nbsp;&#39;t get back on time.</span></div>
 <div>&nbsp; </div>
 <div>
 <span style="font-family:trebuchet ms,helvetica,sans-serif;"><strong>If you're in a group, look out for each other</strong></span></div>

@@ -10,7 +10,7 @@
 <h2>Awards and accolades</h2>
 <p>The Walnut Tree Inn has one Michelin Star and many other awards, including third place in the National Restaurant Awards list of UK's top 100 places to eat in 2009 (it has remained in the list every year since), National Restaurant Awards Best Gastropub in the UK (2010), National Restaurant Awards Best Restaurant in Wales (2011) and runner-up in the Sunday Times Top 100 Food List award for Best Restaurant in Wales (2012).</p>
 <h2>Opening hours</h2>
-<p>Tue&nbsp;€“Sat, lunch and dinner. Closed Sun&nbsp;€“Mon.</p>
+<p>Tue&nbsp;&#45;Sat, lunch and dinner. Closed Sun&nbsp;&#45;Mon.</p>
 <address>The Walnut Tree Inn, Llanddewi Skirrid, near Abergavenny NP7 8AW, Wales, tel 01873 852797</address>
 
 <!--SearchEnd//-->

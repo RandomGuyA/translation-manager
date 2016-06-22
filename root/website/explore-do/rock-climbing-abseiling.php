@@ -5,22 +5,22 @@
 <p/><p>
 <span style="font-size:18px;">If you enjoy climbing, why not take a look at things from a different angle and reach new heights&nbsp; on the cliffs of the Brecon Beacons?</span></p>
 <p>
-<img alt="Hawk Adventures at Dinas Rock" src="/website/var/tmp/thumb_5188__auto_74ee433b70c43883e8f2a227e2539389.jpeg" style="width: 300px; float: right; margin-left: 15px; margin-right: 15px;"/>The National Park offers plenty of natural challenges for climbers and abseilers, including sheltered crags, old quarries and rocky escarpments with stunning vistas. In the sheltered areas, you can climb all year round &nbsp;€“ on a sunny winter's day you might be moving over warm rock in just a t-shirt, if you&nbsp;€™re lucky. There are also all-weather indoor options.</p>
+<img alt="Hawk Adventures at Dinas Rock" src="/website/var/tmp/thumb_5188__auto_74ee433b70c43883e8f2a227e2539389.jpeg" style="width: 300px; float: right; margin-left: 15px; margin-right: 15px;"/>The National Park offers plenty of natural challenges for climbers and abseilers, including sheltered crags, old quarries and rocky escarpments with stunning vistas. In the sheltered areas, you can climb all year round &nbsp;&#45; on a sunny winter's day you might be moving over warm rock in just a t-shirt, if you&nbsp;&#39;re lucky. There are also all-weather indoor options.</p>
 <h2>What to do</h2>
 <h3>1. Tasters (for beginners)</h3>
 <p>Book a taster session with an experienced, qualified instructor who will show you the ropes and give you a taste of the challenge of rock climbing and abseiling.&nbsp; </p>
 <h3>2. Improvers (for returners and skills builders)</h3>
-<p>If you&nbsp;€™ve tried it, liked it and are keen to do more, then a Mountaineering Instructor can guide you on the best routes the area has to offer, or teach you the skills needed to become an independent climber.
+<p>If you&nbsp;&#39;ve tried it, liked it and are keen to do more, then a Mountaineering Instructor can guide you on the best routes the area has to offer, or teach you the skills needed to become an independent climber.
 <a href="http://www.ami.org.uk" target="_blank">The Association of Mountaineering Instructors website</a>&nbsp; lists local instructors.</p>
 <h3>3. Independent experiences (for enthusiasts and experts)</h3>
-<p>Are you already a climber? If you&nbsp;€™re looking for a little adventure and some quality rock then you&nbsp;€™re in the right place. Just sure you know what you're doing.The Brecon Beacons National Park has a variety of traditionally protected routes, bolted sport routes and excellent bouldering, all in beautiful settings.
+<p>Are you already a climber? If you&nbsp;&#39;re looking for a little adventure and some quality rock then you&nbsp;&#39;re in the right place. Just sure you know what you're doing.The Brecon Beacons National Park has a variety of traditionally protected routes, bolted sport routes and excellent bouldering, all in beautiful settings.
 <a href="http://www.southwalesmountaineering.org.uk/" target="_blank">The South Wales Mountaineering Club</a>&nbsp; publishes a local guide, Gower and SE Wales, which covers the area. Their website provides information for experienced climbers planning a trip.</p>
 <h2>Where to go</h2>
 <h3>Outdoor</h3>
 <p>The best outdoor spots are along the limestone belt on the southern side of the National Park.</p>
 <h3>Indoor</h3>
 <p>At
-<a href="http://www.activityuk.com" target="_blank">Llangorse Multi Activity Centre</a>, east of Brecon, there&nbsp;€™s an indoor climbing centre with real rock, artificial climbing walls, bouldering, indoor caving and a cafÃ&copy;. Other nearby indoor climbing centres include
+<a href="http://www.activityuk.com" target="_blank">Llangorse Multi Activity Centre</a>, east of Brecon, there&nbsp;&#39;s an indoor climbing centre with real rock, artificial climbing walls, bouldering, indoor caving and a cafÃ&copy;. Other nearby indoor climbing centres include
 <a href="http://www.aber-rocks.co.uk" target="_blank">Aber Rocks</a>in&nbsp; Abergavenny,
 <a href="http://adventures.rockuk.org/centres/summit-centre" target="_blank">Summit Centre</a>near&nbsp; Merthyr Tydfil,
 <a href="http://www.dynamicrock.co.uk" target="_blank">Dynamic Rock</a>in Clydach near&nbsp; Swansea and
@@ -67,7 +67,7 @@ Paddle a canoe gently along ...</p></div>
 <a href="/businesses/6282"/><h3><a href="/businesses/6282">Bear Grylls Survival Academy</a></h3>
 <div class="section-box jagged">
 <img src="/website/var/tmp/thumb_6514__landing_page_highlights.jpeg" alt=""/>
-<p>Bear Grylls - the world&nbsp;€™s most recognizable face of survival and outd...</p></div>
+<p>Bear Grylls - the world&nbsp;&#39;s most recognizable face of survival and outd...</p></div>
 </li>
 <li class="business-activity ">
 <a href="/businesses/3120"/><h3><a href="/businesses/3120">Taff Valley Quads</a></h3>

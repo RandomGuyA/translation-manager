@@ -3,18 +3,18 @@
 <h1>Black Mountains: breathtaking views from Castell Dinas and the Gliding Club</h1>
 <div class="article-video right clearfix"/>
 <p/><p>
-<span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;"><img alt="Tretower Castle" src="/website/var/tmp/thumb_3091__auto_8015ba857a286d356c253327f61a35af.jpeg" style="width: 300px; height: 240px; margin: 8px 2px; float: right;"/></span></span>Head for the sky with this itinerary &nbsp;€“ and enjoy a walk to the highest Castle ruins in Wales followed
+<span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;"><img alt="Tretower Castle" src="/website/var/tmp/thumb_3091__auto_8015ba857a286d356c253327f61a35af.jpeg" style="width: 300px; height: 240px; margin: 8px 2px; float: right;"/></span></span>Head for the sky with this itinerary &nbsp;&#45; and enjoy a walk to the highest Castle ruins in Wales followed
 <span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">by an afternoon watching the skilled pilots of the Black Mountains gliding Club soar along the mountain ridges.
 <br/>
-<br/>Start the morning with a drive to the car park of the Castle Inn at Pengenffordd on the A479 between Talgarth and Crickhowell where you can leave your car. Leave the car park at the Talgarth end close to the information board and follow the path up to Castell Dinas high on the ridge above you. The site was</span></span><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">originally an Iron age hill fort with a later fortified Norman Castle built on the</span></span><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">site. Although the remains are now crumbling &nbsp;€“ the views into the Black Mountains</span></span><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">and over talgarth towards the Brecon Beacons</span></span><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">have surely stayed just as good!</span></span><br/>
+<br/>Start the morning with a drive to the car park of the Castle Inn at Pengenffordd on the A479 between Talgarth and Crickhowell where you can leave your car. Leave the car park at the Talgarth end close to the information board and follow the path up to Castell Dinas high on the ridge above you. The site was</span></span><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">originally an Iron age hill fort with a later fortified Norman Castle built on the</span></span><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">site. Although the remains are now crumbling &nbsp;&#45; the views into the Black Mountains</span></span><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">and over talgarth towards the Brecon Beacons</span></span><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">have surely stayed just as good!</span></span><br/>
 <span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;"><img alt="Hanglider soaring over the mountains" src="/website/var/tmp/thumb_3079__auto_ae965331096dd030a8497207be298ad4.jpeg" style="width: 300px; margin: 8px 2px; float: right; height: 210px;"/></span></span><br/>
 <span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">The round trip will take about an hour for an averagely fit person and there are some fantastic ridge walks that can be continued from Castell dinas if you fancy going a little further.
 <br/>
-<br/>If you visit at the weekend &nbsp;€“ you could take your lunch at the Castle Inn - if not you could take a
+<br/>If you visit at the weekend &nbsp;&#45; you could take your lunch at the Castle Inn - if not you could take a
 <br/>picnic or return to talgarth to find lunch.
 <br/>
 <br/>After lunch visit the Black Mountains Gliding Club. set at 970 feet above sea level it is said to be
-<br/>the UK&nbsp;€™s best ridge and wave gliding club &nbsp;€“ and it is fascinating to watch the gliders being towed
+<br/>the UK&nbsp;&#39;s best ridge and wave gliding club &nbsp;&#45; and it is fascinating to watch the gliders being towed
 <br/>up and then released to soar with the birds. Those feeling intrepid could also plan and book a
 <br/>trial lesson and get the full experience!</span></span></p>
 <br/>
@@ -29,16 +29,16 @@
 <br/>tel: 01874 711353 is located on the A479 between Talgarth and Crickhowell. The car park is on the left hand side. &nbsp;£1 is charged for parking which should be paid at the Inn. All parking monies are donated to charity.
 <br/>
 <br/>
-<strong>Castell Dinas</strong>&nbsp;€“ so179301 is accessed by a footpath leading from the Castle Inn car park. It is recommended to take an os map.
+<strong>Castell Dinas</strong>&nbsp;&#45; so179301 is accessed by a footpath leading from the Castle Inn car park. It is recommended to take an os map.
 <br/>
 <br/>
 <strong>The Black Mountains Gliding Club</strong>, the airfield, Talgarth ld3 0eJ www.blackmountainsglidingclub. co.uk tel: 01874 711463 is signed off the a479 on the left hand side between talgarth and Crickhowell.</span></span></p>
 <h3>Facilities and Access</h3>
 <p>
 <span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;"><strong>The Castle Inn</strong><br/>Opening Times
-<br/>Wed, thurs, Friday 6.00pm &nbsp;€“ 11pm
-<br/>saturday 12.00pm &nbsp;€“ 12.0pm
-<br/>sunday 12.00pm &nbsp;€“ 10.30pm.
+<br/>Wed, thurs, Friday 6.00pm &nbsp;&#45; 11pm
+<br/>saturday 12.00pm &nbsp;&#45; 12.0pm
+<br/>sunday 12.00pm &nbsp;&#45; 10.30pm.
 <br/>Food is served between 12 and 2.00pm and 6.00pm to 9.00pm on the days the Inn is open. the restaurant and toilets are on the ground floor, but are not especially adapted for disabled access.
 <br/>
 <br/>
@@ -46,10 +46,10 @@
 <br/>
 <br/>
 <strong>The Black Mountains Gliding Club</strong>is open all week between late March and october and
-<br/>weekends only November to late March. gliding will always depend on weather conditions so you are advised to always call to check whether they will be gliding on the day of your planned visit. trial lessons require advance booking. the gliding Club has a small kitchen where you can make your own</span></span><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">drink and a tuck box for snacks &nbsp;€“ which works on an honesty box system. there are also picnic benches on site. the toilets are on the ground floor and the site is flat and grassy.
+<br/>weekends only November to late March. gliding will always depend on weather conditions so you are advised to always call to check whether they will be gliding on the day of your planned visit. trial lessons require advance booking. the gliding Club has a small kitchen where you can make your own</span></span><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">drink and a tuck box for snacks &nbsp;&#45; which works on an honesty box system. there are also picnic benches on site. the toilets are on the ground floor and the site is flat and grassy.
 <br/>
 <br/>
-<strong>By Train</strong>the nearest station is abergavenny &nbsp;€“ talgarth is 18 miles from abergavenny.
+<strong>By Train</strong>the nearest station is abergavenny &nbsp;&#45; talgarth is 18 miles from abergavenny.
 <br/>
 <br/>
 <strong>By bus</strong>: talgarth is serviced by buses in all directions, from hereford, Builth Wells, abergavenny and Brecon. look at

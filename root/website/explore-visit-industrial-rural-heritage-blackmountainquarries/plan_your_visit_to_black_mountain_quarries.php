@@ -5,7 +5,7 @@
 <p><strong>How to get there</strong><br/>The Black Mountain Quarries are accessible by car or bicycle from the A4069 between Brynaman and Llangadog. The site also lies close to the Beacons Way path approximately half way between Llanddeusant Youth Hostel and Carreg Cennen
 <a href="http://www.breconbeaconsparksociety.org/national-park/the-beacons-way">(www.breconbeaconsparksociety.org/national-park/the-beacons-way).</a><br/>&nbsp; 
 <br/>
-<strong>OS grid reference</strong><br/>OS Landranger 160, Explorer map OL12 &nbsp;€“ SN733187
+<strong>OS grid reference</strong><br/>OS Landranger 160, Explorer map OL12 &nbsp;&#45; SN733187
 <br/>&nbsp; 
 <br/>The nearest train station is at Llangadog, on the Heart of Wales Line (approximately 10 miles from the site). For up to date travel information and timetables, visit
 <a href="http://www.traveline-cymru.info/">www.traveline-cymru.info</a>or phone 0871 200 2233.

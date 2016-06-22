@@ -14,7 +14,7 @@
 <span style="font-family:trebuchet ms,helvetica,sans-serif;">A purpose built hide with wheelchair access allows you to get close to the birds. Bookings are strongly advised as the birds are only fed once a day.</span></p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">&nbsp; </p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
-<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="color:#008000;"><strong>How to get there:</strong></span>&nbsp; The Red Kite (formerly the Cross Inn), Llanddeusant is 13km west of Trecastle &nbsp;€“ turn off the A40 by the Castle Coach Inn in Trecastle or signposted from the A4069 Brynaman to Llandovery Road at Pont-ar-llechau.</span></p>
+<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="color:#008000;"><strong>How to get there:</strong></span>&nbsp; The Red Kite (formerly the Cross Inn), Llanddeusant is 13km west of Trecastle &nbsp;&#45; turn off the A40 by the Castle Coach Inn in Trecastle or signposted from the A4069 Brynaman to Llandovery Road at Pont-ar-llechau.</span></p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">&nbsp; </p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
 <span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="color:#008000;"><strong>Nearest town or village:</strong></span>&nbsp; Llanddeusant.</span></p>

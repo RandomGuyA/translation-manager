@@ -5,9 +5,9 @@
 <iframe width="375" height="244" src="https://www.youtube.com/embed/exCByXVOafM" frameborder="0" allowfullscreen="allowfullscreen"/></div>
 <p/><div class="featureContent">
 <p class="documentFirstHeading">A bustling market town with Roman origins and long considered to be a gateway to Wales and to the National Park. Visit the 11th and 12th century ruins of Abergavenny Castle and take a look around the Museum which is housed in the lodge atop the Norman motte.</p>
-<p class="documentFirstHeading">Abergavenny&nbsp;€™s Cycling Festival and its Food Festival are both worth catching.
+<p class="documentFirstHeading">Abergavenny&nbsp;&#39;s Cycling Festival and its Food Festival are both worth catching.
 <br/>
-<br/>There is an easy access walking route which is also suitable for mobility scooters at Castle Meadows. You can pick up the Usk Valley Walk which runs just past Abergavenny whilst the Beacons Way starts at nearby Skirrid Fawr and the Offa&nbsp;€™s Dyke National Trail passes through the nearby hamlet of Pandy.</p>
+<br/>There is an easy access walking route which is also suitable for mobility scooters at Castle Meadows. You can pick up the Usk Valley Walk which runs just past Abergavenny whilst the Beacons Way starts at nearby Skirrid Fawr and the Offa&nbsp;&#39;s Dyke National Trail passes through the nearby hamlet of Pandy.</p>
 <p class="documentFirstHeading" style="text-align: center;">
 <img alt="Abergavenny from the Blorenge mountain with skirrid in the background" src="/website/var/tmp/thumb_996__auto_74ee433b70c43883e8f2a227e2539389.jpeg" style="text-align: center; width: 300px;"/></p>
 <p class="documentFirstHeading">Getting there is easy by public or private transport.&nbsp;  There are half-hourly train services on the line between Cardiff, Newport, Hereford and Manchester. (transport link)

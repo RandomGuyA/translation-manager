@@ -25,11 +25,11 @@
 <a href="/explore/things_to_do/walking/where_to_walk/longer_walks/bwlch-toryfoel"/><h3><a href="/explore/things_to_do/walking/where_to_walk/longer_walks/bwlch-toryfoel">Bwlch to Tor y Foel</a></h3>
 <div class="section-box jagged">
 <img src="/website/var/tmp/thumb_5460__landing_page_highlights.jpeg" alt="" title="" height="90" width="190"/>
-<p>It&nbsp;€™s Bwlch with magnitude.
+<p>It&nbsp;&#39;s Bwlch with magnitude.
 
  
 
- Fresh air, lush valleys and big views &nbsp;€“...</p></div>
+ Fresh air, lush valleys and big views &nbsp;&#45;...</p></div>
 </li>
 <li>
 <a href="/explore/things_to_do/walking/where_to_walk/longer_walks/cefn_llechid"/><h3><a href="/explore/things_to_do/walking/where_to_walk/longer_walks/cefn_llechid">Cefn Llechid</a></h3>

@@ -19,13 +19,13 @@
 <h2>Visiting Tretower Court and Castle</h2>
 <p>Tretower Court and Castle are in the care of Cadw. An entrance fee, which includes use of an audio guide, is payable.</p>
 <h3>How to get there</h3>
-<p>The site is in the village of Tretower in the Usk Valley between Abergavenny and Brecon, off the A479, three miles northwest of Crickhowell. Bus route X43, Brecon&nbsp;€“Abergavenny, stops 400m away on the A40.</p>
+<p>The site is in the village of Tretower in the Usk Valley between Abergavenny and Brecon, off the A479, three miles northwest of Crickhowell. Bus route X43, Brecon&nbsp;&#45;Abergavenny, stops 400m away on the A40.</p>
 <h3>Nearest town or village</h3>
 <p>Tretower, Crickhowell</p>
 <h3>OS grid reference</h3>
 <p>Explorer Map OL13 or Landranger Map 161 - SO185213</p>
 <h3>Opening times</h3>
-<p>Apr&nbsp;€“Oct daily 10am&nbsp;€“5pm; Nov&nbsp;€“Mar Mon&nbsp;€“Thu closed, Fri&nbsp;€“Sat 10am&nbsp;€“4pm, Sun 11am&nbsp;€“4pm</p>
+<p>Apr&nbsp;&#45;Oct daily 10am&nbsp;&#45;5pm; Nov&nbsp;&#45;Mar Mon&nbsp;&#45;Thu closed, Fri&nbsp;&#45;Sat 10am&nbsp;&#45;4pm, Sun 11am&nbsp;&#45;4pm</p>
 <h3>Contact</h3>
 <p>Tretower Court and Castle, near Crickhowell NP8 1RD, tel 01874 730279,
 <a href="http://www.cadw.wales.gov.uk" target="_blank">www.cadw.wales.gov.uk</a></p>

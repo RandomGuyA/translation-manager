@@ -13,7 +13,7 @@
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">The main entrance of this impressive building is up a flight of stone steps with handrails with lifts and stair lifts to exhibits on the different levels.</p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">&nbsp; </p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
-<span style="color:#008000;"><strong>How to get there:&nbsp; </strong></span>The museum is next to the zebra crossing in the centre of Brecon on Captain&nbsp;€™s Walk, The Watton, Brecon. For wheelchair access, please ring the bell on the right hand side of the steps, access is via a side door.</p>
+<span style="color:#008000;"><strong>How to get there:&nbsp; </strong></span>The museum is next to the zebra crossing in the centre of Brecon on Captain&nbsp;&#39;s Walk, The Watton, Brecon. For wheelchair access, please ring the bell on the right hand side of the steps, access is via a side door.</p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">&nbsp; </p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
 <span style="color:#008000;"><strong>Nearest town/Village:</strong></span>&nbsp; Brecon.</p>

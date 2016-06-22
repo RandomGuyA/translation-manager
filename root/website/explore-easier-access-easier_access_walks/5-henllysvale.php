@@ -1,6 +1,6 @@
 <?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>5 Henllys Vale Miners' Walk audio trail - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body><div class="main-content clearfix">
 <!--SearchStart//-->
-<h1>5.Henllys Vale Miners' Walk, Black Mountain range &nbsp;€“ audio trail</h1>
+<h1>5.Henllys Vale Miners' Walk, Black Mountain range &nbsp;&#45; audio trail</h1>
 <div class="article-video right clearfix"/>
 <p/><div>
 <br/>

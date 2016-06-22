@@ -15,7 +15,7 @@
 <h3>OS grid reference</h3>
 <p>SN611521</p>
 <h3>Opening times</h3>
-<p>Daily, 10am&nbsp;€“4pm</p>
+<p>Daily, 10am&nbsp;&#45;4pm</p>
 <h3>Contact</h3>
 <p>Dinefwr, Llandeilo, Carmarthenshire SA19 6RT, tel 01558 824512,
 <a href="http://www.nationaltrust.org.uk" target="_blank">www.nationaltrust.org.uk</a></p>

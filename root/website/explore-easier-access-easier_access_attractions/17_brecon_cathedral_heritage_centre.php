@@ -21,7 +21,7 @@
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">&nbsp; </p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
 <span style="color:#008000;"><strong>Contact:</strong></span>&nbsp; Please telephone 01874&nbsp; 623857 or visit&nbsp; 
-<a href="http://www.breconcathedral.org.uk/"><span style="color:#008000;"><span style="border-bottom-width: 1px; border-bottom-color: rgb(32, 53, 149); border-bottom-style: solid;">Brecon Cathedral</span></span></a>. Pilgrim&nbsp;€™s Tea Room please telephone 01874 625222.</p>
+<a href="http://www.breconcathedral.org.uk/"><span style="color:#008000;"><span style="border-bottom-width: 1px; border-bottom-color: rgb(32, 53, 149); border-bottom-style: solid;">Brecon Cathedral</span></span></a>. Pilgrim&nbsp;&#39;s Tea Room please telephone 01874 625222.</p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">&nbsp; </p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
 <span style="color:#008000;"><strong>Facilities:</strong></span>&nbsp; There is an accessible restaurant (Pilgrim's) on site which uses locally sourced ingredients. Brecon can be reached by public transport from mid and south Wales.</p>
@@ -30,7 +30,7 @@
 <span style="color:#008000;"><strong>Parking:</strong></span>&nbsp; There is a car park next to the cathedral and&nbsp; access to the cathedral is through a narrow kissing gate. The kissing gate has the facility to be widened by releasing four latches at ground level.</p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">&nbsp; </p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
-<span style="color:#008000;"><strong>Toilets:</strong></span>&nbsp; The toilets, including a disabled access toilet are situated next to Pilgrim&nbsp;€™s restaurant.
+<span style="color:#008000;"><strong>Toilets:</strong></span>&nbsp; The toilets, including a disabled access toilet are situated next to Pilgrim&nbsp;&#39;s restaurant.
 <br/>&nbsp; </p></div>
 <br/>
 

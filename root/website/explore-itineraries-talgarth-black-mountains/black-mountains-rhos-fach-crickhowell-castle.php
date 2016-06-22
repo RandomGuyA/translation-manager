@@ -5,17 +5,17 @@
 <p/><h3>
 <span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><img alt="Llanelieu Church" src="/website/var/tmp/thumb_3082__auto_4ecba6d6b7a9931cfee01f18b6c021dd.jpeg" style="width: 200px; height: 297px; margin: 0pt 8px; float: right;"/></span></span></h3>
 <p>
-<span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">Drive up to Rhos Fach Common tucked under Y Das Mountain&nbsp;€“ where you can start the day with a walk enjoying some fantastic Black Mountain scenery.
+<span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">Drive up to Rhos Fach Common tucked under Y Das Mountain&nbsp;&#45; where you can start the day with a walk enjoying some fantastic Black Mountain scenery.
 <br/>Leave your car at the parking spot here and walk back down the hill to Llanelieu Church dedicated to st ellyw. Now deconsecrated this grade 1 listed building of 13th Century origin is set within a raised oval, walled churchyard indicative of its Celtic origins. It is now maintained by the&nbsp; Friends of Friendless Churches.
 <br/>Just outside the upper gate of the churchyard to the south is the locally notorious
 <img alt="Inside Tretower Court" src="/all_images_in_here_please/great_days_out/itineraries/heritage_around_talgarth.png" style="width: 200px; height: 433px; margin: 8px; float: left;"/></span></span></p>
 <p>
-<span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">&nbsp;€˜Whipping tree&nbsp;€™ an ancient yew tree alongside the road leading back up to rhos Fach Common. Look out for the holes where the hands of miscreants were restrained for punishment!</span></span></p>
+<span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">&nbsp;€˜Whipping tree&nbsp;&#39; an ancient yew tree alongside the road leading back up to rhos Fach Common. Look out for the holes where the hands of miscreants were restrained for punishment!</span></span></p>
 <p>
 <span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">If the weather is kind you could enjoy a picnic lunch or return to talgarth</span></span></p>
 <span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">to lunch at one of the pubs or cafes. After lunch head towards Crickhowell. The Motte and Bailey Castle was established in the Norman conquest of Brycheniog whilst the adjacent restored courtyard house has its origins in the fourteenth century. The Vaughans who lived there were a rich</span></span><br/>
 <p>
-<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="font-size:14px;">influential Welsh family who created a court to impress. However when they left in the 18th century the lambs and geese moved in! Now fully restored Cadw have created a suite of rooms as they may have been in 1470 when tretower was part of high society &nbsp;€“ experience 15th Century living at its best.</span></span><br/>&nbsp; </p>
+<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="font-size:14px;">influential Welsh family who created a court to impress. However when they left in the 18th century the lambs and geese moved in! Now fully restored Cadw have created a suite of rooms as they may have been in 1470 when tretower was part of high society &nbsp;&#45; experience 15th Century living at its best.</span></span><br/>&nbsp; </p>
 <h3>&nbsp; </h3>
 <br/>
 <br/>
@@ -46,8 +46,8 @@
 <br/>level access. the paths outside are firm although mainly laid to grass. the courtyard is cobbled.
 <br/>entrance for adults is &nbsp;£3.60 and &nbsp;£2.60 at the reduced rate. disabled visitors may access the
 <br/>site free of charge. there is a gift shop on site. there is a cafe in Cwmdu on the a479 on the return to talgarth. Llanelieu curch there are no facilities at llanelieu church. the key to the church should be collected from and returned to the white framed conservatory (through white gate) at the Pottery end of llanelieu Court. the walk from the common and in the churchyard is sloping and may not be level underfoot.
-<br/>By Train the nearest station is abergavenny &nbsp;€“ talgarth is 18 miles from abergavenny on foot: llanelieu is not on any transport routes &nbsp;€“ but a round walk to the church is detailed in the Brecon Beacons &nbsp;€˜Walks
-<br/>around talgarth&nbsp;€™ booklet and is six miles. By bus: talgarth is well serviced by buses in all directions, from
+<br/>By Train the nearest station is abergavenny &nbsp;&#45; talgarth is 18 miles from abergavenny on foot: llanelieu is not on any transport routes &nbsp;&#45; but a round walk to the church is detailed in the Brecon Beacons &nbsp;€˜Walks
+<br/>around talgarth&nbsp;&#39; booklet and is six miles. By bus: talgarth is well serviced by buses in all directions, from
 <br/>hereford, Builth Wells, abergavenny and Brecon. look at www.traveline-cymru.org.uk for the latest travel information and timetables. For the hereford to Brecon (via talgarth) bus timetable, search for service 39
 <br/>on the herefordshire County Council website (39a for the sunday timetable). during the summer months the Beacons Bus service also passes through talgarth on sundays and Bank holidays from the end of May to
 <br/>the beginning of october. look at www.travelbreconbeacons.info for more details.

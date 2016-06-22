@@ -17,11 +17,11 @@
 <span style="color: rgb(51, 153, 0);"><span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><strong>Nearest town or village:</strong></span></span></span><span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;">Pontsticill.</span></span></span><br/>
 <br/>&nbsp; </div>
 <div>
-<span style="color: rgb(51, 153, 0);"><span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><strong>OS Grid Reference:</strong></span></span></span><span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;">Explorer Map OL12 or Landranger Map 160 &nbsp;€“
+<span style="color: rgb(51, 153, 0);"><span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><strong>OS Grid Reference:</strong></span></span></span><span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;">Explorer Map OL12 or Landranger Map 160 &nbsp;&#45;
 <strong>SO 053 127.</strong></span></span></span><br/>
 <br/>&nbsp; </div>
 <div>
-<span style="color: rgb(51, 153, 0);"><span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><strong>Distance:</strong></span></span></span><span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;">Up to 2 miles along the road &nbsp;€“ please note this road can be busy at weekends.</span></span></span><br/>
+<span style="color: rgb(51, 153, 0);"><span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><strong>Distance:</strong></span></span></span><span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;">Up to 2 miles along the road &nbsp;&#45; please note this road can be busy at weekends.</span></span></span><br/>
 <br/>&nbsp; </div>
 <div>
 <span style="color: rgb(51, 153, 0);"><span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><strong>Contact:</strong></span></span></span><span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;">Welsh Water on 01495 769281.</span></span></span><br/>

@@ -70,7 +70,7 @@
 <span style="color:#808080;">Family attractions: National Park Visitor Centre</span></h5>
 <p>Head back to the car park entrance and follow the cycle trail signs to the right. crossing a narrow lane at half distance. Turn left at Llwyn-Onn Reservoir to return to the forest centre.</p>
 <h2>Talybont Reservoir to Torpantau</h2>
-<p>The beauty of this ride is that it&nbsp;€™s uphill on the way out and downhill on the way back to finish. It's a challenge to get to the top but at least you can freewheel back. The scenery is outstanding and worth the effort.</p>
+<p>The beauty of this ride is that it&nbsp;&#39;s uphill on the way out and downhill on the way back to finish. It's a challenge to get to the top but at least you can freewheel back. The scenery is outstanding and worth the effort.</p>
 <h5>
 <span style="color:#808080;">Start: Talybont Reservoir dam, OS reference SO103205, or car park, OS reference SO099197</span></h5>
 <h5>
@@ -108,7 +108,7 @@
 <span style="color:#808080;">Public toilets: in Abergavenny</span></h5>
 <h5>
 <span style="color:#808080;">Other facilities: none</span></h5>
-<p>Head through the gate at the top of the car park and follow the well-marked trail upwards, passing close to the canal. Keep ahead at Govilon, where the trail passes through houses and crosses a public road and then passes the Forge car park before starting to climb steeply up towards Clydach. There&nbsp;€™s a section on public roads before the railway climbs to Brynmawr.</p>
+<p>Head through the gate at the top of the car park and follow the well-marked trail upwards, passing close to the canal. Keep ahead at Govilon, where the trail passes through houses and crosses a public road and then passes the Forge car park before starting to climb steeply up towards Clydach. There&nbsp;&#39;s a section on public roads before the railway climbs to Brynmawr.</p>
 <h2>Goytre Wharf to Llanfoist</h2>
 <p>A longer and slightly tougher cycle ride but mainly level. Should be in the scope of most cyclists, even youngsters. A scenic ride, skirting around pretty farmland with great views of mountains in the distance. For a really challenging day out it can be linked with National Cycle Route 46 at Llanfoist.</p>
 <h5>

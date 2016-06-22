@@ -8,7 +8,7 @@
 <span style="color: rgb(51, 153, 0);"><strong>Further information:
 <span id="cke_bm_178E" style="display: none;">&nbsp; </span></strong></span><br/>
 <br/>
-<span style="color: rgb(105, 105, 105);">The route changes from raised embankment to railway cuttings, crossing several bridges with fantastic views of the local countryside. The initial 5km mile stage from Llanfoist to just south&nbsp;€“west of Gilwern is surfaced with tarmac. Information boards can be found along the route. Mobility scooters can be hired from Abergavenny Shopmobility - call 0800 298 3656 for details. Once completed the full route should run for 12km between Llanfoist and Brynmawr.</span><br/>
+<span style="color: rgb(105, 105, 105);">The route changes from raised embankment to railway cuttings, crossing several bridges with fantastic views of the local countryside. The initial 5km mile stage from Llanfoist to just south&nbsp;&#45;west of Gilwern is surfaced with tarmac. Information boards can be found along the route. Mobility scooters can be hired from Abergavenny Shopmobility - call 0800 298 3656 for details. Once completed the full route should run for 12km between Llanfoist and Brynmawr.</span><br/>
 <br/>
 <span style="color: rgb(51, 153, 0);"><strong><span id="cke_bm_179S" style="display: none;">&nbsp; </span>How to get there:
 <span id="cke_bm_179E" style="display: none;">&nbsp; </span></strong></span><span style="color: rgb(105, 105, 105);"><strong><span id="cke_bm_217S" style="display: none;">&nbsp; </span></strong>The route starts on the western outskirts of Llanfoist with the car park situated immediately on the left from the village hall turn off and runs parallel to the A465 Heads of the Valleys road and the Monmouthshire and Brecon Canal. You can also join the route at Govilon Wharf and through Govilon village to a car park situated on the side of the road. Access to the route from either car park is through a large kissing gate.</span><span id="cke_bm_217E" style="display: none;">&nbsp; </span><br/>
@@ -17,7 +17,7 @@
 <span style="color: rgb(105, 105, 105);">Llanfoist or Govilon.</span><span id="cke_bm_181S" style="display: none;">&nbsp; </span><br/>
 <br/>
 <span style="color: rgb(51, 153, 0);"><strong>OS Grid Reference
-<span id="cke_bm_181E" style="display: none;">&nbsp; </span>:</strong></span><span id="cke_bm_182E" style="display: none;">&nbsp; </span><span style="color: rgb(105, 105, 105);">Explorer Map OL13 or Landranger Map 161 &nbsp;€“ Two options- Llanfoist car park: SO 285 134 or Govilon Line car park SO 263 135.</span><br/>
+<span id="cke_bm_181E" style="display: none;">&nbsp; </span>:</strong></span><span id="cke_bm_182E" style="display: none;">&nbsp; </span><span style="color: rgb(105, 105, 105);">Explorer Map OL13 or Landranger Map 161 &nbsp;&#45; Two options- Llanfoist car park: SO 285 134 or Govilon Line car park SO 263 135.</span><br/>
 <br/>
 <span style="color: rgb(51, 153, 0);"><strong>Distance:</strong></span>
 <span style="color: rgb(105, 105, 105);">Up to 5km one way.</span><br/>

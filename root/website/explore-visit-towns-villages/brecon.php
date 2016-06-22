@@ -42,7 +42,7 @@
 <div class="section-box jagged">
 <img src="/website/var/tmp/thumb_7039__homepage_events_scroller.jpeg" width="190" height="123"/>
 <p>18th Jun 2016
-<br/>The WAAT4 Challenge is a prestigious navigation event in Wales&nbsp;€™ bea...</p></div>
+<br/>The WAAT4 Challenge is a prestigious navigation event in Wales&nbsp;&#39; bea...</p></div>
 </li>
 <li class="hasPhoto">
 <a href="/events/6367"/><h3 style="min-height:55px;"><a href="/events/6367">Brecon and Radnor Classic Motor Show</a></h3>

@@ -15,13 +15,13 @@
 <h3>What is a geocache?</h3>
 <p>A geocache is a sort of treasure box, ranging in size from a small film canister to a larger plastic container or an old ammo box. The person who placed it recorded its location precisely as a grid reference and GPS waypoint and entered this information online at&nbsp; 
 <a href="http://www.geocaching.com" target="_blank">www.geocaching.com</a>&nbsp; or one of the other geocaching websites.</p>
-<p>Each geocache contains a log book, a pencil and a stash of treasure. Don&nbsp;€™t expect gold doubloons! You may find a trackable geocoin or travelbug, but most geocaches contain geoswag, random objects of minimal value that previous players have placed there for others to find. It&nbsp;€™s important that these are family-friendly and non-perishable (so, no sweets!)</p>
+<p>Each geocache contains a log book, a pencil and a stash of treasure. Don&nbsp;&#39;t expect gold doubloons! You may find a trackable geocoin or travelbug, but most geocaches contain geoswag, random objects of minimal value that previous players have placed there for others to find. It&nbsp;&#39;s important that these are family-friendly and non-perishable (so, no sweets!)</p>
 <p>Your aim is to place something in the cache in the hope that someone will later move it on somewhere else and log its journey. You can also take geoswag from the cache as long as you add something of equal or greater value (a geocoin doesn't count).</p>
 <h3>How do you get started?</h3>
 <p>Search the geocaching website,&nbsp; 
-<a href="http://www.geocaching.com" target="_blank">www.geocaching.com</a>,&nbsp; for geocaches in an area you&nbsp;€™d like to explore.</p>
-<p>If you&nbsp;€™re using an Ordnance Survey map, take down the grid references.</p>
-<p>If you&nbsp;€™re using a handheld GPS device, enter the waypoint of each location as follows (these instructions apply to Garmin devices):</p>
+<a href="http://www.geocaching.com" target="_blank">www.geocaching.com</a>,&nbsp; for geocaches in an area you&nbsp;&#39;d like to explore.</p>
+<p>If you&nbsp;&#39;re using an Ordnance Survey map, take down the grid references.</p>
+<p>If you&nbsp;&#39;re using a handheld GPS device, enter the waypoint of each location as follows (these instructions apply to Garmin devices):</p>
 <ol>
 <li>Power on</li>
 <li>Press page button four times to reach Menu page</li>
@@ -36,20 +36,20 @@
 <li>Scroll down to Waypoints and press enter</li>
 <li>Scroll down to find and select your cache by name</li>
 <li>Press enter which takes you to the Review Waypoint screen</li>
-<li>Choose GOTO and press enter and you&nbsp;€™re ready to set off to find the cache!</li></ol>
-<p>The GPS device, which uses satellites to work out your location to within 15m, will guide you there. That&nbsp;€™s when the real hunt begins. You will need to use your eyes and initiative to actually find the hidden cache!</p>
+<li>Choose GOTO and press enter and you&nbsp;&#39;re ready to set off to find the cache!</li></ol>
+<p>The GPS device, which uses satellites to work out your location to within 15m, will guide you there. That&nbsp;&#39;s when the real hunt begins. You will need to use your eyes and initiative to actually find the hidden cache!</p>
 <p>Once you have located the geocache, place your geocoin, token or object in the cache and sign the log book. The next time you're online, log your visit on the geocaching website.</p>
 <h3>Geocaching etiquette</h3>
-<p>There really aren't that many rules and they&nbsp;€™re very straightforward.</p>
+<p>There really aren't that many rules and they&nbsp;&#39;re very straightforward.</p>
 <ul>
-<li>Make sure you&nbsp;€™re not observed by others when you find the cache</li>
+<li>Make sure you&nbsp;&#39;re not observed by others when you find the cache</li>
 <li>If you take an object from the cache please leave an item of similar or greater value (items must be safe and child-friendly)</li>
 <li>Sign the logbook</li>
 <li>Have fun, and log your find on the geocaching website when you return home!</li></ul>
 <h3>Caches and coordinates in the Brecon Beacons National Park</h3>
 <p>Choose a cache from the list below and you'll see the grid reference, nearest bus route and a code number. Log on to
-<a href="http://www.geocaching.com" target="_blank">www.geocaching.com</a>, enter the cache&nbsp;€™s unique code number and you can find out more about the cache, view photographs and discover other clues to help you find it.&nbsp; </p>
-<p>Please be aware that some of the routes to the caches may be quite strenuous and, as always, you need to ensure you&nbsp;€™re wearing the right clothing and footwear for the weather and the terrain.</p>
+<a href="http://www.geocaching.com" target="_blank">www.geocaching.com</a>, enter the cache&nbsp;&#39;s unique code number and you can find out more about the cache, view photographs and discover other clues to help you find it.&nbsp; </p>
+<p>Please be aware that some of the routes to the caches may be quite strenuous and, as always, you need to ensure you&nbsp;&#39;re wearing the right clothing and footwear for the weather and the terrain.</p>
 <p>For specific information on bus routes and times, contact
 <a href="http://www.traveline-cymru.info" target="_blank">Traveline Cymru</a>.
 <br/>&nbsp; </p>
@@ -166,7 +166,7 @@ As a small company with over 30 year...</p></div>
 <a href="/businesses/3513"/><h3><a href="/businesses/3513">Horse Riding at Llangorse Multi Activity Centre</a></h3>
 <div class="section-box jagged">
 <img src="/website/var/tmp/thumb_4782__landing_page_highlights.jpeg" alt=""/>
-<p>Pony trekking, riding &amp; hackingAll that&nbsp;€™s best in the countryside...</p></div>
+<p>Pony trekking, riding &amp; hackingAll that&nbsp;&#39;s best in the countryside...</p></div>
 </li>
 <li class="business-activity hasPhoto">
 <a href="/businesses/2658"/><h3><a href="/businesses/2658">Absolute Adventure</a></h3>

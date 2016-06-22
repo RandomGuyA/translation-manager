@@ -1,6 +1,6 @@
-<?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>Follow the story &nbsp;€“ more Roman sites in Carmarthenshire - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body><div class="main-content clearfix">
+<?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>Follow the story &nbsp;&#45; more Roman sites in Carmarthenshire - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body><div class="main-content clearfix">
 <!--SearchStart//-->
-<h1>Follow the story &nbsp;€“ more Roman sites in Carmarthenshire</h1>
+<h1>Follow the story &nbsp;&#45; more Roman sites in Carmarthenshire</h1>
 <div class="article-video right clearfix"/>
 <p/><p>
 <span style="font-size:18px;">Just west of the Brecon Beacons National Park in Carmarthenshire, there are some fantastic historic sites where you can learn more about the influence of the Romans on our area.</span></p>
@@ -13,7 +13,7 @@
 <a href="http://www.nationaltrust.org.uk/dolaucothi-gold-mines/" target="_blank">www.nationaltrust.org.uk/dolaucothi-gold-mines/</a></p>
 <h2>
 <strong>Carmarthen Museum</strong></h2>
-<p>Leave the 21st century behind and discover Carmarthenshire&nbsp;€™s Roman story. The new displays explore the lives of Romans and natives, soldiers and civilians, on the edge of the Roman empire. Just how Roman were we? Carmarthen owes them its name. Learn also why it became an important town and tribal capital. Find out just a little more about what the Romans did for us. It may surprise you.
+<p>Leave the 21st century behind and discover Carmarthenshire&nbsp;&#39;s Roman story. The new displays explore the lives of Romans and natives, soldiers and civilians, on the edge of the Roman empire. Just how Roman were we? Carmarthen owes them its name. Learn also why it became an important town and tribal capital. Find out just a little more about what the Romans did for us. It may surprise you.
 <br/>Plan your visit:
 <br/>
 <a href="http://www.carmarthenshire.gov.uk/english/education/museums/carmarthenshirecountymuseum/pages/home.aspx" target="_blank">www.carmarthenshire.gov.uk/english/education/museums/carmarthenshirecountymuseum/pages/home.aspx</a></p>

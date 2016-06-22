@@ -9,7 +9,7 @@
 <a href="http://www.glanuskestate.com" target="_blank">www.glanuskestate.com</a>) near Crickhowell hosts International Horse Trials in late June and International Polo in early July.</p>
 <h2>Harness racing</h2>
 <p>During the summer you can see harness races at the hard track at the Amman Valley Trotting Club (
-<a href="http://www.ammanvalleytrotting.co.uk" target="_blank">www.ammanvalleytrotting.co.uk</a>), Ammanford. Trotting races are normally associated with America, but Wales has a dedicated following of this modern-day version of charioteering, known as &nbsp;€˜harness racing&nbsp;€™. Highly trained horses career around the track without breaking into a canter.</p>
+<a href="http://www.ammanvalleytrotting.co.uk" target="_blank">www.ammanvalleytrotting.co.uk</a>), Ammanford. Trotting races are normally associated with America, but Wales has a dedicated following of this modern-day version of charioteering, known as &nbsp;€˜harness racing&nbsp;&#39;. Highly trained horses career around the track without breaking into a canter.</p>
 <p>The public are welcome to attend meets. Most provide on-course betting to add extra spice to the experience.</p>
 <h2>Find out more</h2>
 <p>The British Driving Society

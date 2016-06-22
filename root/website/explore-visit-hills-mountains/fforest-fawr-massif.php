@@ -3,9 +3,9 @@
 <h1>The Fforest Fawr massif</h1>
 <div class="article-video right clearfix"/>
 <p/><h3 class="p1">
-<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span class="s1">Fforest Fawr is a</span><span class="s2">series of isolated hills known as &nbsp;€˜Fans&nbsp;€™ whose grass and heather-clad slopes are broken by occasional crags of Old Red Sandstone.</span><span class="s1"/><span class="s2">It lies between the Black Mountain in the west and the A470 Brecon to Merthyr Tydfil road in the east. The hills drop away into Waterfall Country to the south.</span></span></h3>
+<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span class="s1">Fforest Fawr is a</span><span class="s2">series of isolated hills known as &nbsp;€˜Fans&nbsp;&#39; whose grass and heather-clad slopes are broken by occasional crags of Old Red Sandstone.</span><span class="s1"/><span class="s2">It lies between the Black Mountain in the west and the A470 Brecon to Merthyr Tydfil road in the east. The hills drop away into Waterfall Country to the south.</span></span></h3>
 <p>
-<img src="/website/var/tmp/thumb_3935__auto_450078387bf1c6122aa1db3e318c6c98.jpeg" style="width: 704px; height: 528px; margin-top: 15px; margin-bottom: 15px; float: right;"/>The name Fforest Fawr translates as &nbsp;€˜great forest&nbsp;€™, a reminder of the fact that this region, though now largely bare of trees, was once a royal hunting ground known as the Great Forest of Brecknock. It is now used primarily for sheep grazing, conifer plantations, reservoirs and recreation.</p>
+<img src="/website/var/tmp/thumb_3935__auto_450078387bf1c6122aa1db3e318c6c98.jpeg" style="width: 704px; height: 528px; margin-top: 15px; margin-bottom: 15px; float: right;"/>The name Fforest Fawr translates as &nbsp;€˜great forest&nbsp;&#39;, a reminder of the fact that this region, though now largely bare of trees, was once a royal hunting ground known as the Great Forest of Brecknock. It is now used primarily for sheep grazing, conifer plantations, reservoirs and recreation.</p>
 <p>This swathe of upland country includes the peaks of Fan Fawr (734m), Fan Frynych (629m), Craig Cerrig-Gleisiad (629m), Fan Llia (632m), Fan Nedd (663m), Fan Gyhirych (725m), Fan Bwlch Chwyth (603m) and Cefn Cul (562m).
 <br/>&nbsp; </p>
 <p class="p1">
@@ -31,7 +31,7 @@
 <a href="http://www.breconbeacons.org/caving-potholing" target="_blank">Caving</a><br/>Caves such as Ogof Ffynnon Ddu&nbsp; and Porth yr Ogof are famed for their impressive mouths and lengthy, complex tunnel systems.</p></li>
 <li>
 <p>Wildlife Watching
-<br/>Since the massif includes two NNRs &nbsp;€“ at Ogof Ffynnon Ddu and at Craig Cerrig-gleisiad where both red kites and ring ouzels can often be seen.</p>
+<br/>Since the massif includes two NNRs &nbsp;&#45; at Ogof Ffynnon Ddu and at Craig Cerrig-gleisiad where both red kites and ring ouzels can often be seen.</p>
 <p>&nbsp; </p></li></ol>
 
 <!--SearchEnd//-->

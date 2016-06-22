@@ -25,7 +25,7 @@
 <br/>
 <br/>Descend through the Reserve, past old quarries and tram-road routes, emerging north of the South Wales Caving Club.
 <br/>
-<br/>Follow the track right and then left onto the tarmac road at the quarry entrance. After 200m take the path on the right, into Brecknock Wildlife Trust&nbsp;€™s Nature Reserve and down to a track leading you into the back of Craig-y-nos Country Park. Accommodation and pubs are nearby but not all are within easy walking distance &nbsp;€“ you may need to use the bus or a taxi.</span></span></p></div>
+<br/>Follow the track right and then left onto the tarmac road at the quarry entrance. After 200m take the path on the right, into Brecknock Wildlife Trust&nbsp;&#39;s Nature Reserve and down to a track leading you into the back of Craig-y-nos Country Park. Accommodation and pubs are nearby but not all are within easy walking distance &nbsp;&#45; you may need to use the bus or a taxi.</span></span></p></div>
 <iframe height="505" src="http://www.beacons-npa.gov.uk/static/maps/destination/beacons_way_day_5.html" width="755"/>
 <!--SearchEnd//-->
 <div class="hightlights"/></div></body></html>

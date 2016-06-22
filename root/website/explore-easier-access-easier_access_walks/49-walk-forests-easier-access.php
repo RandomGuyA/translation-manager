@@ -26,7 +26,7 @@
 <strong>Cwm Giedd</strong>-near Ystradgynlais. No easier access routes have been explored in this area.
 <br/>
 <br/>
-<strong>Waterfalls Area</strong>- north of Glynneath and Hirwaun (please note &nbsp;€“ access to many of the waterfalls is steep with stepped footpaths which are often slippery following rain). Other local easier access routes and sites include The Powder Trail at Pontneddfechan and the Sychryd All Ability Trail.
+<strong>Waterfalls Area</strong>- north of Glynneath and Hirwaun (please note &nbsp;&#45; access to many of the waterfalls is steep with stepped footpaths which are often slippery following rain). Other local easier access routes and sites include The Powder Trail at Pontneddfechan and the Sychryd All Ability Trail.
 <br/>
 <br/>
 <strong>Blaen Llia</strong>- north of Ystradfellte. No easier access routes have been explored in this area.

@@ -32,12 +32,12 @@
 <a href="http://www.breconbeacons.org/businesses/4505">Llanhamlach, Brecon LD3 7YB,</a>Wales, tel 01874 665387,&nbsp; </h5>
 <p>The spa at Peterstone Court is growing in reputation and excellence. It's located in the vaulted caverns once used as the house cellars, as it is thought that being close to the earth in the Brecon Beacons would naturally generate energy, making this the a perfect location.</p>
 <p>Peterstone Court offers an holistic approach to wellbeing using only natural, organic products, a philosophy which has filtered down from the main house. The spa offers you the chance to relax in the Jacuzzi, detox in the sauna, take a dip the seasonal outdoor heated pool or work-out in the gym. Guests can sit in the Moroccan styled relaxation room after a treatment and just chill out.</p>
-<p>The views of Cribyn and Pen y Fan from the house will also help you recharge. With this combination we know you will leave feeling relaxed, refreshed and simply &nbsp;€“ lovely!</p>
+<p>The views of Cribyn and Pen y Fan from the house will also help you recharge. With this combination we know you will leave feeling relaxed, refreshed and simply &nbsp;&#45; lovely!</p>
 <h2>&nbsp; </h2>
 <h2>The Retreat, Brecon</h2>
 <p>
 <a href="http://www.theretreatbrecon.co.uk/" style="font-size: 12px;">1st Floor, Old Post Office, St Mary's Street,</a><span style="font-size: 12px;">Brecon LD3 7AA, Wales, tel 01874 625358,</span></p>
-<p>Treatments and therapies include: manicure and pedicures, eye treatments, facials, waxing, massage, body care, spray tanning, pamper parties, indoor heated swimming pool (booking essential). Tue&nbsp;€“Sat, by appointment.</p>
+<p>Treatments and therapies include: manicure and pedicures, eye treatments, facials, waxing, massage, body care, spray tanning, pamper parties, indoor heated swimming pool (booking essential). Tue&nbsp;&#45;Sat, by appointment.</p>
 <div>&nbsp; </div>
 
 <!--SearchEnd//-->

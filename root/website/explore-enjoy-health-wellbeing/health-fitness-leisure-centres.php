@@ -15,7 +15,7 @@
 <h5>Old Hereford Road, Abergavenny NP7 6EL, Wales, tel 01873 857444,&nbsp; 
 <a href="http://www.abergavenny.net/leisure" target="_blank">www.abergavenny.net/leisure</a></h5>
 <p>
-<span style="font-size: 12px;">Open daily except bank holidays, Mon&nbsp;€“Fri 7am&nbsp;€“10pm, Sat&nbsp;€“Sun 8.15am&nbsp;€“6pm</span><br/>Facilities include:</p>
+<span style="font-size: 12px;">Open daily except bank holidays, Mon&nbsp;&#45;Fri 7am&nbsp;&#45;10pm, Sat&nbsp;&#45;Sun 8.15am&nbsp;&#45;6pm</span><br/>Facilities include:</p>
 <ul>
 <li>swimming pool</li>
 <li>advanced fitness suite</li>
@@ -28,7 +28,7 @@
 <br/>Brecon Leisure Centre</h2>
 <h5>Penlan, Brecon, LD3 9SR, Wales, tel 01874 623677,&nbsp; 
 <a href="http://www.brecon-leisurecentre.powys.gov.uk" target="_blank">www.brecon-leisurecentre.powys.gov.uk</a></h5>
-<p>Open Mon&nbsp;€“Fri 6.45am&nbsp;€“10pm, Sat&nbsp;€“Sun 9am&nbsp;€“5pm, bank holidays 10am&nbsp;€“2pm
+<p>Open Mon&nbsp;&#45;Fri 6.45am&nbsp;&#45;10pm, Sat&nbsp;&#45;Sun 9am&nbsp;&#45;5pm, bank holidays 10am&nbsp;&#45;2pm
 <br/>Facilities include:</p>
 <ul>
 <li>swimming pool</li>
@@ -43,7 +43,7 @@
 <li>astro turf pitch</li>
 <li>meetings and courses</li>
 <li>tennis courts</li>
-<li>coffee shop, Mon&nbsp;€“Fri 9am&nbsp;€“7pm, Wed 9am&nbsp;€“6pm, Thu&nbsp;€“Fri 9am&nbsp;€“5.30pm, Sat 9.30am&nbsp;€“5pm, Sun &amp; bank holidays closed</li></ul>
+<li>coffee shop, Mon&nbsp;&#45;Fri 9am&nbsp;&#45;7pm, Wed 9am&nbsp;&#45;6pm, Thu&nbsp;&#45;Fri 9am&nbsp;&#45;5.30pm, Sat 9.30am&nbsp;&#45;5pm, Sun &amp; bank holidays closed</li></ul>
 <h2>
 <br/>Cefn Coed Community Centre</h2>
 <h5>New Church St, Merthyr Tydfil CF48 2NA, Wales, tel 01685 389717</h5>
@@ -66,7 +66,7 @@
 <li>badminton</li>
 <li>short tennis</li>
 <li>netball</li>
-<li>fitness room, Mon&nbsp;€“Fri 6&nbsp;€“10pm, Sat closed, Sun 10am&nbsp;€“1pm&nbsp; </li></ul>
+<li>fitness room, Mon&nbsp;&#45;Fri 6&nbsp;&#45;10pm, Sat closed, Sun 10am&nbsp;&#45;1pm&nbsp; </li></ul>
 <h2>
 <br/>Gwernyfed Sports Centre</h2>
 <h5>Three Cocks, Brecon LD3 0SG, Wales, tel 01497 847740</h5>
@@ -82,7 +82,7 @@
 <h2>Hay Swimming Pool</h2>
 <h5>Oxford Road, Hay-on-Wye, HR3 5BT, Wales, tel 01497 820431</h5>
 <p>Please leave a message as staff are quite often busy lifeguarding or teaching.
-<br/>Open Mon&nbsp;€“Thu 6&nbsp;€“10pm, Fri 6&nbsp;€“9pm&nbsp; </p>
+<br/>Open Mon&nbsp;&#45;Thu 6&nbsp;&#45;10pm, Fri 6&nbsp;&#45;9pm&nbsp; </p>
 <h2>
 <br/>Manor Hotel</h2>
 <h5>

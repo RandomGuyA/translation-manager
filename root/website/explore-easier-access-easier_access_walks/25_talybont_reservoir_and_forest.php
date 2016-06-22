@@ -21,7 +21,7 @@
 <span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="color:#008000;"><strong>Nearest town or village:</strong></span>&nbsp; Talybont-on-Usk.</span></p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">&nbsp; </p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
-<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="color:#008000;"><strong>OS Grid Reference</strong>:</span>Explorer Map OL 12&nbsp; / OL13 or Landranger Map 160&nbsp; / 161 &nbsp;€“&nbsp; 
+<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="color:#008000;"><strong>OS Grid Reference</strong>:</span>Explorer Map OL 12&nbsp; / OL13 or Landranger Map 160&nbsp; / 161 &nbsp;&#45;&nbsp; 
 <strong>SO 104 205.</strong></span></p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">&nbsp; </p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">

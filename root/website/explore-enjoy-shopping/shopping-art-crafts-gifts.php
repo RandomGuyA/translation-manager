@@ -7,14 +7,14 @@
 <p>Most of our galleries and independent craft shops focus on the work of painters, sculptors, wood turners, glass blowers, soap makers, jewellers and textile artists from the immediate area. Some are run by cooperatives of artists who take turns to man the exhibition space and are always happy to chat about the work on display. For something very Welsh, look out for hand-turned wooden lovespoons, woven blankets, paintings and pottery.</p>
 <p>You'll also find crafts and gifts for sale at visitor information centres and tourist offices, and at the craft fairs which take place regularly throughout the year. Keep an eye on our
 <a href="http://www.breconbeacons.org/events" target="_blank">Events</a>page for news of forthcoming events.</p>
-<p>Several galleries, organisations and individuals run art and craft workshops and courses &nbsp;€“ see our
+<p>Several galleries, organisations and individuals run art and craft workshops and courses &nbsp;&#45; see our
 <a href="http://www.breconbeacons.org/art-crafts" target="_blank">Art and craft courses, workshops and events</a>page for details.</p>
 <h2>Seven of the best independent galleries in the Brecon Beacons National Park</h2>
 <h3>
 <br/>Beacons Crafts</h3>
 <h5>Bethel Square, Brecon LD3 7JP, Wales, tel 01874 625706</h5>
 <p>
-<span style="font-size: 12px;">A makers&nbsp;€™ co-operative art and craft shop in the centre of Brecon.&nbsp; </span>Open Mon&nbsp;€“Sat 10am&nbsp;€“5pm. Extended hours in summer, some Sundays and Bank Holidays.&nbsp; </p>
+<span style="font-size: 12px;">A makers&nbsp;&#39; co-operative art and craft shop in the centre of Brecon.&nbsp; </span>Open Mon&nbsp;&#45;Sat 10am&nbsp;&#45;5pm. Extended hours in summer, some Sundays and Bank Holidays.&nbsp; </p>
 <h3>Erwood Station Gallery</h3>
 <h5>
 <a href="http://www.breconbeacons.org/businesses/5976">Erwood, Llandeilo Graban,</a>Nr Builth Wells LD2 3SJ tel 01982 56-674</h5>
@@ -22,22 +22,22 @@
 <h3>Court Cupboard Craft Gallery</h3>
 <h5>New Court Farm, Llantilio Pertholey, Abergavenny NP7 8AU, Wales, tel 01873 852011</h5>
 <p>
-<span style="font-size: 12px;">Showcases the work of the Black Mountains Circle craft makers. Comfortable coffee shop manned daily by different makers. Llantilio Pertholey is less than 2 miles from Abergavenny.&nbsp; </span>Open daily, Mar&nbsp;€“Oct 10.30am&nbsp;€“5pm, Nov&nbsp;€“Feb 10.30am&nbsp;€“4pm.</p>
+<span style="font-size: 12px;">Showcases the work of the Black Mountains Circle craft makers. Comfortable coffee shop manned daily by different makers. Llantilio Pertholey is less than 2 miles from Abergavenny.&nbsp; </span>Open daily, Mar&nbsp;&#45;Oct 10.30am&nbsp;&#45;5pm, Nov&nbsp;&#45;Feb 10.30am&nbsp;&#45;4pm.</p>
 <h3>Crafts Alive</h3>
 <h5>Rhosmaen Street, Llandeilo, Carmarthenshire SA19 6EN, Wales, tel 01558 822010</h5>
 <p>
-<span style="font-size: 12px;">Community crafts shop which brings together over 50 local craftspeople. Traditional wooden lovespoons, pottery, glassware, soft furnishings, textiles, silver jewellery and much more. There is always a friendly craftsperson on hand to help! Open daily, Mar</span>&nbsp;€“Oct&nbsp; 10.30am&nbsp;€“5pm,&nbsp; Nov&nbsp;€“Fev 10.30am&nbsp;€“4pm.</p>
+<span style="font-size: 12px;">Community crafts shop which brings together over 50 local craftspeople. Traditional wooden lovespoons, pottery, glassware, soft furnishings, textiles, silver jewellery and much more. There is always a friendly craftsperson on hand to help! Open daily, Mar</span>&nbsp;&#45;Oct&nbsp; 10.30am&nbsp;&#45;5pm,&nbsp; Nov&nbsp;&#45;Fev 10.30am&nbsp;&#45;4pm.</p>
 <h3>Downey Barn Gallery</h3>
 <h5>Cwmyoy, Monmouthshire NP7 7NT, tel 01873 890993,</h5>
 <p>Original paintings, high quality prints and wire sculptures by Caroline Downey and hand-forged ironwork by Peter Downey.</p>
 <h3>The Lion Street Gallery</h3>
 <h5>
 <a href="http://www.breconbeacons.org/businesses/3312">6 High Street, Hay on Wye</a>, HR3 5AA &nbsp; tel 01497 822900,&nbsp; </h5>
-<p>Recently rated as one of the bets galleries in Wales and mainly promoting artists who work in Wales &amp; the Borders. &nbsp; Art-friendly dogs are welcome. Open Mon&nbsp;€“Sat 10.30am&nbsp;€“5pm</p>
+<p>Recently rated as one of the bets galleries in Wales and mainly promoting artists who work in Wales &amp; the Borders. &nbsp; Art-friendly dogs are welcome. Open Mon&nbsp;&#45;Sat 10.30am&nbsp;&#45;5pm</p>
 <h3>Oriel CRiC Gallery</h3>
 <h5>Crickhowell Resource and Information Centre, Beaufort Street, Crickhowell, Wales, tel 01873 811970,
 <a href="http://www.visitcrickhowell.co.uk">www.visitcrickhowell.co.uk</a></h5>
-<p>This gallery is gaining a reputation as a venue for Welsh art and craft of exceptional quality. Holds an annual programme of exhibitions by local and visiting artists, inspired by the landscape of the Brecon Beacons. CRiC also offers tourist information, internet access, room hire and a small coffee bar. Open Mon&nbsp;€“Sat 10am&nbsp;€“5pm, Sun 10am&nbsp;€“1.30pm.</p>
+<p>This gallery is gaining a reputation as a venue for Welsh art and craft of exceptional quality. Holds an annual programme of exhibitions by local and visiting artists, inspired by the landscape of the Brecon Beacons. CRiC also offers tourist information, internet access, room hire and a small coffee bar. Open Mon&nbsp;&#45;Sat 10am&nbsp;&#45;5pm, Sun 10am&nbsp;&#45;1.30pm.</p>
 
 <!--SearchEnd//-->
 <div class="hightlights">

@@ -4,11 +4,11 @@
 <div class="article-video right clearfix"/>
 <p><img src="/all_images_in_here_please/great_days_out/itineraries/abergavenny_castle.png" style="width: 200px; height: 443px; margin-left: 8px; margin-right: 8px; float: left;"/>Start your day with a visit to Abergavenny's Museum set in the ground of a ruined Normal Castle. In 1818 the present museum building was constructed on top of the motte as a hunting lodge fro the Marquess of Abergavenny. Entrance is free as are the stunning views from the Castle over the Usk Valley and the Blorenge Mountain.
 <br/>
-<br/>Enjoy a picnic in the grounds or walk to the town centre to find some lunch from one of the many cafes and restaurants via the tranquil Linda Vista Gardens, open to the public since 1963. The Gardens boast quite a number of rare and splendid trees, like the Foxglove tree. They include the 19th century formal gardens of Linda Vista House with their terraces of box hedging. There is also a lovely children&nbsp;€™s play bed with living willow tunnel. Another perfect picnic spot.
+<br/>Enjoy a picnic in the grounds or walk to the town centre to find some lunch from one of the many cafes and restaurants via the tranquil Linda Vista Gardens, open to the public since 1963. The Gardens boast quite a number of rare and splendid trees, like the Foxglove tree. They include the 19th century formal gardens of Linda Vista House with their terraces of box hedging. There is also a lovely children&nbsp;&#39;s play bed with living willow tunnel. Another perfect picnic spot.
 <br/>
-<img src="/all_images_in_here_please/great_days_out/itineraries/sugar_loaf_and_vineyard.png" style="width: 200px; height: 404px; margin: 8px; float: right;"/><br/>After lunch take the five minute drive out of town to the Sugarloaf Mountain car park. At 596 metres, the Sugarloaf is a baby compared to some of the peaks in the Brecon Beacons but its distinctive conical shape, makes it a prominent and much loved local landmark. The walk up to the summit is relatively easy, within the scope of people with average fitness &nbsp;€“ but the summit is very exposed &nbsp;€“ so don&nbsp;€™t be fooled by its gentle appearance and make sure you take suitable footwear and clothing. Although not tricky to find your way, you can choose a number of different routes so a map is a good idea.
+<img src="/all_images_in_here_please/great_days_out/itineraries/sugar_loaf_and_vineyard.png" style="width: 200px; height: 404px; margin: 8px; float: right;"/><br/>After lunch take the five minute drive out of town to the Sugarloaf Mountain car park. At 596 metres, the Sugarloaf is a baby compared to some of the peaks in the Brecon Beacons but its distinctive conical shape, makes it a prominent and much loved local landmark. The walk up to the summit is relatively easy, within the scope of people with average fitness &nbsp;&#45; but the summit is very exposed &nbsp;&#45; so don&nbsp;&#39;t be fooled by its gentle appearance and make sure you take suitable footwear and clothing. Although not tricky to find your way, you can choose a number of different routes so a map is a good idea.
 <br/>
-<br/>If, after the exertion, lunch is but a distant memory &nbsp;€“ you could stop off at the Sugarloaf Vineyard on the way back to town for refreshments at their coffee shop. To complete the day you will be able to take a self guided tour through the vineyard and buy some excellent Welsh wine as a souvenir of your visit. Opening times and days vary with the seasons.
+<br/>If, after the exertion, lunch is but a distant memory &nbsp;&#45; you could stop off at the Sugarloaf Vineyard on the way back to town for refreshments at their coffee shop. To complete the day you will be able to take a self guided tour through the vineyard and buy some excellent Welsh wine as a souvenir of your visit. Opening times and days vary with the seasons.
 <br/>
 <br/>
 <br/>
@@ -41,11 +41,11 @@
 <h4>Facilities &amp; Access</h4>Abergavenny Castle and Museum
 <br/>Opening Times
 <br/>March - October
-<br/>Mon - Sat: 11.00 - 13.00 and 14.00 &nbsp;€“ 17.00
-<br/>Sun: 14.00 &nbsp;€“ 5.00pm
+<br/>Mon - Sat: 11.00 - 13.00 and 14.00 &nbsp;&#45; 17.00
+<br/>Sun: 14.00 &nbsp;&#45; 5.00pm
 <br/>
-<br/>November &nbsp;€“ February
-<br/>Mon - Sat: 11.00am &nbsp;€“ 13.00 closed&nbsp;  14.00 &nbsp;€“ 16.00
+<br/>November &nbsp;&#45; February
+<br/>Mon - Sat: 11.00am &nbsp;&#45; 13.00 closed&nbsp;  14.00 &nbsp;&#45; 16.00
 <br/>
 <br/>As with many historic buildingsaccess is difficult in some areas and it is recommended that there is at least one able bodied person to assist.
 <br/>
@@ -59,16 +59,16 @@
 <br/>
 <br/>The Sugarloaf Vineyards
 <br/>Opening Times
-<br/>Easter &nbsp;€“ October 31st
-<br/>Tues &nbsp;€“ Sat 10.30 &nbsp;€“ 17.00 Sun 12.00 &nbsp;€“ 5.00
+<br/>Easter &nbsp;&#45; October 31st
+<br/>Tues &nbsp;&#45; Sat 10.30 &nbsp;&#45; 17.00 Sun 12.00 &nbsp;&#45; 5.00
 <br/>Open Bank Holiday Mondays
 <br/>
-<br/>November &nbsp;€“ December 24th
-<br/>Wed &nbsp;€“ Sun 12.00pm &nbsp;€“ dusk
+<br/>November &nbsp;&#45; December 24th
+<br/>Wed &nbsp;&#45; Sun 12.00pm &nbsp;&#45; dusk
 <br/>Outside these times please
 <br/>call and they will be happy to see you.
 <br/>The coffee shop and shop area are on the ground floor with an accessible toilet. Cars can pull up outside the shop entrance if wheelchair access is required. The vineyards themselves are sloping with grass underfoot.
-<h4>Public Transport</h4>By Train the nearest station is Abergavenny &nbsp;€“ the Visitor Information centre is just less than 1km to walk.
+<h4>Public Transport</h4>By Train the nearest station is Abergavenny &nbsp;&#45; the Visitor Information centre is just less than 1km to walk.
 <br/>By bus: Stagecoach (www.stagecoachbus.com). Beacons bus service on Sundays and bank holidays throughout the summer.
 <br/>Tel: 01873 853254 visit www.travelinecymru.info
 <img alt="Funding logos for itinerarys" src="/all_images_in_here_please/great_days_out/itineraries/logo_for_itineraries.png" style="width: 200px; height: 110px; margin: 8px;"/>

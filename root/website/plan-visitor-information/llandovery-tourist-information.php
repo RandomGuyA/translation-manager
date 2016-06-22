@@ -20,9 +20,9 @@
 <br/>
 <a href="mailto:llanuser@breconbeacons.org?subject=General%20enquiry%20for%20Llandovery">Click Here To Send Us An Email</a><br/>&nbsp; </p>
 <p>
-<span style="color: rgb(0, 0, 0); font-family: 'trebuchet ms', helvetica, sans-serif;">The Centre is conveniently situated on the edge of the town car park and is ideally located as a &nbsp;€˜Gateway&nbsp;€™ centre for discovering the western and central areas of the Brecon Beacons National Park.</span></p>
+<span style="color: rgb(0, 0, 0); font-family: 'trebuchet ms', helvetica, sans-serif;">The Centre is conveniently situated on the edge of the town car park and is ideally located as a &nbsp;€˜Gateway&nbsp;&#39; centre for discovering the western and central areas of the Brecon Beacons National Park.</span></p>
 <p>
-<span style="font-size: 12px;"><span style="font-family: &quot;trebuchet ms&quot;, helvetica, sans-serif;"><span style="color: rgb(0, 0, 0);">It is a networked &nbsp;€˜Visit Wales&nbsp;€™ centre and as such offers a full range of services including the Bed Booking service.&nbsp; It also stocks a comprehensive range of literature about the National Park,
+<span style="font-size: 12px;"><span style="font-family: &quot;trebuchet ms&quot;, helvetica, sans-serif;"><span style="color: rgb(0, 0, 0);">It is a networked &nbsp;€˜Visit Wales&nbsp;&#39; centre and as such offers a full range of services including the Bed Booking service.&nbsp; It also stocks a comprehensive range of literature about the National Park,
 <a href="http://www.fforestfawrgeopark.org.uk/">Fforest Fawr Geopark</a>and adjoining areas.</span></span></span></p>
 <p>
 <span style="font-size: 12px;"><span style="font-family: &quot;trebuchet ms&quot;, helvetica, sans-serif;"><span style="color: rgb(0, 0, 0);">When you visit the Centre you can purchase maps, guides, books and souvenirs as well as a small range of walking / outdoor equipment.</span></span></span></p>

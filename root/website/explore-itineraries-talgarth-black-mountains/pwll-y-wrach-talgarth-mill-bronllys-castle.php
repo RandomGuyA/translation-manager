@@ -5,9 +5,9 @@
 <p/><p>
 <span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><img alt="Talgarth Castle " src="/all_images_in_here_please/great_days_out/itineraries/talgarth_itineraries_-_bronllys_castle.png" style="width: 200px; height: 458px; margin: 8px; float: left;"/></span></span>Start your morning with a walk around the beautiful Pwll-y-Wrach Nature Reserve. set in a narrow
 <span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;">and steep sided valley the reserve is an oak-ash woodland. at the eastern end of the reserve the
-<br/>river enig plunges to create a spectacular waterfall into a dark pool below known as the &nbsp;€˜Witches&nbsp; Pool&nbsp;€™ from which the reserve gets its name. although beautiful all year the reserve is perhaps at its
-<br/>finest in spring when the bluebells carpet the woodland floor. a surfaced easy access path leads&nbsp; from the main car park into the reserve &nbsp;€“ but a more uneven sometimes muddy path leads up to
-<br/>the waterfall. Return to talgarth and park in the main car park. Walk towards the town centre and stop at the 13th&nbsp; century Tower House. although its original use is unclear it is thought that it was intended to defend&nbsp; the crossing of the river enig and the town. In later times the tower was used as a base to collect&nbsp; rents and tithes by the ashburnham estate. It is now home to the Talgarth Information and Resource&nbsp; Centre &nbsp;€“ staffed by volunteers who will be able to answer your questions on the local area.
+<br/>river enig plunges to create a spectacular waterfall into a dark pool below known as the &nbsp;€˜Witches&nbsp; Pool&nbsp;&#39; from which the reserve gets its name. although beautiful all year the reserve is perhaps at its
+<br/>finest in spring when the bluebells carpet the woodland floor. a surfaced easy access path leads&nbsp; from the main car park into the reserve &nbsp;&#45; but a more uneven sometimes muddy path leads up to
+<br/>the waterfall. Return to talgarth and park in the main car park. Walk towards the town centre and stop at the 13th&nbsp; century Tower House. although its original use is unclear it is thought that it was intended to defend&nbsp; the crossing of the river enig and the town. In later times the tower was used as a base to collect&nbsp; rents and tithes by the ashburnham estate. It is now home to the Talgarth Information and Resource&nbsp; Centre &nbsp;&#45; staffed by volunteers who will be able to answer your questions on the local area.
 <br/>From July 2011 you will be able to visit the newly restored Talgarth Mill. the town are recent winners&nbsp; of the BBC Village sos Big lottery competition and won funding to restore the watermill to working
 <br/>order. the restored Water Mill also includes a riverside cafe, offering freshly baked products which sells local produce and gifts.
 <br/>After lunch enjoy a walk on the newly restored accessible riverside paths. For those wanting to&nbsp; stretch their legs a little more why not take the brisk ten minute stroll to Bronllys Castle.&nbsp; Now in the care of Cadw the mid 12th century stone keep with fantastic views perches atop an&nbsp; earlier motte overlooking the river llynfi and talgarth. historic documents tell us that history was&nbsp; changed here when a large piece of masonry fell from the castle and killed the last male heir of&nbsp; Miles of gloucester.</span></span></p>
@@ -55,12 +55,12 @@
 <br/>www.talgarthmill.com
 <br/>open Mon-sat 10am-4pm.
 <br/>Bronllys Castle is an unstaffed site open to the public with no admission charge, open daily
-<br/>from 10am &nbsp;€“ 4pm.
+<br/>from 10am &nbsp;&#45; 4pm.
 <br/>the Castle is a CadW historic monument with uneven surfaces and stairs.
 <br/>there are no facilities located at the Castle.</span></span></p>
 <h3>Public Transport</h3>
 <p>
-<span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;">By Train the nearest station is abergavenny &nbsp;€“ talgarth is 18 miles from abergavenny By bus: talgarth is serviced by uses in all directions, from hereford, Builth Wells, abergavenny and Brecon. look at
+<span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;">By Train the nearest station is abergavenny &nbsp;&#45; talgarth is 18 miles from abergavenny By bus: talgarth is serviced by uses in all directions, from hereford, Builth Wells, abergavenny and Brecon. look at
 <br/>www.traveline-cymru.org.uk for the latest travel information and timetables. For the hereford to
 <br/>Brecon (via talgarth) bus timetable, search for service 39 on the herefordshire County
 <br/>Council website (39a for the sunday timetable). during the summer months the Beacons Bus

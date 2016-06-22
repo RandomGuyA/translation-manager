@@ -37,9 +37,9 @@
 <h3>How to get there</h3>
 <p>The castle is close to the Castle Street car park in Abergavenny, signposted from the roundabout on the A4143.</p>
 <h3>OS grid reference</h3>
-<p>Explorer Map OL13 or Landranger Map 16 &nbsp;€“&nbsp; SO300138</p>
+<p>Explorer Map OL13 or Landranger Map 16 &nbsp;&#45;&nbsp; SO300138</p>
 <h3>Opening times</h3>
-<p>Mar&nbsp;€“Oct Mon&nbsp;€“Sat 11am&nbsp;€“1pm &amp; 2&nbsp;€“5pm, Sun 2&nbsp;€“5pm; Nov&nbsp;€“Feb Mon&nbsp;€“Sat 11am&nbsp;€“1pm &amp; 2&nbsp;€“4pm, Sun closed. Admission free.</p>
+<p>Mar&nbsp;&#45;Oct Mon&nbsp;&#45;Sat 11am&nbsp;&#45;1pm &amp; 2&nbsp;&#45;5pm, Sun 2&nbsp;&#45;5pm; Nov&nbsp;&#45;Feb Mon&nbsp;&#45;Sat 11am&nbsp;&#45;1pm &amp; 2&nbsp;&#45;4pm, Sun closed. Admission free.</p>
 <h3>Contact</h3>
 <p>Abergavenny Museum and Castle, Castle Street, Abergavenny NP7 5EE, tel 01873 854282,
 <a href="http://www.abergavennymuseum.co.uk" target="_blank">www.abergavennymuseum.co.uk</a></p>

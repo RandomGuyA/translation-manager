@@ -19,9 +19,9 @@
 <img src="/website/var/tmp/thumb_1287__auto_b5d8eb0eca7d8ca225635a6b24523328.jpeg" alt="Twizy at Westview Guesthouse" title="Twizy at Westview Guesthouse" height="160" width="340"/>
 <span>Twizy at Westview Guesthouse</span></li></ul></div>
 <p>
-<span style="font-size:18px;">The B&amp;Bs in the Brecon Beacons are run with pride and individuality. They&nbsp;€™re found in towns, villages and rural locations throughout the National Park. You can rely on them for a warm welcome, a good breakfast and a comfy bed.</span></p>
+<span style="font-size:18px;">The B&amp;Bs in the Brecon Beacons are run with pride and individuality. They&nbsp;&#39;re found in towns, villages and rural locations throughout the National Park. You can rely on them for a warm welcome, a good breakfast and a comfy bed.</span></p>
 <p>
-<span style="font-size:18px;">In some B&amp;Bs, you&nbsp;€™ll be treated as an honoured guest in the owner&nbsp;€™s home, while others aim for the atmosphere of a small hotel or guesthouse. B&amp;Bs are usually more flexible than self-catering accommodation in that you can book anything from a single night to a long stay.</span></p>
+<span style="font-size:18px;">In some B&amp;Bs, you&nbsp;&#39;ll be treated as an honoured guest in the owner&nbsp;&#39;s home, while others aim for the atmosphere of a small hotel or guesthouse. B&amp;Bs are usually more flexible than self-catering accommodation in that you can book anything from a single night to a long stay.</span></p>
 <!--SearchEnd//-->
 <div class="hightlights"/>
 <div class="hightlights">

@@ -8,22 +8,22 @@
 <li>
 <img src="/website/var/tmp/thumb_5516__landing_slider.jpeg" alt="" title="" height="160" width="340"/></li></ul></div>
 <p>
-<span style="font-family:trebuchet ms,helvetica,sans-serif;">The Brecon Beacons National Park is an exhilarating environment to explore with your dog &nbsp;€“ but please make sure your dog is not a danger or nuisance to farm animals, wildlife or other people.</span></p>
+<span style="font-family:trebuchet ms,helvetica,sans-serif;">The Brecon Beacons National Park is an exhilarating environment to explore with your dog &nbsp;&#45; but please make sure your dog is not a danger or nuisance to farm animals, wildlife or other people.</span></p>
 <p>&nbsp; </p>
 <p>
 <span style="font-family:trebuchet ms,helvetica,sans-serif;"><strong>Stay in control</strong></span></p>
 <p>
-<span style="font-family:trebuchet ms,helvetica,sans-serif;">By law, you must keep your dog under effective control so your dog does not disturb or scare farm animals or wildlife. You must keep your dog on a short lead on most areas of open country and commonland between 1 March and 31 July, and at all times near farm animals. You don't have to put your dog on a lead on public paths as long as it is under effective control. But as a general rule, it's considerate to keep your dog on a lead if you cannot rely on its obedience. Remember, farmers are entitled to destroy a dog that injures or worries their animals. You don&nbsp;€™t want to spoil someone else&nbsp;€™s walk by your dog upsetting them or their children, not everyone is as comfortable or confident around dogs as you are.</span></p>
+<span style="font-family:trebuchet ms,helvetica,sans-serif;">By law, you must keep your dog under effective control so your dog does not disturb or scare farm animals or wildlife. You must keep your dog on a short lead on most areas of open country and commonland between 1 March and 31 July, and at all times near farm animals. You don't have to put your dog on a lead on public paths as long as it is under effective control. But as a general rule, it's considerate to keep your dog on a lead if you cannot rely on its obedience. Remember, farmers are entitled to destroy a dog that injures or worries their animals. You don&nbsp;&#39;t want to spoil someone else&nbsp;&#39;s walk by your dog upsetting them or their children, not everyone is as comfortable or confident around dogs as you are.</span></p>
 <p>&nbsp; </p>
 <p>
 <span style="font-family:trebuchet ms,helvetica,sans-serif;"><strong>Be aware of other animals</strong></span></p>
 <p>
-<span style="font-family:trebuchet ms,helvetica,sans-serif;">Move carefully and quietly around cattle, never pass between a cow and her calf. Be particularly wary of situations where you may unintentionally be 'herding' cattle into a confined space where their only means of escape is back past you. If a farm animal chases you and your dog, it is safer to let your dog off the lead &nbsp;€“ don&nbsp;€™t risk getting hurt by trying to protect it. Take care that your dog doesn&nbsp;€™t scare sheep and lambs or wander where it might disturb birds that nest on the ground and other wildlife &nbsp;€“ eggs and young will soon die without protection from their parents.</span></p>
+<span style="font-family:trebuchet ms,helvetica,sans-serif;">Move carefully and quietly around cattle, never pass between a cow and her calf. Be particularly wary of situations where you may unintentionally be 'herding' cattle into a confined space where their only means of escape is back past you. If a farm animal chases you and your dog, it is safer to let your dog off the lead &nbsp;&#45; don&nbsp;&#39;t risk getting hurt by trying to protect it. Take care that your dog doesn&nbsp;&#39;t scare sheep and lambs or wander where it might disturb birds that nest on the ground and other wildlife &nbsp;&#45; eggs and young will soon die without protection from their parents.</span></p>
 <p>&nbsp; </p>
 <p>
 <span style="font-family:trebuchet ms,helvetica,sans-serif;"><strong>Tidy up</strong></span></p>
 <p>
-<span style="font-family:trebuchet ms,helvetica,sans-serif;">Dog mess can cause illness and infections &nbsp;€“ to both humans and other animals. Please clean up after your dog and get rid of the mess responsibly &nbsp;€“ this means taking it with you and then disposing of it safely. Be sure to leave all gates as you found them.</span></p>
+<span style="font-family:trebuchet ms,helvetica,sans-serif;">Dog mess can cause illness and infections &nbsp;&#45; to both humans and other animals. Please clean up after your dog and get rid of the mess responsibly &nbsp;&#45; this means taking it with you and then disposing of it safely. Be sure to leave all gates as you found them.</span></p>
 <p>&nbsp; </p>
 <p>
 <span style="font-family:trebuchet ms,helvetica,sans-serif;"><strong>Follow the rules</strong></span></p>

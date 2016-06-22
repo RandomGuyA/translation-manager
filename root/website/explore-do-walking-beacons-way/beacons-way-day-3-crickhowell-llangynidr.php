@@ -24,11 +24,11 @@
 <p>
 <span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">Leave Crickhowell by the lane on the north-western edge of town that follows the stream up from the ornate bus shelter. Head past one farm and along tracks to the next (avoiding it through fields on the right). Continue to follow a walled track to the left, up between the fields to reach the open hill.
 <br/>
-<br/>The route now winds its way along the side of the hill, around Cwm Mawr (where you can find John Sansom&nbsp;€™s memorial stone) before heading down to the village of Cwm Du via farm tracks and country lanes. The village is today&nbsp;€™s halfway point and boasts both a cafÃ&copy; and pub to help you refresh and refuel.
+<br/>The route now winds its way along the side of the hill, around Cwm Mawr (where you can find John Sansom&nbsp;&#39;s memorial stone) before heading down to the village of Cwm Du via farm tracks and country lanes. The village is today&nbsp;&#39;s halfway point and boasts both a cafÃ&copy; and pub to help you refresh and refuel.
 <br/>
 <br/>Carefully cross the main road by the pub and follow the lane opposite a short distance, then use the path to cut up through the fields to the next lane. This is followed uphill before taking a path onto the open hill at the second farm. This leads steeply to the top of Cefn Moel with great views over the magnificent Llangorse Lake. From here, you can follow obvious tracks along the ridge to the left that lead you down into Bwlch which has pubs and accommodation.
 <br/>
-<br/>Carefully cross the busy main road and follow the lane at the side of the pub, then the path on the left that leads through fields to the road junction. The road to the right takes you down to and across the ancient road bridge - one of the best in Wales &nbsp;€“ into Llangynidr which has two pubs but limited accommodation. The bus or a taxi can easily take you to Talybont where there is much more available.</span></span></p></div>
+<br/>Carefully cross the busy main road and follow the lane at the side of the pub, then the path on the left that leads through fields to the road junction. The road to the right takes you down to and across the ancient road bridge - one of the best in Wales &nbsp;&#45; into Llangynidr which has two pubs but limited accommodation. The bus or a taxi can easily take you to Talybont where there is much more available.</span></span></p></div>
 <br/>
 <iframe height="505" src="http://www.beacons-npa.gov.uk/static/maps/destination/beacons_way_day_3.html" width="755"/>
 <!--SearchEnd//-->

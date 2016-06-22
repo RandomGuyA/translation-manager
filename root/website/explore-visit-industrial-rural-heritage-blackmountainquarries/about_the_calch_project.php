@@ -6,7 +6,7 @@
 <br/>&nbsp; 
 <br/>With help from many local volunteers, Dyfed Archaeological Trust undertook research, survey, excavation and interpretation preparation in order to turn the now disused and abandoned industrial site into an exciting and informative outdoor museum. Through conservation work, interpretation panel installation and the creation of an audio trail, this site is now a heritage hub which explores more than 200 years of history which shaped Carmarthenshire into the county we recognise today.
 <br/>&nbsp; 
-<br/>Located within the wild western part of the National Park, the Black Mountain Quarries provide a stark reminder that the area hasn&nbsp;€™t always been an idyllic and quiet part of the world and that the landscape you see today was in fact shaped by hundreds of years of industry.
+<br/>Located within the wild western part of the National Park, the Black Mountain Quarries provide a stark reminder that the area hasn&nbsp;&#39;t always been an idyllic and quiet part of the world and that the landscape you see today was in fact shaped by hundreds of years of industry.
 <br/>&nbsp; 
 <br/>To read a documentation of the CALCH project please visit the
 <a href="http://www.calch.org.uk">website</a>.

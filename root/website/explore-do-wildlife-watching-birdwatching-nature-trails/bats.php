@@ -3,12 +3,12 @@
 <h1>Bats in the Brecon Beacons National Park</h1>
 <div class="article-video right clearfix"/>
 <p/><p>
-<span style="font-size:18px;">Britain is home to 16 different species of bat, several of which live within the Brecon Beacons National Park. One of the UK&nbsp;€™s largest populations of the rare lesser horseshoe bat can be found in the Usk Valley.</span></p>
+<span style="font-size:18px;">Britain is home to 16 different species of bat, several of which live within the Brecon Beacons National Park. One of the UK&nbsp;&#39;s largest populations of the rare lesser horseshoe bat can be found in the Usk Valley.</span></p>
 <p>
 <img src="/website/var/tmp/thumb_1135__auto_033ef2ede12572acea8aa1172bafef15.jpeg" style="width: 350px; height: 516px; margin-left: 15px; margin-right: 15px; float: right;"/>Bats, the only true flying mammals, account for nearly 25 per cent of the 4500 mammal species found worldwide.&nbsp; </p>
-<p>Both bats and their roosts are legally protected, so care must be taken to determine whether they are present when planning development work in rural areas. They often live in houses entirely unnoticed, as they are generally very clean animals which don&nbsp;€™t cause damage by nibbling through wires or dropping food or nesting material.</p>
+<p>Both bats and their roosts are legally protected, so care must be taken to determine whether they are present when planning development work in rural areas. They often live in houses entirely unnoticed, as they are generally very clean animals which don&nbsp;&#39;t cause damage by nibbling through wires or dropping food or nesting material.</p>
 <h2>Pipistrelles</h2>
-<p>These are the bats most likely to be seen in British gardens, parks and rural woodlands and hedges. There are three species of pipistrelle in the UK. They mostly feed on insects &nbsp;€“ a single pipistrelle can consume up to 3000 midges in one night! In winter, they hibernate in buildings.</p>
+<p>These are the bats most likely to be seen in British gardens, parks and rural woodlands and hedges. There are three species of pipistrelle in the UK. They mostly feed on insects &nbsp;&#45; a single pipistrelle can consume up to 3000 midges in one night! In winter, they hibernate in buildings.</p>
 <h2>Greater horseshoe bats</h2>
 <p>The greater horseshoe bat is one of the largest bats in the UK. During the summer they form maternity colonies which generally roost in large old buildings and forage in pasture, hedgerows and the fringes of mixed deciduous woodland. In winter, they depend on caves, abandoned mines and other underground sites such as cellars.</p>
 <h2>Lesser horseshoe bats</h2>

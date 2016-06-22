@@ -8,7 +8,7 @@
 <img src="/website/var/tmp/thumb_2739__auto_8ad9f85fe013118b2b14ee1fcdf68d80.jpeg" style="width: 704px; height: 471px; margin-top: 15px; margin-bottom: 15px; float: right;"/>What to do&nbsp; </h2>
 <h3>1. Tasters (for beginners)</h3>
 <p>The Brecon Beacons National Park has a fantastic range of walks suitable for all ages and abilities. This is why so many visitors come to the area.</p>
-<p>If you&nbsp;€™re new to hill walking, you could maximise your experience by booking a qualified walking guide. Using their local knowledge guides can choose a suitable hill walk or a more demanding mountain walk, planning the route to suit your preferences so you don&nbsp;€™t have to worry about getting lost or missing places of interest.</p>
+<p>If you&nbsp;&#39;re new to hill walking, you could maximise your experience by booking a qualified walking guide. Using their local knowledge guides can choose a suitable hill walk or a more demanding mountain walk, planning the route to suit your preferences so you don&nbsp;&#39;t have to worry about getting lost or missing places of interest.</p>
 <p>Guides can take you off the beaten track to see breathtaking scenery and experience the real Brecon Beacons which you may not otherwise get the chance to visit. You can book a single day guided walk or a full weekend and combine a walk with other activities.</p>
 <p>Or, you could join an organised walk. Check our Events listings for details.</p>
 <h3>2. Improvers (for returners and skills builders)</h3>
@@ -17,7 +17,7 @@
 <p>The Brecon Beacons National Park has numerous professional instructors and organisations who can offer tuition in mountain skills.</p>
 <h3>3. Independent experiences (for enthusiasts and experts)</h3>
 <p>Walking in the Brecon Beacons National Park is an excellent activity for independent adventurers. We have plenty of published routes that even young children can try. For wheelchair users and families with pushchairs, there are short, easier-access trails which allow you to get out in the fresh air in a safe and controlled way. Many starting points can be reached by bus.</p>
-<p>For those looking for a more challenging experience, there&nbsp;€™s a wealth of choice, from short mountain walks lasting a couple of hours to long-distance hikes such as the eight-day Beacons Way.</p>
+<p>For those looking for a more challenging experience, there&nbsp;&#39;s a wealth of choice, from short mountain walks lasting a couple of hours to long-distance hikes such as the eight-day Beacons Way.</p>
 <h2>Where to go: eight fantastic walking destinations in the Brecon Beacons National Park</h2>
 <ol>
 <li>

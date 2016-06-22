@@ -13,19 +13,19 @@
 <p>This reservoir is not as accessible as Usk, but a short drive down an access lane allows the set up of telescopes to enjoy stargazing down to a limiting magnitude of 6.37. There are also laybys along the A4607 which provide ideal places to enjoy the beauty of the dark skies.</p>
 <h2>3. Llanthony Priory</h2>
 <h4>OS 288278 N51.56.41 W03.02.11</h4>
-<p>One of the most beautiful ruined buildings in the care of CADW, Llanthony Priory has pristine skies and is situated along the Offa&nbsp;€™s Dyke Path just on the Welsh-English border, with skies that have a limiting magnitude of 6.35. The priory is set in one of the most charming areas to observe in Wales.&nbsp; </p>
+<p>One of the most beautiful ruined buildings in the care of CADW, Llanthony Priory has pristine skies and is situated along the Offa&nbsp;&#39;s Dyke Path just on the Welsh-English border, with skies that have a limiting magnitude of 6.35. The priory is set in one of the most charming areas to observe in Wales.&nbsp; </p>
 <h2>4. Hay Bluff</h2>
 <h4>OS 242361 N 52.01.43 W03.06.34</h4>
 <p>The road over Gospel Pass from Llanthony to Hay-on-Wye brings you to the car park on Hay Bluff, a hill overlooking the Wye valley with great views over Powys and Shropshire to the distant north-west. The skies have a limiting magnitude of 6.34. The town of Hay is the largest centre of second hand bookshops outside of London, making this a good place to look for astronomy titles.</p>
 <h2>5. National Park Visitor Centre (Mountain Centre)&nbsp; </h2>
 <h4>OS 878264 N51.56.02 W 03.28.40</h4>
-<p>The visitor centre is signposted at the village of Libanus on the main A470 road and is very accessible both day and night. Enjoying skies with a limiting magnitude of 6.37, the centre is one of the best and most accessible areas to set up telescopes and is within an hour&nbsp;€™s drive of every one of the South Wales valleys. The centre is located on a working common though so we ask to you to please respect local residents and park within the centre carpark and only use our grounds at night to minimise disturbance to others.</p>
+<p>The visitor centre is signposted at the village of Libanus on the main A470 road and is very accessible both day and night. Enjoying skies with a limiting magnitude of 6.37, the centre is one of the best and most accessible areas to set up telescopes and is within an hour&nbsp;&#39;s drive of every one of the South Wales valleys. The centre is located on a working common though so we ask to you to please respect local residents and park within the centre carpark and only use our grounds at night to minimise disturbance to others.</p>
 <h2>6. Pen Rhiw Ddu</h2>
 <h4>OS 730192 N51.51.13 W03.50.31</h4>
 <p>The car park off the winding road between Llandeilo and Brynamman over the Black Mountain is a great location as there is good access from the Swansea Valley and plenty of room for telescopes. It also overlooks the darkness of Mid and West Wales with the skies here enjoying a limiting magnitude of 6.31.</p>
 <h2>7. Carreg Cennen</h2>
 <h4>OS 668193 N51.51.12. W03.56.02</h4>
-<p>The wonderful castle at Carreg Cennen sitting on its huge limestone cliff offers a great day out with breathtaking views across the valley to the west and one of the darkest skies in the region at a limiting magnitude of 6.26. It is accessible from Llandeilo, Carmarthen and Ammanford and is within an hour&nbsp;€™s drive of the South Wales valleys and the rural heartland of West Wales.</p>
+<p>The wonderful castle at Carreg Cennen sitting on its huge limestone cliff offers a great day out with breathtaking views across the valley to the west and one of the darkest skies in the region at a limiting magnitude of 6.26. It is accessible from Llandeilo, Carmarthen and Ammanford and is within an hour&nbsp;&#39;s drive of the South Wales valleys and the rural heartland of West Wales.</p>
 <h2>8. Craig-y-nos Country Park and Craig Y Nos Castle</h2>
 <h4>OS 840161 N51.50.16 W03.40.29</h4>
 <p>Craig-y-Nos Castle is the former home of opera singer Adelina Patti, one of the greatest sopranos in history. The skies here have a limiting magnitude of 6.30 and are very accessible by road from Swansea and Brecon.</p>

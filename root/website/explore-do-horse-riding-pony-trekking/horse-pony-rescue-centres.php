@@ -11,7 +11,7 @@
 <h2>The Welsh Pit Ponies Centre</h2>
 <h4>Treforest, tel 01443 480327, www.visitpitponies.co.uk</h4>
 <p>Visit Fforest Uchaf Farm and meet some of the last few Welsh Pit Ponies. The aim of the sanctuary is to provide a safe haven for horses and ponies who have suffered through neglect, ignorance or cruelty. Some have special problems and will spend the rest of their lives at the sanctuary. Visitors will be taken on a quiet walk in the pastures with a magnificent panoramic backdrop of the Taff Valley and on clear days the Brecon Beacons.</p>
-<p>Opening hours: 1 May &nbsp;€“ 30 Sep Mon-Fri 10am-2pm, Sat closed, Sun 11am-4pm. 1 Oct &nbsp;€“ 30 Apr by appointment only. Family car &nbsp;£10, or adults &nbsp;£4 each, children/OAPs &nbsp;£2.</p>
+<p>Opening hours: 1 May &nbsp;&#45; 30 Sep Mon-Fri 10am-2pm, Sat closed, Sun 11am-4pm. 1 Oct &nbsp;&#45; 30 Apr by appointment only. Family car &nbsp;£10, or adults &nbsp;£4 each, children/OAPs &nbsp;£2.</p>
 <div>&nbsp; </div>
 
 <!--SearchEnd//-->

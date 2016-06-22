@@ -128,7 +128,7 @@
 <div>&nbsp; </div>
 <div>&nbsp; </div>
 <div>
-<sub>*Please note that whilst part of the Ambassadors&nbsp;€™ role is to promote the understanding and enjoyment of the Brecon Beacons National Park and the Dark Sky Reserve, they are not contracted to do so by the Brecon Beacons National Park Authority nor by the management of Dark Sky Reserve Partnership and, neither do their views necessarily represent or reflect those of these organisations..&nbsp; </sub></div>
+<sub>*Please note that whilst part of the Ambassadors&nbsp;&#39; role is to promote the understanding and enjoyment of the Brecon Beacons National Park and the Dark Sky Reserve, they are not contracted to do so by the Brecon Beacons National Park Authority nor by the management of Dark Sky Reserve Partnership and, neither do their views necessarily represent or reflect those of these organisations..&nbsp; </sub></div>
 <!--SearchEnd//-->
 <div class="hightlights"/>
 <div class="hightlights"/></div></body></html>

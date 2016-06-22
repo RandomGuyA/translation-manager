@@ -13,7 +13,7 @@
 <h2>Awards and accolades</h2>
 <p>Talgarth Mill has been shortlisted for the 2013 National Tourism Award for Wales.</p>
 <h2>Opening hours</h2>
-<p>Summer Tue&nbsp;€“Sun 10am&nbsp;€“4pm, winter Tue&nbsp;€“Sun 10am&nbsp;€“4pm. Closed Mon.</p>
+<p>Summer Tue&nbsp;&#45;Sun 10am&nbsp;&#45;4pm, winter Tue&nbsp;&#45;Sun 10am&nbsp;&#45;4pm. Closed Mon.</p>
 <address>Talgarth Mill and The Baker's Table CafÃ&copy; and Bakery, The Mill House, The Square, Talgarth, Brecon LD3 0BW, Wales, tel 01874 711352,&nbsp; 
 <a href="http://www.talgarthmill.com" target="_blank">www.talgarthmill.com</a><br/>&nbsp; </address>
 <address>Primrose Earth Centre, Felindre, Brecon LD3 0ST, Wales, tel 01497 847636,

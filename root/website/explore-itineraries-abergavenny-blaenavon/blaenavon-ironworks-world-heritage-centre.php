@@ -6,7 +6,7 @@
 <a href="/all_images_in_here_please/great_days_out/hitoric_places_2.png"><img src="/all_images_in_here_please/great_days_out/blaenavon_ironworks_historic_places.png" style="width: 153px; float: right; margin: 12px; height: 208px;"/></a>&nbsp; the early years of the Industrial Revolution why not visit&nbsp; Blaenavon Ironworks.</strong><br/>
 <br/>The site is home to one of the best preserved 18th Century&nbsp; ironworks in Europe and comes complete with furnaces, cast&nbsp; houses, a magnificent water balance tower, cupola furnace and&nbsp; ironworkers cottages.
 <br/>
-<br/>Following on from the BBC Wales &nbsp;€˜Coal House&nbsp;€™ series&nbsp; visitors now have the chance to step inside the furnished workers&nbsp; cottages at Stack Square and visit the newly recreated &nbsp;€˜Company&nbsp; Shop&nbsp;€™ as it might have looked in 1840.
+<br/>Following on from the BBC Wales &nbsp;€˜Coal House&nbsp;&#39; series&nbsp; visitors now have the chance to step inside the furnished workers&nbsp; cottages at Stack Square and visit the newly recreated &nbsp;€˜Company&nbsp; Shop&nbsp;&#39; as it might have looked in 1840.
 <br/>
 <br/>At the Blaenavon World Heritage Centre learn about World&nbsp; Heritage Sites and why a Welsh mountain landscape became one.
 <br/>

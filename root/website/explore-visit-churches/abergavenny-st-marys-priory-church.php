@@ -5,9 +5,9 @@
 <p/><p>
 <span style="font-size:18px;">Sometimes called the Westminster Abbey of Wales, the Priory Church of St Mary is home to numerous unique treasures.</span></p>
 <p>The most extraordinary sacred object at St Mary's is the Jesse. Carved from a single piece of oak in the 15th century, this depiction of the lineage of Christ is the only one of its kind in the UK and probably the world.</p>
-<p>St Mary&nbsp;€™s, a large, Grade I listed church, also contains a number of high status tombs and memorials. It has the second largest single collection of medieval monuments in a parish church in the UK, extending from 13th Century to about 1510 in wood alabaster and freestone.</p>
+<p>St Mary&nbsp;&#39;s, a large, Grade I listed church, also contains a number of high status tombs and memorials. It has the second largest single collection of medieval monuments in a parish church in the UK, extending from 13th Century to about 1510 in wood alabaster and freestone.</p>
 <p>A recent addition, a pair of textile wall hangings by Elizabeth Brown, decorate the Baptistry.</p>
-<p>St Mary&nbsp;€™s was originally the church of a Benedictine priory, founded in 1087. Recent archaeological finds suggest it was built on a site of Romano-British and possibly Celtic worship.</p>
+<p>St Mary&nbsp;&#39;s was originally the church of a Benedictine priory, founded in 1087. Recent archaeological finds suggest it was built on a site of Romano-British and possibly Celtic worship.</p>
 
 <!--SearchEnd//-->
 <div id="map" class="content-map clearfix" style=" width: 704px;  height: 400px; ">

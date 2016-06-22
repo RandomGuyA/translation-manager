@@ -13,7 +13,7 @@
 <h3>OS grid reference</h3>
 <p>Explorer Map OL12 or Landranger Map 160 - SO 049 283</p>
 <h3>Opening times</h3>
-<p>Mon&nbsp;€“Fri 10am&nbsp;€“5pm, Sat (Apr&nbsp;€“Sep) 10am&nbsp;€“4pm, bank holidays (Apr&nbsp;€“Sep) 10am&nbsp;€“4pm</p>
+<p>Mon&nbsp;&#45;Fri 10am&nbsp;&#45;5pm, Sat (Apr&nbsp;&#45;Sep) 10am&nbsp;&#45;4pm, bank holidays (Apr&nbsp;&#45;Sep) 10am&nbsp;&#45;4pm</p>
 <h3>Contact</h3>
 <p>The Barracks, Watton, Brecon LD3 7EB, tel 01874 613310,
 <a href="http://www.royalwelsh.org.uk" target="_blank">www.royalwelsh.org.uk</a></p>

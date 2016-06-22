@@ -9,7 +9,7 @@
 <h2>Touched by industry</h2>
 <p>This is such a peaceful, green spot that it seems unthinkable that it was ever influenced by industry, but the quiet road that runs through the reserve was once a railway line which was used to transport men and materials into the Black Mountains to build the imposing Grwyne Fawr Dam, nearly a century ago. Wood from the surrounding trees was cut to lay the sleepers for the line and the track was laid on bundled brushwood.</p>
 <p>The woods themselves were also the site of light industry: several charcoal hearths have been found in the upper parts, suggesting that the delicate process of charcoal burning was carried out here. Records show that trees were felled again around the First World War for transport from the local station at Llanfihangel to Yorkshire to make clogs.</p>
-<p>However, industry has long since left this valley to its own devices, and although the practice of coppicing &nbsp;€“ the regular cutting back of young trees to encourage new growth &nbsp;€“ has been reintroduced, this is simply to maintain the biodiversity of the reserve.</p>
+<p>However, industry has long since left this valley to its own devices, and although the practice of coppicing &nbsp;&#45; the regular cutting back of young trees to encourage new growth &nbsp;&#45; has been reintroduced, this is simply to maintain the biodiversity of the reserve.</p>
 <p>The timber extracted from the trees is used either to produce charcoal locally or to be burned as firewood, while the thinner branches are chipped to surface some of the paths through the wet woodland.</p>
 <h2>Diverse habitats&nbsp; </h2>
 <p>The most attractive aspect of this predominantly ancient semi-natural woodland is its distinct habitats. Different species thrive either at the boggy pools at the lower end of the reserve or on the rocky outcrops on the ridged hillside above, with its glorious views over the neighbouring peak, Bryn Arw. The river flowing through Coed-y-Cerrig is a tributary of the Grwyne Fawr, which is fed by springs running off the hills on either side.</p>
@@ -17,7 +17,7 @@
 <h2>Wildlife</h2>
 <p>Again, diversity is the distinctive feature of the wildlife, which includes yellow pimpernel, herb-paris, wood anemone, primroses, lords-and-ladies, nettle-leaved bellflower and early purple orchid.</p>
 <p>In parts of the beech-oak-lime wood at the top, wavy hair-grass grows in abundance alongside hairy wood-rush and foxgloves. Mosses and fungi also feature.</p>
-<p>This is a reserve which needs to be visited at different times of year to be fully appreciated &nbsp;€“ the slender mossy bark of the willow trees that stand out against the bare winter landscape contrasts strongly with the carpet of bluebells that appears in spring.</p>
+<p>This is a reserve which needs to be visited at different times of year to be fully appreciated &nbsp;&#45; the slender mossy bark of the willow trees that stand out against the bare winter landscape contrasts strongly with the carpet of bluebells that appears in spring.</p>
 <p>You may find opened hazelnuts scattered across the forest floor, indicating the presence of dormice. They love to nest either in dense undergrowth, holes in trees or even in boxes put up for the purpose.</p>
 <p>A good range of birds can be heard and seen including woodland warblers and woodpeckers which are very much at home in the valley. Be prepared for a flutter of colour against the foliage, as numerous butterfly species have been noted here, including the silver washed fritillary.</p>
 <h2>Visiting the reserve</h2>

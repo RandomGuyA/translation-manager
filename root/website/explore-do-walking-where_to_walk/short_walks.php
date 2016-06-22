@@ -24,7 +24,7 @@
 <img src="/website/var/tmp/thumb_128__landing_page_highlights.jpeg" alt="" title="" height="90" width="190"/>
 <p>Rocky ravines reveal all.
 
-Let&nbsp;€™s clear up our terminology right from the ...</p></div>
+Let&nbsp;&#39;s clear up our terminology right from the ...</p></div>
 </li>
 <li>
 <a href="/explore/things_to_do/walking/where_to_walk/short_walks/craig_y_nos_circular"/><h3><a href="/explore/things_to_do/walking/where_to_walk/short_walks/craig_y_nos_circular">Craig-y-Nos circular</a></h3>
@@ -44,7 +44,7 @@ Let&nbsp;€™s clear up our terminology right from the ...</p></div>
 
  
 
- Here&nbsp;€™s a short, easy walk along the lush banks of...</p></div>
+ Here&nbsp;&#39;s a short, easy walk along the lush banks of...</p></div>
 </li>
 <li>
 <a href="/explore/things_to_do/walking/where_to_walk/short_walks/mynydd_illtud_from_the_visitor_centre"/><h3><a href="/explore/things_to_do/walking/where_to_walk/short_walks/mynydd_illtud_from_the_visitor_centre">Mynydd Illtud from the Visitor Centre</a></h3>

@@ -8,7 +8,7 @@
 <h2>Crickhowell Walking Festival</h2>
 <h5>
 <a href="http://www.crickhowellfestival.com" target="_blank">www.crickhowellfestival.com</a></h5>
-<p>Crickhowell is home to one of Wales&nbsp;€™ best-known walking festivals. Taking place over ten days in early March, it features a great variety of guided walks plus talks from eminent guests and a
+<p>Crickhowell is home to one of Wales&nbsp;&#39; best-known walking festivals. Taking place over ten days in early March, it features a great variety of guided walks plus talks from eminent guests and a
 <em>twmpath</em>, a traditional Welsh ceilidh-style knees-up.&nbsp; </p>
 <h4>MAY</h4>
 <h2>Talgarth Walking Festival</h2>
@@ -19,18 +19,18 @@
 <h2>Hay Festival of Literature and the Arts</h2>
 <h5>
 <a href="http://www.hayfestival.com" target="_blank">www.hayfestival.com</a></h5>
-<p>Hay-on-Wye is rightly famous for this superb event which celebrates contemporary literature and intelligent discussion. The concept may be unashamedly highbrow, but the festival definitely has a fun side, with plenty of humourists in attendance, tasty food on offer and lively musical events at fringe venues. The formula has proved so successful, it&nbsp;€™s spread from Hay to places as far-flung as Lebanon, Mexico and the Maldives.&nbsp; </p>
+<p>Hay-on-Wye is rightly famous for this superb event which celebrates contemporary literature and intelligent discussion. The concept may be unashamedly highbrow, but the festival definitely has a fun side, with plenty of humourists in attendance, tasty food on offer and lively musical events at fringe venues. The formula has proved so successful, it&nbsp;&#39;s spread from Hay to places as far-flung as Lebanon, Mexico and the Maldives.&nbsp; </p>
 <h4>JUNE</h4>
 <h2>Hay-on-Wye Summer Food Festival</h2>
 <h5>
 <a href="http://www.breconbeacons.org/food-festivals" target="_blank">www.breconbeacons.org/food-festivals</a></h5>
-<p>This one-day gourmet gathering is well worth a visit. It&nbsp;€™s limited to a relatively small number of local food, cider and whisky producers to ensure the quality is the best, and there&nbsp;€™s entertainment from local brass bands, male voice choirs and folk musicians.&nbsp; </p>
+<p>This one-day gourmet gathering is well worth a visit. It&nbsp;&#39;s limited to a relatively small number of local food, cider and whisky producers to ensure the quality is the best, and there&nbsp;&#39;s entertainment from local brass bands, male voice choirs and folk musicians.&nbsp; </p>
 <h4>AUGUST</h4>
 <h2>Brecon Jazz Festival</h2>
 <h5>
 <a href="http://www.breconjazz.com" target="_blank">www.breconjazz.com</a>&nbsp; 
 <a href="http://www.breconfringe.co.uk" target="_blank">www.breconfringe.co.uk</a></h5>
-<p>If you like listening to mellow jazz in relaxed surroundings, you&nbsp;€™ll love the Brecon Jazz Festival. Over the years, greats such as George Melly, Humphrey Lyttleton, Cleo Laine, Van Morrison, Amy Winehouse, Courtney Pine and Jools Holland have performed here. It&nbsp;€™s flanked by the Brecon Fringe Festival, which brings together masses of musicians for gigs and family events in over 30 venues in and around Brecon. Take it away!&nbsp; </p>
+<p>If you like listening to mellow jazz in relaxed surroundings, you&nbsp;&#39;ll love the Brecon Jazz Festival. Over the years, greats such as George Melly, Humphrey Lyttleton, Cleo Laine, Van Morrison, Amy Winehouse, Courtney Pine and Jools Holland have performed here. It&nbsp;&#39;s flanked by the Brecon Fringe Festival, which brings together masses of musicians for gigs and family events in over 30 venues in and around Brecon. Take it away!&nbsp; </p>
 <h4>AUGUST</h4>
 <h2>Green Man Festival</h2>
 <h5>
@@ -55,7 +55,7 @@
 <h2>Brecon Food Festival</h2>
 <h5>
 <a href="http://www.breconbeacons.org/food-festivals" target="_blank">www.breconbeacons.org/food-festivals</a></h5>
-<p>This one-day event is a great opportunity to exercise your tastebuds. It seeks to boost the local food and farming industry by raising awareness of what&nbsp;€™s available. Centred on Brecon&nbsp;€™s Market Hall, it spills out all over town.&nbsp; </p>
+<p>This one-day event is a great opportunity to exercise your tastebuds. It seeks to boost the local food and farming industry by raising awareness of what&nbsp;&#39;s available. Centred on Brecon&nbsp;&#39;s Market Hall, it spills out all over town.&nbsp; </p>
 <h4>OCTOBER</h4>
 <h2>Hay Walking Festival</h2>
 <h5>
@@ -65,12 +65,12 @@
 <h2>Monmouthshire Walking Festival</h2>
 <h5>
 <a href="http://www.walkinginmonmouthshire.org" target="_blank">www.walkinginmonmouthshire.org</a></h5>
-<p>Spread over ten days, this friendly festival invites you to discover the peaks of Bal Bach, Chwarel-y-Fan, Crug Mawr and Hay Bluff, as well as Offa&nbsp;€™s Dyke, the Wye Valley, Llanthony Priory and Capel-y-Ffin. Expert guides will chat about plants, folklore and local history.&nbsp; </p>
+<p>Spread over ten days, this friendly festival invites you to discover the peaks of Bal Bach, Chwarel-y-Fan, Crug Mawr and Hay Bluff, as well as Offa&nbsp;&#39;s Dyke, the Wye Valley, Llanthony Priory and Capel-y-Ffin. Expert guides will chat about plants, folklore and local history.&nbsp; </p>
 <h4>NOVEMBER</h4>
 <h2>Hay-on-Wye Winter Food Festival</h2>
 <h5>
 <a href="http://www.breconbeacons.org/food-festivals" target="_blank">www.breconbeacons.org/food-festivals</a></h5>
-<p>Held on a Saturday, this celebrates all that&nbsp;€™s good about winter cooking, with stalls from local producers and free musical entertainment.</p>
+<p>Held on a Saturday, this celebrates all that&nbsp;&#39;s good about winter cooking, with stalls from local producers and free musical entertainment.</p>
 <h4>NOVEMBER</h4>
 <h2>Hay Festival Winter Weekend</h2>
 <h5>

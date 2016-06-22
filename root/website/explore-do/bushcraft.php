@@ -5,13 +5,13 @@
 <span style="font-family:trebuchet ms,helvetica,sans-serif;">Bushcraft and wilderness survival training</span></h2>
 <p>
 <span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="color: rgb(27, 27, 27); line-height: 28.1777px;">Bushcraft is all the rage and the beautiful natural landscapes of the Brecon Beacons lends itself perfectly to
-<br/>the experts who'd love to hone your wilderness skills.</span>If you'd like to test yourself to the limit and learn how to survive in the wild.&nbsp; </span></span><span style="color: rgb(51, 51, 51); line-height: 24px; font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px;">Find out all about living on the wild side and learn the ways of survival.&nbsp;  The Brecon Beacons National Park is an area rich in vegetation, wildlife and woodland.&nbsp;  It&nbsp;€™s where the elite SAS army go to learn about survival, and the mountainsides, forests, hedgerow and rivers are full of wild foods that are quite edible.</span></p>
+<br/>the experts who'd love to hone your wilderness skills.</span>If you'd like to test yourself to the limit and learn how to survive in the wild.&nbsp; </span></span><span style="color: rgb(51, 51, 51); line-height: 24px; font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px;">Find out all about living on the wild side and learn the ways of survival.&nbsp;  The Brecon Beacons National Park is an area rich in vegetation, wildlife and woodland.&nbsp;  It&nbsp;&#39;s where the elite SAS army go to learn about survival, and the mountainsides, forests, hedgerow and rivers are full of wild foods that are quite edible.</span></p>
 <p>
-<span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="color: rgb(51, 51, 51); line-height: 24px;">So how about booking a bushcraft guide for the day?&nbsp;  Here in the National Park you won&nbsp;€™t struggle to find a knowledgeable guide who can take you out into the wild and teach you the ways of survival.</span></span></span></p>
+<span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="color: rgb(51, 51, 51); line-height: 24px;">So how about booking a bushcraft guide for the day?&nbsp;  Here in the National Park you won&nbsp;&#39;t struggle to find a knowledgeable guide who can take you out into the wild and teach you the ways of survival.</span></span></span></p>
 <h2>
 <span style="font-family:trebuchet ms,helvetica,sans-serif;">Foraging&nbsp; </span></h2>
 <p>
-<span style="color: rgb(27, 27, 27); line-height: 28.1777px; font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px;">Explore the beauty of the Brecon Beacons whilst gathering food that&nbsp;€™s fresh, tasty and free. The landscape in the Brecon Beacons is perfect for foraging. Better still, you can learn from the best &nbsp;€“ friendly experts with unsurpassable local knowledge are waiting to help you learn food foraging and outdoor skills, giving your fitness levels and practical abilities a hearty boost along the way.&nbsp; </span></p>
+<span style="color: rgb(27, 27, 27); line-height: 28.1777px; font-family: 'trebuchet ms', helvetica, sans-serif; font-size: 14px;">Explore the beauty of the Brecon Beacons whilst gathering food that&nbsp;&#39;s fresh, tasty and free. The landscape in the Brecon Beacons is perfect for foraging. Better still, you can learn from the best &nbsp;&#45; friendly experts with unsurpassable local knowledge are waiting to help you learn food foraging and outdoor skills, giving your fitness levels and practical abilities a hearty boost along the way.&nbsp; </span></p>
 <!--SearchEnd//-->
 <div class="hightlights"/>
 <div class="hightlights">
@@ -40,7 +40,7 @@ Paddle a canoe gently along ...</p></div>
 <a href="/businesses/6282"/><h3><a href="/businesses/6282">Bear Grylls Survival Academy</a></h3>
 <div class="section-box jagged">
 <img src="/website/var/tmp/thumb_6514__landing_page_highlights.jpeg" alt=""/>
-<p>Bear Grylls - the world&nbsp;€™s most recognizable face of survival and outd...</p></div>
+<p>Bear Grylls - the world&nbsp;&#39;s most recognizable face of survival and outd...</p></div>
 </li>
 <li class="business-activity hasPhoto">
 <a href="/businesses/2781"/><h3><a href="/businesses/2781">Mountain and River Activities</a></h3>

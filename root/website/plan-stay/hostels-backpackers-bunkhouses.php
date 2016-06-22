@@ -21,7 +21,7 @@
 <p>
 <span style="font-size:18px;">Found in a range of rural locations, bunkhouses cater for families and friends who want to holiday together,&nbsp; </span><span style="font-size: 18px;">reunions,&nbsp; </span><span style="font-size: 18px;">activity groups and team building events. We have bunkhouses that can sleep up to 32 people.</span></p>
 <p>
-<span style="font-size:18px;">Some bunkhouses take independent travellers or offer backpacker accommodation whilst others only offer sole occupancy to one group. There are also a number of youth hostels in the Brecon Beacons &nbsp;€“ despite the name, these cater for visitors of all ages.</span></p>
+<span style="font-size:18px;">Some bunkhouses take independent travellers or offer backpacker accommodation whilst others only offer sole occupancy to one group. There are also a number of youth hostels in the Brecon Beacons &nbsp;&#45; despite the name, these cater for visitors of all ages.</span></p>
 <!--SearchEnd//-->
 <div class="hightlights"/>
 <div class="hightlights">

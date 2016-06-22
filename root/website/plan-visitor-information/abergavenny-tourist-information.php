@@ -39,7 +39,7 @@
 <div>
 <p>About the Tithe Barn</p>
 <p style="margin-top: 3px; margin-bottom: 7px; font-family: 'trebuchet ms', Helvetica, sans-serif; font-size: 14px; line-height: 16.8999996185303px;">
-<span style="margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; color: rgb(0, 0, 0);">The Tithe Barn was originally built in the 12th Century to store Tithes &nbsp;€“ taxes paid to the Priory&nbsp;€™s monks by the people living on the monastic estate. Following the dissolution of St Mary&nbsp;€™s Priory in 1542, the building was used for many different purposes, including a theatre in the 17th Century and a discotheque in the 20th Century.</span></p>
+<span style="margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; color: rgb(0, 0, 0);">The Tithe Barn was originally built in the 12th Century to store Tithes &nbsp;&#45; taxes paid to the Priory&nbsp;&#39;s monks by the people living on the monastic estate. Following the dissolution of St Mary&nbsp;&#39;s Priory in 1542, the building was used for many different purposes, including a theatre in the 17th Century and a discotheque in the 20th Century.</span></p>
 <p style="margin-top: 3px; margin-bottom: 7px; font-family: 'trebuchet ms', Helvetica, sans-serif; font-size: 14px; line-height: 16.8999996185303px;">
 <span style="margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; color: rgb(0, 0, 0);">The Church took ownership of the Tithe Barn and
 <strong style="color: rgb(96, 53, 18); text-decoration: none;"><a href="http://www.stmarys-priory.org/tithebarn/restoration.htm" style="color: rgb(96, 53, 18); text-decoration: none;">conservation</a>&nbsp; </strong>was undertaken in 2002 to stabilise the building allowing it to continue to be visited almost 900 years after it was first built.</span></p>
@@ -49,9 +49,9 @@
 <div style="text-align: left;">
 <p style="text-align: left;">
 <br/>
-<span style="color: rgb(0, 0, 0);">Abergavenny Tourist Information and National Park Centre is conveniently situated in the town in the Tithe Barn beside the Cathedral. &nbsp; It is ideally located as a &nbsp;€˜Gateway&nbsp;€™ centre to discover the Brecon Beacons National Park and Mid Wales, while also being perfectly situated to offer wide ranging information about the beautiful foodies haven that is Monmouthshire.</span><br style="color: rgb(0, 0, 0);"/>
+<span style="color: rgb(0, 0, 0);">Abergavenny Tourist Information and National Park Centre is conveniently situated in the town in the Tithe Barn beside the Cathedral. &nbsp; It is ideally located as a &nbsp;€˜Gateway&nbsp;&#39; centre to discover the Brecon Beacons National Park and Mid Wales, while also being perfectly situated to offer wide ranging information about the beautiful foodies haven that is Monmouthshire.</span><br style="color: rgb(0, 0, 0);"/>
 <br style="color: rgb(0, 0, 0);"/>
-<span style="color: rgb(0, 0, 0);">It is a networked &nbsp;€˜Visit Wales&nbsp;€™ centre and as such offers a full range of services.&nbsp;  The knowledgeable staff will help you make the most of your stay in the area and will be more than happy to help plan your journey on through Wales</span><br style="color: rgb(0, 0, 0);"/>
+<span style="color: rgb(0, 0, 0);">It is a networked &nbsp;€˜Visit Wales&nbsp;&#39; centre and as such offers a full range of services.&nbsp;  The knowledgeable staff will help you make the most of your stay in the area and will be more than happy to help plan your journey on through Wales</span><br style="color: rgb(0, 0, 0);"/>
 <span style="color: rgb(0, 0, 0);">&nbsp; </span><br style="color: rgb(0, 0, 0);"/>
 <span style="color: rgb(0, 0, 0);">They can give you lots of ideas of where to go, what to do, how to get there and where to stay.</span><br style="color: rgb(0, 0, 0);"/>
 <span style="color: rgb(0, 0, 0);">&nbsp; </span><br style="color: rgb(0, 0, 0);"/>
@@ -70,7 +70,7 @@
 <p>
 <span style="color: rgb(0, 0, 0);">Abergavenny has a good variety of accommodation for walkers and other outdoor activities such as pony trekking, mountain biking and fishing are available close by.</span></p>
 <p>
-<span style="color: rgb(0, 0, 0);">The town itself is steeped in history, from the Romans who knew it as Gobannio and the Normans who built the magnificent castle which now houses the local history museum. St. Mary&nbsp;€™s Priory Church, sometimes referred to as the 'Westminster Abbey of Wales', &nbsp; houses among other things a splendid Medieval carving of Jesse, father of King David.&nbsp; Next door to the Church is the Tithe Barn which now serves as a cafÃ&copy;, tourist information and resource centre.&nbsp; </span></p>
+<span style="color: rgb(0, 0, 0);">The town itself is steeped in history, from the Romans who knew it as Gobannio and the Normans who built the magnificent castle which now houses the local history museum. St. Mary&nbsp;&#39;s Priory Church, sometimes referred to as the 'Westminster Abbey of Wales', &nbsp; houses among other things a splendid Medieval carving of Jesse, father of King David.&nbsp; Next door to the Church is the Tithe Barn which now serves as a cafÃ&copy;, tourist information and resource centre.&nbsp; </span></p>
 <p>
 <span style="color: rgb(0, 0, 0);">The Victorians built the Market Hall where regular weekly markets are held; the main market day is Tuesday whilst smaller markets are held on a Friday and Saturday.&nbsp;  The Food Festival held in September each year is now internationally famous and gives the town a real carnival atmosphere; its growing reputation as a food destination has attracted several well-known chefs to the area to set up restaurants.</span></p>
 <p>

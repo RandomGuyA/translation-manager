@@ -3,7 +3,7 @@
 <h1>Ancient churches and chapels of the Black Mountains</h1>
 <div class="article-video right clearfix"/>
 <p/><p>
-<img alt="Inside Patrishow Church and outside Capel-y-Ffin" src="/all_images_in_here_please/great_days_out/itineraries/patrichow_and_cymyoy.png" style="height: 399px; float: left; width: 182px; margin-left: 8px; margin-right: 8px;"/><span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;">Start your day at the Church of Merthyr Issui at Partrishow. Stunningly located on the south eastern slopes of the Gader range with panoramic view. Inside you will find a truly beautiful 15th century oak rood screen and loft and most strikingly on the west wall of the nave is a painted figure of &nbsp;€˜Time&nbsp;€™
+<img alt="Inside Patrishow Church and outside Capel-y-Ffin" src="/all_images_in_here_please/great_days_out/itineraries/patrichow_and_cymyoy.png" style="height: 399px; float: left; width: 182px; margin-left: 8px; margin-right: 8px;"/><span style="font-size: 14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;">Start your day at the Church of Merthyr Issui at Partrishow. Stunningly located on the south eastern slopes of the Gader range with panoramic view. Inside you will find a truly beautiful 15th century oak rood screen and loft and most strikingly on the west wall of the nave is a painted figure of &nbsp;€˜Time&nbsp;&#39;
 <span style="color: rgb(105, 105, 105);">a skeleton with scythe, hourglass and spade.</span></span></span></p>
 <div>&nbsp; </div>
 <div>
@@ -11,16 +11,16 @@
 <div>
 <span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;"><img src="/all_images_in_here_please/great_days_out/itineraries/capel-y-ffin___st_faiths_church_llanfoist.png" style="width: 200px; height: 399px; margin-left: 8px; margin-right: 8px; float: right;"/></span></span></span></div>
 <div>
-<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">After the walk,</span></span></span><span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">head u</span></span></span><span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">p the &nbsp; Ewyas Valley to Llanthony &nbsp;€“ where you can find lunch at the Llanthony Priory Hotel &nbsp;€“ which sits within and is actually part of the original 12th Century Augustinian Priory.&nbsp; </span></span></span></div>
+<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">After the walk,</span></span></span><span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">head u</span></span></span><span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">p the &nbsp; Ewyas Valley to Llanthony &nbsp;&#45; where you can find lunch at the Llanthony Priory Hotel &nbsp;&#45; which sits within and is actually part of the original 12th Century Augustinian Priory.&nbsp; </span></span></span></div>
 <div>
-<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">After lunch have a wander around the ruins of the Priory &nbsp; and the church of St David&nbsp;€™s &nbsp;€“ a spot where worship has been taking place for 1500 years.</span></span></span></div>
+<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">After lunch have a wander around the ruins of the Priory &nbsp; and the church of St David&nbsp;&#39;s &nbsp;&#45; a spot where worship has been taking place for 1500 years.</span></span></span></div>
 <div>&nbsp; </div>
 <div>
-<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Continue up the valley to Capel-y-Ffin &nbsp;€“ where you will find the tiny church of St Mary the Virgin. &nbsp; St Mary was said to have appeared as a vision in the fields where the church stands. Francis Kilvert</span></span></span>
-<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">the famous diarist, commented it reminded him of an owl and it is also said to be the inspiration for name of &nbsp;€˜The Vision Farm&nbsp;€™ in Bruce Chatwin&nbsp;€™s famous novel &nbsp;€˜On the Black Hill&nbsp;€™. More recently the famous illustrator Eric Gill lived and worked in the village and the graveyard contains two headstones engraved by him.</span></span></span></div>
+<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Continue up the valley to Capel-y-Ffin &nbsp;&#45; where you will find the tiny church of St Mary the Virgin. &nbsp; St Mary was said to have appeared as a vision in the fields where the church stands. Francis Kilvert</span></span></span>
+<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">the famous diarist, commented it reminded him of an owl and it is also said to be the inspiration for name of &nbsp;€˜The Vision Farm&nbsp;&#39; in Bruce Chatwin&nbsp;&#39;s famous novel &nbsp;€˜On the Black Hill&nbsp;&#39;. More recently the famous illustrator Eric Gill lived and worked in the village and the graveyard contains two headstones engraved by him.</span></span></span></div>
 <div>&nbsp; </div>
 <div>
-<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Return back down the valley and detour to your left to your final church of the day. The Church of St Martin of Tours at Cwmyoy. The church was built on the shifting sub-soil of a massive ancient land-slip. As the ground</span></span></span><span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">has continued to settle it has caused opposite ends of the church to lean in different directions in a most bizarre fashion. &nbsp;€“ The tower leans to a greater degree than the leaning tower of Pisa!</span></span></span><br/>&nbsp; </div>
+<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Return back down the valley and detour to your left to your final church of the day. The Church of St Martin of Tours at Cwmyoy. The church was built on the shifting sub-soil of a massive ancient land-slip. As the ground</span></span></span><span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">has continued to settle it has caused opposite ends of the church to lean in different directions in a most bizarre fashion. &nbsp;&#45; The tower leans to a greater degree than the leaning tower of Pisa!</span></span></span><br/>&nbsp; </div>
 <h2>
 <span style="font-size: 16px;"><span style="color: rgb(105, 105, 105);"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Advice:</span></span></span></h2>
 <div>
@@ -29,7 +29,7 @@
 <h3 style="color: rgb(105, 105, 105); font-family: 'Lucida Grande','Lucida sans',Verdana,Helvetica,Arial,sans-serif; margin: 0px; font-size: 18px; border-bottom-style: none; padding: 5px; background-color: rgb(87, 134, 67);">
 <span style="color: rgb(255, 255, 255);">Sample Itinerary</span></h3>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em; color: rgb(85, 85, 85); font-family: 'Lucida Grande','Lucida sans',Arial,Helvetica,sans-serif; font-size: 14px; background-color: rgb(187, 215, 95);">
-<span style="font-family: 'trebuchet ms',helvetica,sans-serif; font-size: 14px; color: rgb(105, 105, 105); line-height: 1.5em;">10.00 &nbsp;€“ 10.45 Visi</span>t Partrishow Church.&nbsp; 
+<span style="font-family: 'trebuchet ms',helvetica,sans-serif; font-size: 14px; color: rgb(105, 105, 105); line-height: 1.5em;">10.00 &nbsp;&#45; 10.45 Visi</span>t Partrishow Church.&nbsp; 
 <br/>10.45-12.15 Enjoy a walk in the Cwm Coed-y-Cerrig Nature reserve.
 <br/>12.15-13.45 Take lunch at the Llanthony Priory Hotel and explore the Priory remains and the Church of St David.
 <br/>13.45-14.30 Drive to Capel-y-Ffin and visit the tiny church of St Mary the Virgin.
@@ -55,7 +55,7 @@
 <div>
 <span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Capel-y-Ffin</span></span></span></div>
 <div>
-<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Continue up the valley in the same direction &nbsp;€“ Capel-y-Ffin is four miles further on in the same direction.</span></span></span></div>
+<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Continue up the valley in the same direction &nbsp;&#45; Capel-y-Ffin is four miles further on in the same direction.</span></span></span></div>
 <div>&nbsp; </div>
 <div>
 <span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Cwmyoy</span></span></span></div>
@@ -94,23 +94,23 @@
 <div>
 <span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">April, May, September October</span></span></span></div>
 <div>
-<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Tuesday &nbsp;€“ Friday 11.00 &nbsp;€“ 15.00pm and 18.00 &nbsp;€“ 23.00</span></span></span></div>
+<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Tuesday &nbsp;&#45; Friday 11.00 &nbsp;&#45; 15.00pm and 18.00 &nbsp;&#45; 23.00</span></span></span></div>
 <div>
-<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Saturday 11.00 &nbsp;€“ 23.00 Sunday 12.00 &nbsp;€“ 22.30</span></span></span></div>
+<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Saturday 11.00 &nbsp;&#45; 23.00 Sunday 12.00 &nbsp;&#45; 22.30</span></span></span></div>
 <div>&nbsp; </div>
 <div>
 <span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">July and August</span></span></span></div>
 <div>
-<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Monday &nbsp;€“ Saturday 11.00 &nbsp;€“ 23.00 &nbsp; </span></span></span></div>
+<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Monday &nbsp;&#45; Saturday 11.00 &nbsp;&#45; 23.00 &nbsp; </span></span></span></div>
 <div>
-<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Sunday 12.00 &nbsp;€“ 22.30</span></span></span></div>
+<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Sunday 12.00 &nbsp;&#45; 22.30</span></span></span></div>
 <div>&nbsp; </div>
 <div>
 <span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">November to March</span></span></span></div>
 <div>
-<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Friday 18.00 &nbsp;€“ 23.00</span></span></span></div>
+<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Friday 18.00 &nbsp;&#45; 23.00</span></span></span></div>
 <div>
-<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Saturday 11.00 &nbsp;€“ 23.00 Sunday 12.00 &nbsp;€“ 16.00</span></span></span></div>
+<span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">Saturday 11.00 &nbsp;&#45; 23.00 Sunday 12.00 &nbsp;&#45; 16.00</span></span></span></div>
 <div>
 <span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">The bar is in a cellar accessed by stone steps. The rest</span></span></span><span style="color: rgb(105, 105, 105);"><span style="font-size: 14px;"><span style="font-family: 'trebuchet ms',helvetica,sans-serif;">aurant and toilets are on the ground floor. Drinks will be brought to the ground floor for visitors unable to manage the steps.</span></span></span></div>
 <div>&nbsp; </div>

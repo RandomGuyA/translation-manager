@@ -1,6 +1,6 @@
 <?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>Walking for wellbeing - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body><div class="main-content clearfix">
 <!--SearchStart//-->
-<h1>Walking for wellbeing &nbsp;€“ or just for fun</h1>
+<h1>Walking for wellbeing &nbsp;&#45; or just for fun</h1>
 <div class="article-video right clearfix"/>
 <p/><div>
 <p>
@@ -15,7 +15,7 @@
 <p>Here are some healthy walking facts:</p>
 <ul>
 <li>Regular walking can reduce the risk of coronary heart disease, which kills almost 8000 people in Wales every year</li>
-<li>Regular walking reduces the risk of health problems such as coronary heart disease, strokes, diabetes, high blood pressure, bowel cancer, Alzheimer&nbsp;€™s disease, osteoporosis, arthritis, anxiety and stress</li>
+<li>Regular walking reduces the risk of health problems such as coronary heart disease, strokes, diabetes, high blood pressure, bowel cancer, Alzheimer&nbsp;&#39;s disease, osteoporosis, arthritis, anxiety and stress</li>
 <li>Walking regularly improves confidence, stamina, energy, weight control and life expectancy</li>
 <li>People are more likely to start and continue walking if they have fun, feel safe, enjoy their surroundings and feel a sense of achievement</li></ul>
 <p>

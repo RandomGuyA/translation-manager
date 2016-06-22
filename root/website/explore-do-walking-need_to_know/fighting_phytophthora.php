@@ -26,17 +26,17 @@
 <div>
 <strong><span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">Clean the tires of bikes and vehicles</span></span></strong></div>
 <div>
-<span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">If you&nbsp;€™ve been off road, remove soil and plant debris from your tires.</span></span></div>
+<span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">If you&nbsp;&#39;ve been off road, remove soil and plant debris from your tires.</span></span></div>
 <div>&nbsp; </div>
 <div>
-<strong><span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">Don&nbsp;€™t take plants or cuttings</span></span></strong></div>
+<strong><span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">Don&nbsp;&#39;t take plants or cuttings</span></span></strong></div>
 <div>
 <span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">Taking plants home risks introducing the infection to your own garden.</span></span></div>
 <div>&nbsp; </div>
 <h4>
 <span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">How to spot it</span></span></h4>
 <div>
-<span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">Symptoms can vary with the type of plant infected. On shrubs, typical symptoms can include blackening of leaves around the midrib and at the tips, and/or wilting and dieback of shoots. Trees can show black lesions (called cankers) on the bark, which &nbsp;€˜bleed&nbsp;€™ a dark sap.</span></span></div>
+<span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">Symptoms can vary with the type of plant infected. On shrubs, typical symptoms can include blackening of leaves around the midrib and at the tips, and/or wilting and dieback of shoots. Trees can show black lesions (called cankers) on the bark, which &nbsp;€˜bleed&nbsp;&#39; a dark sap.</span></span></div>
 <div>&nbsp; </div>
 <div>
 <span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">Report any suspected findings of

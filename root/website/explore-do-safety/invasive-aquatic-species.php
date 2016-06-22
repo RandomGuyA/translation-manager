@@ -1,6 +1,6 @@
 <?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>Check, clean, drain, dry - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body><div class="main-content clearfix">
 <!--SearchStart//-->
-<h1>Check, clean, drain, dry &nbsp;€“ keeping the waters of the Brecon Beacons National Park free from invasive aquatic species</h1>
+<h1>Check, clean, drain, dry &nbsp;&#45; keeping the waters of the Brecon Beacons National Park free from invasive aquatic species</h1>
 <div class="article-video right clearfix"/>
 <p/><p>
 <span style="font-size:18px;">Every water user could be inadvertently carrying unwanted passengers. Non-native, invasive species put the lakes, canals, rivers and reservoirs of Wales are at risk. They can have a huge impact on Welsh freshwater species and cause nuisance, damage and even injury to wildlife, anglers and recreational water users. So, please watch out for stowaways!</span></p>

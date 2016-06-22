@@ -4,7 +4,7 @@
 <div class="article-video right clearfix"/>
 <p/><p>
 <span style="font-size:18px;">In the Upper Swansea Valley anyone, even absolute beginners with no knowledge of caving, can get a taste of the underworld. You can even get married here!</span></p>
-<p>This is one of the most popular visitor attractions in the Brecon Beacons National Park. The centre gives you a glimpse of the most accessible sections of a cave system which extends for over ten miles underground. It&nbsp;€™s one of the most significant natural networks of subterranean&nbsp; passages and caverns in Britain. It attracts experienced cavers as well as beginners, and has been used as a location for Doctor Who (BBC).</p>
+<p>This is one of the most popular visitor attractions in the Brecon Beacons National Park. The centre gives you a glimpse of the most accessible sections of a cave system which extends for over ten miles underground. It&nbsp;&#39;s one of the most significant natural networks of subterranean&nbsp; passages and caverns in Britain. It attracts experienced cavers as well as beginners, and has been used as a location for Doctor Who (BBC).</p>
 <p>There's evidence that people lived and buried their dead in these caves in the Bronze Age, over 3000 years ago. Over 40 human skeletons have been found.</p>
 <p>Recent exploration of the system was pioneered by two local brothers, Tommy and Jeff Morgan, who entered the caves in 1912 using candles and the most basic equipment. They used a coracle to cross underground lakes. Their descendants now own the Showcaves.</p>
 <p>Visitors enter through a mined tunnel which gives access to a number of impressive areas. The Cathedral Cave, which is 150m below ground and 10m high at one point, is a highlight. Uniquely, it's licensed for marriage ceremonies.</p>
@@ -17,7 +17,7 @@
 <h3>OS grid reference</h3>
 <p>SN838160</p>
 <h3>Opening times</h3>
-<p>Apr&nbsp;€“Oct daily from 10am, last entry 3pm.</p>
+<p>Apr&nbsp;&#45;Oct daily from 10am, last entry 3pm.</p>
 <h3>Contact</h3>
 <p>Dan-yr-Ogof National Showcaves Centre for Wales, Abercrave SA9 1GJ, tel 01639 730284,
 <a href="http://www.showcaves.co.uk" target="_blank">www.showcaves.co.uk</a></p>

@@ -28,7 +28,7 @@
 <p>The Brecon Beacons National Park is an exhilarating environment to explore ...</p></div>
 </li>
 <li>
-<a href="/explore/things_to_do/walking/need_to_know/walking_code"/><h3><a href="/explore/things_to_do/walking/need_to_know/walking_code">The Brecon Beacons &nbsp;€“ respect, protect, enjoy</a></h3>
+<a href="/explore/things_to_do/walking/need_to_know/walking_code"/><h3><a href="/explore/things_to_do/walking/need_to_know/walking_code">The Brecon Beacons &nbsp;&#45; respect, protect, enjoy</a></h3>
 <div class="section-box jagged">
 <p>Footnotes for walkers
 

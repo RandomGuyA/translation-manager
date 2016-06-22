@@ -17,7 +17,7 @@
 <h3>OS grid reference</h3>
 <p>Explorer Map OL12 or Landranger Map 160 - SO042074</p>
 <h3>Opening times</h3>
-<p>Apr&nbsp;€“Sep daily 10am&nbsp;€“5.30pm; Oct &nbsp;€“ Mar Tue&nbsp;€“Fri 10am&nbsp;€“4pm, Sat&nbsp;€“Sun 12noon&nbsp;€“4pm, Mon closed</p>
+<p>Apr&nbsp;&#45;Sep daily 10am&nbsp;&#45;5.30pm; Oct &nbsp;&#45; Mar Tue&nbsp;&#45;Fri 10am&nbsp;&#45;4pm, Sat&nbsp;&#45;Sun 12noon&nbsp;&#45;4pm, Mon closed</p>
 <h3>Contact</h3>
 <p>Cyfarthfa Castle, Brecon Road, Merthyr Tydfil CF47 8RE, tel 01685 723112</p>
 <h3>Facilities</h3>

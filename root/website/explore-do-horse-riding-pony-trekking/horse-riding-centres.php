@@ -20,7 +20,7 @@
 <li>Pony trekking, half day and full day treks</li></ul>
 <h3>Cantref Riding Centre, near Brecon, tel 01874 665223,
 <a href="http://www.cantref.com" target="_blank">www.cantref.com</a></h3>
-<p>The only horse riding centre that goes goes directly onto the central hills of the Brecon Beacons &nbsp;€“ including the foothills of Pen-y-Fan. Caters for riders of all abilities, with a wide variety of routes lasting from one hour to four days on native Welsh cobs and ponies. The farm also has an adventure barn for children, with a cafÃ&copy; and bunkhouse accommodation.</p>
+<p>The only horse riding centre that goes goes directly onto the central hills of the Brecon Beacons &nbsp;&#45; including the foothills of Pen-y-Fan. Caters for riders of all abilities, with a wide variety of routes lasting from one hour to four days on native Welsh cobs and ponies. The farm also has an adventure barn for children, with a cafÃ&copy; and bunkhouse accommodation.</p>
 <h3>Ellesmere Riding Centre, Llangorse, tel 01874 658252</h3>
 <p>Situated close to Llangorse Lake, with rides onto open mountainside and through quiet country lanes. Provides trekking for novices, hacking for more experienced riders and long-distance guided rides for those wanting a challenge. Specialises in long trail rides, on fit, well-schooled purebred Welsh and Irish cobs.</p>
 <h3>FreeRein Riding Holidays, Clyro, tel 01497 821356</h3>
@@ -62,7 +62,7 @@
 <a href="/businesses/3513"/><h3><a href="/businesses/3513">Horse Riding at Llangorse Multi Activity Centre</a></h3>
 <div class="section-box jagged">
 <img src="/website/var/tmp/thumb_4782__landing_page_highlights.jpeg" alt=""/>
-<p>Pony trekking, riding &amp; hackingAll that&nbsp;€™s best in the countryside...</p></div>
+<p>Pony trekking, riding &amp; hackingAll that&nbsp;&#39;s best in the countryside...</p></div>
 </li>
 <li class="business-activity hasPhoto">
 <a href="/businesses/2701"/><h3><a href="/businesses/2701">Cantref Riding Centre</a></h3>

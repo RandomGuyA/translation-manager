@@ -15,7 +15,7 @@
 <h3>OS grid reference</h3>
 <p>Explorer Map OL12 or Landranger Map 160 - SO045284</p>
 <h3>Opening times</h3>
-<p>Mon&nbsp;€“Fri 9am&nbsp;€“5pm. Currently closed, until further notice.</p>
+<p>Mon&nbsp;&#45;Fri 9am&nbsp;&#45;5pm. Currently closed, until further notice.</p>
 <h3>Contact</h3>
 <p>Brecknock Museum &amp; Art Gallery, Captain's Walk, Brecon LD3 7DS, tel 01874 624121,
 <a href="http://www.powys.gov.uk" target="_blank">www.powys.gov.uk</a></p>

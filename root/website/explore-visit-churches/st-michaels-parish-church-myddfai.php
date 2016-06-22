@@ -3,7 +3,7 @@
 <h1>St Michael's Parish Church, Myddfai</h1>
 <div class="article-video right clearfix"/>
 <p/><p>
-<span style="font-size:18px;">Set in the pretty village of Myddfai, St Michael&nbsp;€™s Church has been a centre of Christian worship for a thousand years.&nbsp; </span></p>
+<span style="font-size:18px;">Set in the pretty village of Myddfai, St Michael&nbsp;&#39;s Church has been a centre of Christian worship for a thousand years.&nbsp; </span></p>
 <p>
 <img src="/website/var/tmp/thumb_1226__auto_35f320014952069588427df8d39a3c22.jpeg" style="margin-top: 15px; margin-bottom: 15px; float: right; height: 467px; width: 704px;"/></p>
 <p>

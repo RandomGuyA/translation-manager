@@ -7,7 +7,7 @@
 <div>
 <br/>
 <span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">The Aurora Borealis also known as the Northern lights is a spectacle that has to be seen to be believed.
-<br/>The Aurora is an incredible light show caused by collisions between electrically charged particles released from the sun that enter the earth&nbsp;€™s atmosphere and collide with gases such as oxygen and nitrogen.
+<br/>The Aurora is an incredible light show caused by collisions between electrically charged particles released from the sun that enter the earth&nbsp;&#39;s atmosphere and collide with gases such as oxygen and nitrogen.
 <br/>
 <br/>From time to time we are lucky enough to see it here in the Brecon Beacons National Park. The Brecon Beacons is one of the best places to watch the display with the area being designated an International Dark Sky Reserve.</span></span><br/>&nbsp; </div>
 <div style="text-align: center;">

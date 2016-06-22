@@ -3,7 +3,7 @@
 <h1>Greener places to stay in the Brecon Beacons National Park</h1>
 <div class="article-video right clearfix"/>
 <p/><p>
-<span style="font-size:18px;">We want to make your holiday special. And because we&nbsp;€™re a National Park, we&nbsp;€™re always thinking ahead to ensure that future visitors can enjoy fabulous holidays here too. That's why protecting the environment and supporting local communities are among our top priorities.</span></p>
+<span style="font-size:18px;">We want to make your holiday special. And because we&nbsp;&#39;re a National Park, we&nbsp;&#39;re always thinking ahead to ensure that future visitors can enjoy fabulous holidays here too. That's why protecting the environment and supporting local communities are among our top priorities.</span></p>
 <p>
 <img src="/website/var/tmp/thumb_702__auto_eb8f43bc13c14ff1329b1fb1f4d2f9c8.jpeg" style="width: 704px; margin: 15px 0px; float: right;"/>We're proud that more and more accommodation businesses in the Brecon Beacons are gaining the officially approved Green Tourism standard set by the Green Tourism Business Scheme (
 <a href="http://www.green-business.co.uk" target="_blank">www.green-business.co.uk</a>). There are three grades, Bronze, Silver and Gold. The following places to stay have been approved by the scheme.</p>
@@ -108,7 +108,7 @@
 <br/>
 <span style="font-size:14px;"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><img src="/website/var/tmp/thumb_6493__auto_1740e1f92ebab1592a49f096678aae02.jpeg" style="font-family: Arial, Verdana, sans-serif; font-size: 12px; width: 200px; float: right;"/></span></span></div>
 <div>&nbsp; </div>All the businesses that have been graded by the Green Tourism Business Scheme are also featured on the
-<a href="http://http://www.greentraveller.co.uk/sustainable-tourism-brecon-beacons" target="_blank">GreenTraveller website</a>, which includes a review of their business by one of GreenTraveller&nbsp;€™s travel writers.
+<a href="http://http://www.greentraveller.co.uk/sustainable-tourism-brecon-beacons" target="_blank">GreenTraveller website</a>, which includes a review of their business by one of GreenTraveller&nbsp;&#39;s travel writers.
 <div>
 <div>&nbsp; </div></div>
 <br/>

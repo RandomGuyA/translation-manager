@@ -21,7 +21,7 @@
 <strong><span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Sugar Loaf</span></strong></div>
 <div>
 <span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Climb the&nbsp; 
-<a href="/explore/things_to_do/walking/where_to_walk/longer_walks/sugar_loaf_from_abergavenny">Sugar Loaf from Abergavenny</a>&nbsp; and you&nbsp;€™ll be rewarded with a 360-degree panorama that takes in the central Beacons, Pen Cerrig-calch, the Black Mountains, Hatterrall Hill and the Skirrid.</span></div>
+<a href="/explore/things_to_do/walking/where_to_walk/longer_walks/sugar_loaf_from_abergavenny">Sugar Loaf from Abergavenny</a>&nbsp; and you&nbsp;&#39;ll be rewarded with a 360-degree panorama that takes in the central Beacons, Pen Cerrig-calch, the Black Mountains, Hatterrall Hill and the Skirrid.</span></div>
 <div>&nbsp; </div>
 <div>
 <strong><span style="font-family: 'trebuchet ms', helvetica, sans-serif;">Tor y Foel</span></strong></div>
@@ -32,7 +32,7 @@
 <div>
 <strong><span style="font-family: 'trebuchet ms', helvetica, sans-serif;">The Gap</span></strong></div>
 <div>
-<span style="font-family: 'trebuchet ms', helvetica, sans-serif;">This spectacular and aptly named break in the mountains has been a north&nbsp;€“south route through the central Beacons possibly as far back as Roman times. Walk&nbsp; 
+<span style="font-family: 'trebuchet ms', helvetica, sans-serif;">This spectacular and aptly named break in the mountains has been a north&nbsp;&#45;south route through the central Beacons possibly as far back as Roman times. Walk&nbsp; 
 <a href="/explore/things_to_do/walking/where_to_walk/longer_walks/penyfan_cribyn_cwmgwdi">Pen y Fan and Cribyn from Cwm Gwdi</a>&nbsp; for some mighty vistas before you descend into Cwm Cynwyn.</span></div>
 
 <!--SearchEnd//-->

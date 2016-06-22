@@ -15,12 +15,12 @@
 <h2>
 <span style="font-size: 18px; font-weight: bold;">Dinghy sailing and windsurfing on Pontsticill Reservoir</span></h2>
 <p>You can also sail in in wonderful mountain surroundings at Pontsticill Reservoir near Merthyr Tydfil. It's the home patch of Merthyr Tydfil Sailing Club (
-<a href="http://www.mtsc.org.uk" target="_blank">www.mtsc.org.uk</a>), which sails here at weekends throughout the year and on Wednesday evenings in summer. Short term membership is available for visitors. Contact the club before you go, as you&nbsp;€™ll need somebody to let you in through the locked barrier.&nbsp; </p>
+<a href="http://www.mtsc.org.uk" target="_blank">www.mtsc.org.uk</a>), which sails here at weekends throughout the year and on Wednesday evenings in summer. Short term membership is available for visitors. Contact the club before you go, as you&nbsp;&#39;ll need somebody to let you in through the locked barrier.&nbsp; </p>
 <p>The club has an RS Vision training dinghy, which new members may use to learn on with guidance from club members. It also has facilities for disabled sailors. Races take place on Sundays from March to December.</p>
-<p>Please remember that swimming is not permitted in reservoirs in the Brecon Beacons National Park &nbsp;€“&nbsp; you should not enter the water of a reservoir&nbsp; except when you capsize by accident,&nbsp; or during capsize and rescue training.</p>
+<p>Please remember that swimming is not permitted in reservoirs in the Brecon Beacons National Park &nbsp;&#45;&nbsp; you should not enter the water of a reservoir&nbsp; except when you capsize by accident,&nbsp; or during capsize and rescue training.</p>
 <h2>Boating</h2>
 <p>
-<img src="/all_images_in_here_please/outdoor_activity_images/splash/coracle_pair.jpg" style="width: 200px; height: 203px; margin-left: 15px; margin-right: 15px; float: right;"/>If you&nbsp;€™d like to try a boat for an hour or two, why not?</p>
+<img src="/all_images_in_here_please/outdoor_activity_images/splash/coracle_pair.jpg" style="width: 200px; height: 203px; margin-left: 15px; margin-right: 15px; float: right;"/>If you&nbsp;&#39;d like to try a boat for an hour or two, why not?</p>
 <p>You could build a coracle and try it on a duck pond! Or you could hire a rowing boat or a pedalo on the River Usk at Brecon.</p>
 <p>You can launch your own boat from the Brecon and Monmouth Canal slipways or take it to Llangorse Lake, where there are also rowing boats, fishing boats and pedalos for hire (there's a launch fee at both locations).</p>
 <p>If you just want to enjoy a leisurely boat trip along the canal you can book a narrowboat cruise for a couple of hours from Brecon Basin on most days during the summer months, taking a journey from Brecon to Brynich Lock and back, with on-board refreshments available.&nbsp; </p>

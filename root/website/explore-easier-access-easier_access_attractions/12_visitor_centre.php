@@ -11,7 +11,7 @@
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
 <span style="color:#008000;"><strong>Further Information</strong></span></p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">The centre overlooks the central Brecon Beacons, including Pen-y-Fan and Corn Du. The information desk, shop, displays, audio-visual room and toilets can all be found on the entrance level. A short ramp or two steps lead up to the main corridor. Various events, exhibitions and displays are held throughout the year both inside and outside. A small millenium garden incorporates a colourful display of ceramics and tiles, created by the South Wales Potters and local school children.</p>
-<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">The tea room, on the lower level, provides meals made from locally produced food and excellent cups of tea &nbsp;€“ from the car park follow the curved, gently sloping path down to the seating area and the entrance.</p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">The tea room, on the lower level, provides meals made from locally produced food and excellent cups of tea &nbsp;&#45; from the car park follow the curved, gently sloping path down to the seating area and the entrance.</p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">Just outside the grounds of the centre is an area of common land called Mynydd Illtud, with plenty of easy walks with fantastic views.</p>
 <p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
 <span style="color:#008000;"><strong>How to get there:</strong></span>&nbsp; The centre is signposted from the A470, close to the village of Libanus, 9km south of Brecon.</p>
