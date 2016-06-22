@@ -2,10 +2,360 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fdb93eb-ff8b-436e-8015-79e62652b069" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/translation-manager.iml" afterPath="$PROJECT_DIR$/.idea/translation-manager.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/php/init.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/save.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/events.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-about-stories/adelina-patti.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-about-stories/alexander-cordell.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-about-stories/frank-stokes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-about-stories/gwladus-einion.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-about-stories/lady-lake-physicians-myddfai.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-about-stories/tommy-jones.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-about-stories/wellington-bomber.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-about-traditions/common-land.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-about-traditions/drovers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-about/geology.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-about/history.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-about/jobs_and_vacancies.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-about/national-parks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-about/prehistoric-peoples.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-about/reasons-to-visit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-canoeing-kayaking-stand-up-paddleboarding-whitewater-rafting/sailing-boating-windsurfing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-caving-potholing/cavinginstructorsandguides.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-cycling-mountain-biking-calorie_counted_routes/around_the_shores_of_llangorse_lake.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-cycling-mountain-biking-calorie_counted_routes/brynich_lock_along_the_mon_and_brec_canal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-cycling-mountain-biking-calorie_counted_routes/sarn_helen_and_the_roman_roads.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-cycling-mountain-biking-calorie_counted_routes/to_the_top_of_the_talybont_reservoir.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-cycling-mountain-biking/cycleacrossthebeacons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-cycling-mountain-biking/local_cycling_businesses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-cycling-mountain-biking/long-distance-cycle-routes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-cycling-mountain-biking/moderate-cycle-routes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-cycling-mountain-biking/mountain-bike-route-grading.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-cycling-mountain-biking/mountain-biking-routes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-cycling-mountain-biking/mountain-biking.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-cycling-mountain-biking/safe-cycling-mountain-biking.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-horse-riding-pony-trekking/equine-equestrian-events.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-horse-riding-pony-trekking/horse-pony-rescue-centres.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-horse-riding-pony-trekking/horse-riding-centres.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-horse-riding-pony-trekking/horse-riding-holidays.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-horse-riding-pony-trekking/horse-riding-routes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-horse-riding-pony-trekking/welsh-mountain-ponies-cobs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-safety/emergencies.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-safety/equipment-instruction-guides.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-safety/invasive-aquatic-species.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-safety/responsible-water-activities.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-safety/safe-mountains.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-safety/safe-waterways.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-stargazing/about-brecon-beacons-dark-sky-reserve.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-stargazing/auroraborealis.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-stargazing/darkskyambassadors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-stargazing/music-dark-skies.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-stargazing/stargazing-learn.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-stargazing/stargazing-ten-places.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-beacons-way/beacons-way-day-1-holy-mountain-llanthony.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-beacons-way/beacons-way-day-2-llanthony-crickhowell.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-beacons-way/beacons-way-day-3-crickhowell-llangynidr.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-beacons-way/beacons-way-day-4-llangynidr-storey-arms.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-beacons-way/beacons-way-day-5-storey-arms-craig-y-nos.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-beacons-way/beacons-way-day-6-craig-y-nos-llanddeusant.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-beacons-way/beacons-way-day-7-llanddeusant-carreg-cennen-castle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-beacons-way/beacons-way-day-8-carreg-cennen-castle-bethlehem.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-beacons-way/beacons-way-safety.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-need_to_know/fighting_phytophthora.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-need_to_know/staying_safe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-need_to_know/uplandwalkingcode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-need_to_know/walking_with_dogs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-walking_highlights/best_for_geology.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-walking_highlights/best_for_history.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-walking_highlights/best_for_picnics.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-walking_highlights/best_for_viewpoints.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-walking_highlights/best_for_wildlife.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-where_to_walk/audiotrails.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-where_to_walk/bus_walks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-where_to_walk/geotrails.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-where_to_walk/longer_walks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-where_to_walk/moderate_walks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking-where_to_walk/short_walks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking/about-walking.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking/irresistible_offa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking/need_to_know.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking/walkers_are_welcome.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking/walking_highlights.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-walking/where_to_walk.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-watersports/watersports_instructors_and_guides.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-watersports/what_to_do_on_the_water.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-watersports/where_to_get_on_the_water.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-wildlife-watching-birdwatching-nature-trails/amphibians-fish.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-wildlife-watching-birdwatching-nature-trails/badgers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-wildlife-watching-birdwatching-nature-trails/bats.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-wildlife-watching-birdwatching-nature-trails/birds.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-wildlife-watching-birdwatching-nature-trails/brown-hares.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-wildlife-watching-birdwatching-nature-trails/butterflies.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-wildlife-watching-birdwatching-nature-trails/dormice.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-wildlife-watching-birdwatching-nature-trails/otters.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-wildlife-watching-birdwatching-nature-trails/ten-places-wildlife-nature.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-wildlife-watching-birdwatching-nature-trails/water-voles.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do-wildlife-watching-birdwatching-nature-trails/where-to-see-wildlife-fungi-plants.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do/bushcraft.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do/fishing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do/geocaching-orienteering-navigation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do/golf.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do/group-activities-team-building.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do/hang-gliding-paragliding-power-kiting.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do/rock-climbing-abseiling.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-do/sightseeingunderground.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_attractions/10_garwnant_visitor_centre.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_attractions/12_visitor_centre.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_attractions/14_south_wales_boarderers_museum.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_attractions/15_brecnock_museum.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_attractions/17_brecon_cathedral_heritage_centre.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_attractions/18_brecon_tic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_attractions/1_carreg_cennen_castle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_attractions/20_cyfartha_castle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_attractions/21_brecon_mountain_railway.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_attractions/24_talybont_reservoir_bird_hide.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_attractions/2_black_mountain_red_kite_feeding_station.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_attractions/31_tretower_court_castle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_attractions/33_crickhowell_resource_info_centre.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_attractions/37_big_pit_museum.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_attractions/3_llandovery_heritage_and_tic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_attractions/40_blaenavon_world_heritage_site.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_attractions/41_pontypool_museum.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_attractions/42_goytre_wharf_canal_visitor_centre.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_attractions/44_abergavenny_castle_museum.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_attractions/46_abergavenny_tic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_attractions/48_llanthony_priory.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_attractions/6_craig_y_nos.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/11-walk-llwyn-on-reservoir.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/13-walk-mynydd-illtud-common.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/16-walk-brecon-promenade.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/19-walk-monmouthshire-brecon-canal-towpath.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/22-walk-pontsticill-reservoir.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/23-walk-taf-fechan-forest-walk-boardwalk.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/25_talybont_reservoir_and_forest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/26-walk-talybont-brinore-tramroad.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/27-walk-llangorse-lake-common.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/28-walk-llangorse-lake-llangasty-bird-hide.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/29-walk-pwll-yr-wrach-nature-reserve.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/30-walk-hay-on-wye-riverside-warren.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/32-walk-crickhowell-bullpit-meadows.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/34-walk-llangattock-beechwood.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/35-walk-canal-gilwern-picnic-site.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/36-walk-clydach-ironworks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/38-walk-keepers-pond-blorenge.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/39-walk-llanfoist-govilon-line.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/4-walk-usk-reservoir.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/43-walk-canal-goytre-hall-wood.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/45-walk-abergavenny-castle-meadows.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/47-walk-coed-y-cerrig.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/49-walk-forests-easier-access.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/5-henllysvale.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/9_penderyn_quarry_line.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access-easier_access_walks/walk-hafod-road-llangattock-hillside.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access/easier_access_attractions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-easier-access/easier_access_walks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-eating-drinking-local-producers-culinary-specialities/black-mountains-smokery.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-eating-drinking-local-producers-culinary-specialities/blaenafon-cheddar-company.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-eating-drinking-local-producers-culinary-specialities/coity-bach-produce.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-eating-drinking-local-producers-culinary-specialities/penderyn-distillery.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-eating-drinking-local-producers-culinary-specialities/talgarth-mill.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-eating-drinking-local-producers-culinary-specialities/welsh-venison-centre.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-eating-drinking-special-places-eat-drink/angel-hotel-abergavenny.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-eating-drinking-special-places-eat-drink/felin-fach-griffin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-eating-drinking-special-places-eat-drink/gliffaes-country-house-hotel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-eating-drinking-special-places-eat-drink/llansantffraed-court.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-eating-drinking-special-places-eat-drink/peterstone-court.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-eating-drinking-special-places-eat-drink/skirrid-mountain-inn.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-eating-drinking-special-places-eat-drink/walnut-tree-inn.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-eating-drinking/cafes-tea-shops.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-eating-drinking/food-festivals.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-eating-drinking/pubs-inns.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-eating-drinking/restaurants.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-health-wellbeing/health-fitness-leisure-centres.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-health-wellbeing/spa-hotels-alternative-therapy-centres.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-health-wellbeing/walking-wellbeing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-shopping/food-drink-farmers-markets.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-shopping/shopping-antiques.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-shopping/shopping-art-crafts-gifts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-shopping/shopping-maps-books-souvenirs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy-shopping/shopping-outdoor-gear-fashion.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy/after-dark.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy/art-crafts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy/family-fun.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy/festivals.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-enjoy/performing-arts-entertainment.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-green-thinking/20-green-ideas.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries-abergavenny-blaenavon/abergavenny-castle-museum.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries-abergavenny-blaenavon/abergavenny-heritage-views-vineyard.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries-abergavenny-blaenavon/abergavenny-shopping-heritage-castle-meadows.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries-abergavenny-blaenavon/blaenavon-big-pit-national-coal-museum.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries-abergavenny-blaenavon/blaenavon-goytre-wharf.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries-abergavenny-blaenavon/blaenavon-ironworks-world-heritage-centre.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries-abergavenny-blaenavon/goytre-wharf-monmouthshire-brecon-canal-cruise.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries-black-mountain-fforest-fawr/cwm-tawe-history-giants-ghosts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries-black-mountain-fforest-fawr/national-showcaves-craig-y-nos-cwm-tawe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries-black-mountain-fforest-fawr/waterfall-country.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries-brecon-central-beacons/brecon-beacons-national-park-visitor-centre-mynydd-illtyd.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries-brecon-central-beacons/brecon-llangorse-lake.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries-brecon-central-beacons/coed-taf-fawr-garwnant.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries-brecon-central-beacons/pant-brecon-mountain-railway.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries-brecon-central-beacons/taff-trail-brecon-brynich-lock.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries-talgarth-black-mountains/black-mountains-castell-dinas-gliding-club.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries-talgarth-black-mountains/black-mountains-churches.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries-talgarth-black-mountains/black-mountains-rhos-fach-crickhowell-castle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries-talgarth-black-mountains/pwll-y-wrach-talgarth-mill-bronllys-castle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries-talgarth-black-mountains/talgarth-llangorse-lake-churches.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries-talgarth-black-mountains/talgarth-sunday-lunch-stroll-bike-ride.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries/abergavenny-blaenavon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries/black-mountain-fforest-fawr.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries/brecon-central-beacons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-itineraries/talgarth-black-mountains.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-castles/abergavenny-castle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-castles/blaen-llynfi-castle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-castles/brecon-castle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-castles/bronllys-castle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-castles/carreg-cennen-castle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-castles/crickhowell-castle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-castles/cyfartha-castle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-castles/dinas-castle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-castles/dinefwr-castle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-castles/hay-castle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-castles/llandovery-castle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-castles/tretower-court-castle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-caves/black-mountain-caves.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-caves/clydach-gorge.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-caves/dan-yr-ogof-national-showcaves-centre.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-caves/how-were-caves-created.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-caves/ogof-ffynnon-ddu-cave.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-caves/porth-yr-ogof-cave-waterfall-country.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-churches/abergavenny-st-marys-priory-church.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-churches/brecon-cathedral.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-churches/capel-y-ffin-church-st-mary-virgin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-churches/capel-y-ffin-monastery.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-churches/church-st-cynog-defynog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-churches/church-st-david-llanthony.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-churches/church-st-ffraed-llansantffraed.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-churches/church-st-gwendoline-talgarth.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-churches/church-st-issui-patricio-partrishow.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-churches/llanthony-priory.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-churches/st-catwygs-church-llangattock.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-churches/st-martins-church-cwmyoy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-churches/st-marys-church-ystradfellte.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-churches/st-michaels-parish-church-myddfai.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-churches/st_edmund_s_church.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-hills-mountains/black-mountain-range.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-hills-mountains/black-mountains.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-hills-mountains/central-beacons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-hills-mountains/fforest-fawr-geopark.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-hills-mountains/fforest-fawr-massif.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-industrial-rural-heritage-blackmountainquarries/about_the_calch_project.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-industrial-rural-heritage-blackmountainquarries/follow_the_story.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-industrial-rural-heritage-blackmountainquarries/plan_your_visit_to_black_mountain_quarries.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-industrial-rural-heritage-blackmountainquarries/the_black_mountain_quarries_audio_trail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-industrial-rural-heritage-blackmountainquarries/the_quarries.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-industrial-rural-heritage/big-pit-national-coal-museum.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-industrial-rural-heritage/blaenavon-ironworks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-industrial-rural-heritage/blaenavon-world-heritage-site.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-industrial-rural-heritage/brecknock-museum-gallery.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-industrial-rural-heritage/brecon-mountain-railway.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-industrial-rural-heritage/brinore-tramroad.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-industrial-rural-heritage/clydach-ironworks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-industrial-rural-heritage/glyn-neath-gunpowder-works-pontneddfechan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-industrial-rural-heritage/goytre-wharf.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-industrial-rural-heritage/henllys-vale.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-industrial-rural-heritage/monmouthshire-brecon-canal-history.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-industrial-rural-heritage/penwyllt-quarries-brickworks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-industrial-rural-heritage/pontypool-museum.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-industrial-rural-heritage/regimental-museum-brecon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-industrial-rural-heritage/tithe-barn-abergavenny.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-lakes-waterways/lakes-reservoirs-freshwater-wetlands.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-lakes-waterways/llangorse-lake.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-lakes-waterways/monmouthshire-brecon-canal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-lakes-waterways/rivers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-nature-reserves-woodlands-grasslands-farms-gardens/caeautymawr.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-nature-reserves-woodlands-grasslands-farms-gardens/coed-y-cerrig.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-nature-reserves-woodlands-grasslands-farms-gardens/craig-cerrig-gleisiad-fan-frynych.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-nature-reserves-woodlands-grasslands-farms-gardens/craig-y-cilau.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-nature-reserves-woodlands-grasslands-farms-gardens/craig-y-nos-country-park.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-nature-reserves-woodlands-grasslands-farms-gardens/cwm-clydach.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-nature-reserves-woodlands-grasslands-farms-gardens/forests-woodland.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-nature-reserves-woodlands-grasslands-farms-gardens/grasslands-meadows-farms.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-nature-reserves-woodlands-grasslands-farms-gardens/historic-parks-gardens.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-nature-reserves-woodlands-grasslands-farms-gardens/importance-of-woodlands.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-nature-reserves-woodlands-grasslands-farms-gardens/ogof-ffynnon-ddu-nnr.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-nature-reserves-woodlands-grasslands-farms-gardens/protected-landscapes-habitats.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-nature-reserves-woodlands-grasslands-farms-gardens/pwll-y-wrach.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-prehistoric-roman-sites-romans/about-romans-carmarthenshire-project.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-prehistoric-roman-sites-romans/follow-story-roman-sites.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-prehistoric-roman-sites-romans/visit-y-pigwn-waun-ddu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-prehistoric-roman-sites-romans/walking-with-romans-app.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-prehistoric-roman-sites-romans/walking-with-romans-audio-trail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-prehistoric-roman-sites-romans/waun-ddu-roman-fortlet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-prehistoric-roman-sites-romans/y-pigwn-roman-marching-camps.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-prehistoric-roman-sites/allt-yr-esgair.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-prehistoric-roman-sites/garn-goch.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-prehistoric-roman-sites/pen-y-crug.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-prehistoric-roman-sites/standing-stones.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-towns-villages/abergavenny.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-towns-villages/brecon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-towns-villages/brynamman.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-towns-villages/canalside-villages.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-towns-villages/crickhowell.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-towns-villages/hay-on-wye.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-towns-villages/llandeilo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-towns-villages/llandovery.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-towns-villages/llangadog-western-villages.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-towns-villages/llangorse-bwlch.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-towns-villages/merthyr-tydfil.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-towns-villages/pontneddfechan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-towns-villages/sennybridge-upper-usk-villages.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-towns-villages/talgarth.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-towns-villages/talybont-on-usk.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-waterfalls/falls_fossils_forests_and_fleeces_audio_trail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-waterfalls/top-three-places-waterfalls.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-waterfalls/waterfall-country-geology-history.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-waterfalls/waterfall-country-trees-plants-wildlife.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-waterfalls/waterfall-country-walking-trails.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit-waterfalls/waterfall-country.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore-visit/agincourt.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore/12things.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/explore/competition.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/membership.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/my-account/edit-my-profile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/my-account/my-itinerary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/my-account/my_business.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-getting-around/beacons-bus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-getting-around/buses-and-trains.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-getting-around/taxis-transfer-baggage-bikes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-stay/bed-and-breakfast.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-stay/camping-glamping-caravanning.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-stay/green-accommodation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-stay/hostels-backpackers-bunkhouses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-stay/hotels.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-stay/self-catering.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-visitor-information-craig-y-nos-country-park-visitor-centre/adelina_patti_exhibition.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-visitor-information-craig-y-nos-country-park-visitor-centre/children_of_craig_y_nos_exhibition.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-visitor-information-national-park-visitor-centre/npvc_events.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-visitor-information/abergavenny-tourist-information.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-visitor-information/ambassadors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-visitor-information/brecon-tourist-information.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-visitor-information/crickhowell-resource-information-centre.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-visitor-information/cwm-porth-information-point.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-visitor-information/hay-tourist-information.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-visitor-information/llandovery-tourist-information.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-visitor-information/talgarth-information-resource-centre.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-visitor-information/visitor_survey.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-visitor-information/visitorcharter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan-visitor-information/waterfalls-centre-pontneddfechan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan/getting-here.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan/weather.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/plan/webcams.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/website/shop.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/css/style.css" afterPath="$PROJECT_DIR$/root/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/js/main.js" afterPath="$PROJECT_DIR$/root/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/js/main.min.js" afterPath="$PROJECT_DIR$/root/js/main.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/less/main.less" afterPath="$PROJECT_DIR$/root/less/main.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/scripts/translation-manager-plugin.js" afterPath="$PROJECT_DIR$/root/scripts/translation-manager-plugin.js" />
     </list>
     <ignored path="translation-manager.iws" />
@@ -27,15 +377,25 @@
     <favorites_list name="translation-manager" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="translation-manager-plugin.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/root/scripts/translation-manager-plugin.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="55" column="41" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
+            <state relative-caret-position="442">
+              <caret line="126" column="49" selection-start-line="126" selection-start-column="49" selection-end-line="126" selection-end-column="49" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/root/less/main.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -59,6 +419,22 @@
         <option value="$PROJECT_DIR$/root/scripts/init.js" />
         <option value="$PROJECT_DIR$/root/js/main.js" />
         <option value="$PROJECT_DIR$/root/site/explore/about/history.html" />
+        <option value="$PROJECT_DIR$/root/website/explore-about-stories/alexander-cordell.html" />
+        <option value="$PROJECT_DIR$/root/website/explore-about-stories/wellington-bomber.html" />
+        <option value="$PROJECT_DIR$/root/website/explore-about/national-parks.html" />
+        <option value="$PROJECT_DIR$/root/website/explore-about/history.html" />
+        <option value="$PROJECT_DIR$/root/website/explore-about/prehistoric-peoples.html" />
+        <option value="$PROJECT_DIR$/root/website/explore-about/reasons-to-visit.html" />
+        <option value="$PROJECT_DIR$/root/php/init.php" />
+        <option value="$PROJECT_DIR$/root/website/explore-about-stories/alexander-cordell.php" />
+        <option value="$PROJECT_DIR$/root/website/explore-about-stories/wellington-bomber.php" />
+        <option value="$PROJECT_DIR$/root/website/explore-about/history.php" />
+        <option value="$PROJECT_DIR$/root/data.txt" />
+        <option value="$PROJECT_DIR$/root/data.html" />
+        <option value="$PROJECT_DIR$/root/save.php" />
+        <option value="$PROJECT_DIR$/root/website/explore-about/prehistoric-peoples-welsh.html" />
+        <option value="$PROJECT_DIR$/root/website/index.php" />
+        <option value="$PROJECT_DIR$/root/less/main.less" />
         <option value="$PROJECT_DIR$/root/scripts/translation-manager-plugin.js" />
       </list>
     </option>
@@ -130,8 +506,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -163,6 +539,24 @@
               <option name="myItemId" value="translation-manager" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="root" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="website" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="translation-manager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="translation-manager" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -178,7 +572,11 @@
     <property name="js.buildTools.grunt.grunt-cli.package" value="C:\Users\Admin\AppData\Roaming\npm\node_modules\grunt-cli" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Apache24\htdocs\translation-manager\root" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Apache24\htdocs\translation-manager\root" />
       <recent name="C:\Apache24\htdocs\translation-manager\root\scripts" />
       <recent name="C:\Apache24\htdocs\translation-manager\root\site" />
     </key>
@@ -238,26 +636,28 @@
       <workItem from="1466167064163" duration="10021000" />
       <workItem from="1466412176190" duration="2579000" />
       <workItem from="1466497923499" duration="613000" />
-      <workItem from="1466502077362" duration="4523000" />
+      <workItem from="1466502077362" duration="5470000" />
+      <workItem from="1466584729965" duration="17644000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17736000" />
+    <option name="totallyTimeSpent" value="36327000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18443497" sideWeight="0.67234045" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19349681" sideWeight="0.6655949" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18443497" sideWeight="0.32765958" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19349681" sideWeight="0.33440515" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22186495" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.244373" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1982851" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869378" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32762313" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -265,7 +665,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22400858" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -295,6 +694,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/root/scripts/translation-manager-plugin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/root/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -307,7 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4879">
           <caret line="287" column="283" selection-start-line="287" selection-start-column="283" selection-end-line="287" selection-end-column="283" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -333,7 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4879">
           <caret line="287" column="283" selection-start-line="287" selection-start-column="283" selection-end-line="287" selection-end-column="283" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -359,7 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -409,6 +815,125 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/website/explore-about-stories/alexander-cordell.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="183" selection-start-line="11" selection-start-column="183" selection-end-line="11" selection-end-column="183" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/website/explore-about-stories/wellington-bomber.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="76" selection-start-line="26" selection-start-column="76" selection-end-line="26" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/website/explore-do/fishing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="65" column="18" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/website/explore-about/national-parks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/website/explore-about/history.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/website/explore-about/reasons-to-visit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/website/explore-about/prehistoric-peoples.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/website/explore-do-cycling-mountain-biking-calorie_counted_routes/http~~~www~breconbeacons~org~explore~things_to_do~cycling_mountain_biking~calorie_counted_routes~around_the_shores_of_llangorse_lake.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/website/explore-do-cycling-mountain-biking-calorie_counted_routes/around_the_shores_of_llangorse_lake.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/vendors/jquery/dist/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/website/explore-about-stories/wellington-bomber.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="76" selection-start-line="26" selection-start-column="76" selection-end-line="26" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/website/explore-about-stories/alexander-cordell.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/data.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/php/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -421,10 +946,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/root/website/explore-about/history.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="313" selection-start-line="10" selection-start-column="313" selection-end-line="10" selection-end-column="313" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/website/explore-about/prehistoric-peoples-welsh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/website/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+          <folding>
+            <element signature="n#getListOfPathNamesOfDirectory#0;n#!!top" expanded="false" />
+            <element signature="n#setupDirectory#0;n#!!top" expanded="false" />
+            <element signature="n#getFileName#0;n#!!top" expanded="false" />
+            <marker date="1466601497957" expanded="true" signature="2330:2426" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/save.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/less/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/website/membership.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/website/shop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/root/scripts/translation-manager-plugin.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="55" column="41" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
+        <state relative-caret-position="442">
+          <caret line="126" column="49" selection-start-line="126" selection-start-column="49" selection-end-line="126" selection-end-column="49" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
